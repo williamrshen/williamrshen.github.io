@@ -12,8 +12,7 @@ body {
 	background: #122922;
 	color: white;
 	font-family: "outfit";
+	scroll-snap-type: y mandatory;
+	overflow-y: scroll;
 }
-/*
-	background: url("./Assets/shapesblur.png");
-	background-size: 100%;
-  */
+

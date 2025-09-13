@@ -7,8 +7,8 @@ const Dropdown = () => {
     <div className="menu">
         <div className="button">resources</div>
         <div className="options">
-            <Link className="option" to="/website/cubing">cubing</Link>
-            <Link className="option" to="/website/coding">coding</Link>
+            <Link className="option" to="/cubing">cubing</Link>
+            <Link className="option" to="/coding">coding</Link>
         </div>
     </div>
   )

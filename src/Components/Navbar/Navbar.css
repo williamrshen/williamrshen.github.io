@@ -1,23 +1,25 @@
 .navbar {
     display: flex;
+    flex-direction: column;
+    top: 50%;
+    left: 3%;
+    transform: translateY(-50%);
     align-items: center;
-    justify-content: space-between;
-    margin: 20px 50px;
-    position: sticky;
-    top: 0px;
-    background: linear-gradient(to top, rgba(18, 41, 34, 1) 30%, rgba(78, 119, 83, 1));
-    border-radius: 20px;
-    border: 5px solid rgba(78, 119, 83, 1);
-    padding: 0px 40px;
+    position: fixed;
+    background: linear-gradient(to top, rgba(18, 41, 34, 1) 30%, rgb(58, 88, 61));
+    border-radius: 10px;
+    border: 3px solid rgb(115, 160, 120);
+    padding: 7px 10px;
     z-index: 999;
-    height: 100px;
+
 }
 
 .nav-menu {
     display: flex;
+    flex-direction: column;
     align-items: center;
     list-style: none;
-    gap: 30px;
+    gap: 10px;
     font-size: 20px;
 }
 
@@ -67,4 +69,6 @@
 .navbar p {
     padding: 7px 20px;
 }
+
+
 

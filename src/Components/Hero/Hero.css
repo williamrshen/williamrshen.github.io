@@ -3,6 +3,8 @@
     align-items: center;
     flex-direction: column;
     gap: 30px;
+    padding-top: 7%;
+
 }
 
 .hero h1 {
