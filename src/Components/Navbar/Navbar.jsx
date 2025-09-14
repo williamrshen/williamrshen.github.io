@@ -21,13 +21,13 @@ const Navbar = () => {
     <div className='navbar'>
         {/*<img src={ul} alt="" />*/}
         <ul className="nav-menu">
-            <li><AnchorLink className='anchor-link' offset={150} href='#home'><Link className='anchor-link' to="/"><p onClick={()=>setMenu("home")}><FiHome /></p></Link></AnchorLink> 
+            <li><a className='anchor-link' href='#home'><p onClick={()=>setMenu("home")}><FiHome /></p></a> 
                 {menu==="home" ? <img src={new_underline}/> : <></>}</li>
-            <li><AnchorLink className='anchor-link' offset={100} href='#about'><Link className='anchor-link' to="/"><p onClick={()=>setMenu("about")}><PiDetective /></p></Link></AnchorLink> 
+            <li><a className='anchor-link' href='#about'><p onClick={()=>setMenu("about")}><PiDetective /></p></a> 
                 {menu==="about" ? <img src={new_underline}/> : <></>}</li>
-            <li><AnchorLink className='anchor-link' offset={100} href='#portfolio'><Link className='anchor-link' to="/"><p onClick={()=>setMenu("portfolio")}><FaRegFolderOpen /></p></Link></AnchorLink> 
+            <li><a className='anchor-link' href='#portfolio'><p onClick={()=>setMenu("portfolio")}><FaRegFolderOpen /></p></a> 
                 {menu==="portfolio" ? <img src={new_underline}/> : <></>}</li>
-            <li><AnchorLink className='anchor-link' offset={100} href='#contact'><Link className='anchor-link' to="/"><p onClick={()=>setMenu("contact")}><MdAlternateEmail /></p></Link></AnchorLink> 
+            <li><a className='anchor-link' href='#contact'><p onClick={()=>setMenu("contact")}><MdAlternateEmail /></p></a> 
                 {menu==="contact" ? <img src={new_underline}/> : <></>}</li>
             
             
