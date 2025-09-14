@@ -1,7 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import profile_img from '../../assets/profile_img.svg'
-import orangutan from '../../assets/orangutan.jpg'
+import hero from '../../assets/water.png'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import resume from "../../assets/Resume.pdf"
 
@@ -9,7 +8,7 @@ import resume from "../../assets/Resume.pdf"
 const Hero = () => {
   return (
     <div id='home' className='hero'>
-        <img src={orangutan} alt=""></img>
+        <img src={hero} alt=""></img>
         <h1>hi. i'm <span>william shen</span></h1>
         <h2>aka uselessleaf</h2>
         <p>part time - coder, cuber, athlete, musician, gamer</p>

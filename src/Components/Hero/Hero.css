@@ -4,7 +4,6 @@
     flex-direction: column;
     gap: 30px;
     padding-top: 7%;
-
 }
 
 .hero h1 {
@@ -80,10 +79,10 @@
 }
 
 .hero img {
-    margin-top: 10px;
+    margin-top: 8px;
     border-radius: 23%;
-    width: 40%;
-    height: auto;
+    width: auto;
+    height: 400px;
 }
 
 

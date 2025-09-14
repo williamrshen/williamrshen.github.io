@@ -12,7 +12,15 @@ body {
 	background: #122922;
 	color: white;
 	font-family: "outfit";
-	scroll-snap-type: y mandatory;
-	overflow-y: scroll;
+
 }
 
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("./Assets/orbit.gif") center / cover no-repeat;
+  opacity: 0.1;
+  z-index: -1;
+  filter: hue-rotate(120deg);
+}
