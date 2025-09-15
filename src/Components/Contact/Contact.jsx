@@ -72,7 +72,7 @@ const Contact = () => {
 						</div>
 					</div>
 				</div>
-				<form onSubmit={onSubmit} className="contact-right">
+				{/* <form onSubmit={onSubmit} className="contact-right">
 					<label htmlFor="">your name</label>
 					<input type="text" placeholder="enter your name" name="name" />
 					<label htmlFor="">your email</label>
@@ -86,7 +86,7 @@ const Contact = () => {
 					<button type="submit" className="contact-submit">
 						submit
 					</button>
-				</form>
+				</form> */}
 			</div>
 		</div>
 	);

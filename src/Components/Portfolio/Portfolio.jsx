@@ -8,7 +8,7 @@ const Portfolio = () => {
 	return (
 		<div id="portfolio" className="portfolio">
 			<div className="portfolio-title">
-				<h1>what i've done</h1>
+				<h1>my doings</h1>
 				<img src={rectangle} alt="" />
 			</div>
 			<div className="portfolio-container">
