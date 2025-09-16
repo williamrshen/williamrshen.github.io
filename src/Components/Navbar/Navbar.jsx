@@ -38,7 +38,7 @@ const Navbar = () => {
 		<div className="navbar">
 			<ul className="nav-menu">
 				<li className={menu === "home" ? "active" : ""}>
-					<a className="anchor-link" href="#home">
+					<a className="anchor-link" href="/#home">
 						<p>
 							<FiHome />
 						</p>
@@ -46,7 +46,7 @@ const Navbar = () => {
 					{menu === "home" && <img src={new_underline} alt="" />}
 				</li>
 				<li className={menu === "about" ? "active" : ""}>
-					<a className="anchor-link" href="#about">
+					<a className="anchor-link" href="/#about">
 						<p>
 							<PiDetective />
 						</p>
@@ -54,7 +54,7 @@ const Navbar = () => {
 					{menu === "about" && <img src={new_underline} alt="" />}
 				</li>
 				<li className={menu === "portfolio" ? "active" : ""}>
-					<a className="anchor-link" href="#portfolio">
+					<a className="anchor-link" href="/#portfolio">
 						<p>
 							<FaRegFolderOpen />
 						</p>
@@ -62,7 +62,7 @@ const Navbar = () => {
 					{menu === "portfolio" && <img src={new_underline} alt="" />}
 				</li>
 				<li className={menu === "contact" ? "active" : ""}>
-					<a className="anchor-link" href="#contact">
+					<a className="anchor-link" href="/#contact">
 						<p>
 							<MdAlternateEmail />
 						</p>
