@@ -27,7 +27,6 @@ const Footer = () => {
     <div className='footer'>
         <div className="footer-top">
             <div className="footer-top-left">
-                {/* <img src={ul} alt="" /> */}
                 <div>
                     <FaCross /> <p>soli deo gloria</p>
                 </div>
@@ -35,13 +34,6 @@ const Footer = () => {
             <div className="footer-top-right">
                 <p>But he said to me, <span>“My grace is sufficient for you, for my power is made perfect in weakness.”</span> Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me. <br />
                     2 Corinthians 12:9</p>
-                {/* <div className="footer-email-input">
-                    <img src={user_icon} alt="" />
-                    <input type="email" placeholder='enter your email' />
-                </div>
-                <div className="footer-subscribe">
-                    subscribe
-                </div> */}
             </div>
         </div>
         <hr />

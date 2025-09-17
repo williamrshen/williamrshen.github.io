@@ -1,29 +1,33 @@
 .snap-container {
-  display: flex;
+  display: inline-flex;  
   flex-direction: row;
-  overflow-x: scroll;
+  align-items: flex-start;    
+  overflow-x: auto;           
   overflow-y: hidden;
-  height: 100vh;
   width: 100vw;
   scroll-snap-type: x mandatory;
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
+  vertical-align: top;  
+  scrollbar-width: none;      
 }
-
 
 .snap-section {
-  flex: 0 0 100vw;       
-  height: 100vh;
+  flex: 0 0 100vw;            
   scroll-snap-align: start;
   box-sizing: border-box;
+  align-self: flex-start;    
 }
 
+.snap-container::-webkit-scrollbar {
+  display: none;
+}
 
 section.center-content {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 40px 20px;
 }
-
 
 .fade-in {
   opacity: 0;

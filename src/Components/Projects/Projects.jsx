@@ -6,13 +6,13 @@ const items = [
   {
     title: "coding",
     description: "all around coder. frontend + ml/ai focus",
-    thumbnail: "https://via.placeholder.com/300x200", // replace with your image
+    thumbnail: "", 
     link: "/coding",
   },
   {
     title: "cubing",
     description: "3x3 main. single: 4.89, ao5: 7.62, ao12: 8.63",
-    thumbnail: "https://via.placeholder.com/300x200",
+    thumbnail: "/src/assets/cubing.png",
     link: "/cubing",
   },
   {
@@ -20,6 +20,12 @@ const items = [
     description: "mostly table tennis",
     thumbnail: "https://via.placeholder.com/300x200",
     link: "/sports",
+  },
+  {
+    title: "music",
+    description: "casual. piano + guitar",
+    thumbnail: "/src/assets/cubing.png",
+    link: "/music",
   },
 ];
 
