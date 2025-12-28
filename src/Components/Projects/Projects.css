@@ -1,15 +1,12 @@
 .projects {
+	padding: 10rem 2rem;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 	gap: 80px;
 	margin: 80px 170px;
-}
-
-.projects a {
-	text-decoration: none;
-	color: white;
+	padding-top: 3%;
 }
 
 .projects-title {
@@ -18,87 +15,66 @@
 
 .projects-title h1 {
 	padding: 0px 30px;
-	font-size: 80px;
+	font-size: 50px;
 	font-weight: 600;
 }
 
-.projects-title img {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	z-index: -1;
-}
-
-
-.projects-grid {
+.projects-columns {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr); /* 3 columns */
-	gap: 30px;
-	width: 100%;
+	grid-template-columns: 1fr auto 1fr;
+	max-width: 1100px;
+	margin: 0 auto;
+	align-items: center; /* vertical centering */
+	gap: 3rem;
 }
 
-
-.projects-card {
-	background: rgba(18, 41, 34, 0.9);
-	border-radius: 15px;
-	padding: 20px;
-	text-align: center;
-	border: 2px solid rgb(115, 160, 120);
-	transition: transform 0.3s ease, box-shadow 0.3s ease;
+.projects-column {
+	display: flex;
+	flex-direction: column;
+	gap: 1.25rem;
 }
 
-.projects-card:hover {
-	transform: translateY(-8px);
-	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-}
-
-.projects-thumbnail {
-	width: 100%;
-	height: auto;
-	border-radius: 10px;
-	margin-bottom: 15px;
-}
-
-.projects-card h2 {
-	margin: 10px 0;
+.column-header {
 	font-size: 1.5rem;
+	margin-bottom: 0.5rem;
 }
 
-.projects-card p {
-	font-size: 0.95rem;
-	color: #ccc;
-	margin-bottom: 15px;
+.projects-divider {
+	width: 1px;
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.2);
 }
 
-.projects-button {
-	display: inline-block;
-	padding: 10px 20px;
-	background: linear-gradient(267deg, #488B49, #acbf71);
-	color: white;
+.info-box {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	padding: 1rem 1.25rem;
 	border-radius: 10px;
+	background: rgba(255, 255, 255, 0.05);
+	transition: transform 0.2s ease, background 0.2s ease;
 	text-decoration: none;
-	transition: 0.3s ease;
+	color: inherit;
+	cursor: pointer;
 }
 
-.projects-button:hover {
-	background: linear-gradient(267deg, #366b38, #8fa358);
+.info-box:hover {
+	transform: translateY(-3px);
+	background: rgba(255, 255, 255, 0.08);
 }
 
-
-@media (max-width: 1024px) {
-	.projects-grid {
-		grid-template-columns: repeat(2, 1fr); 
-	}
+.info-icon {
+	font-size: 1.75rem;
+	flex-shrink: 0;
 }
 
-@media (max-width: 768px) {
-	.projects-grid {
-		grid-template-columns: 1fr; 
-	}
-	.projects-title h1 {
-		font-size: 48px; 
-	}
-	.projects {
-		margin: 40px 20px; 
-	}
+.info-box h3 {
+	margin: 0;
+	font-size: 1.1rem;
+}
+
+.info-box p {
+	margin: 0.25rem 0 0;
+	font-size: 0.9rem;
+	opacity: 0.85;
 }

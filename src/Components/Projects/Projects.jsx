@@ -1,51 +1,88 @@
-import { React, useState } from "react";
+import React from "react";
 import "./Projects.css";
-import rectangle from "../../assets/rectangle.svg";
+import { Link } from "react-router-dom";
 
-const items = [
-  {
-    title: "coding",
-    description: "all around coder. frontend + ml/ai focus",
-    thumbnail: "", 
-    link: "/coding",
-  },
-  {
-    title: "cubing",
-    description: "3x3 main. single: 4.89, ao5: 7.62, ao12: 8.63",
-    thumbnail: "/src/assets/cubing.png",
-    link: "/cubing",
-  },
-  {
-    title: "sports",
-    description: "mostly table tennis",
-    thumbnail: "https://via.placeholder.com/300x200",
-    link: "/sports",
-  },
-  {
-    title: "music",
-    description: "casual. piano + guitar",
-    thumbnail: "/src/assets/cubing.png",
-    link: "/music",
-  },
-];
+import {
+	FaBriefcase,
+	FaCode,
+	FaCube,
+	FaTableTennis,
+	FaMusic,
+	FaGamepad,
+} from "react-icons/fa";
 
 const Projects = () => {
 	return (
 		<div id="projects" className="projects">
 			<div className="projects-title">
-				<h1>my doings</h1>
-				<img src={rectangle} alt="" />
+				<h1>works</h1>
 			</div>
-			<div className="projects-grid">
-        {items.map((proj, index) => (
-          <div key={index} className="projects-card">
-            <img src={proj.thumbnail} alt={proj.title} className="projects-thumbnail" />
-            <h2>{proj.title}</h2>
-            <p>{proj.description}</p>
-            <a href={proj.link} className="projects-button">learn more</a>
-          </div>
-        ))}
-      </div>
+			<div className="projects-columns">
+				{/* LEFT COLUMN */}
+				<div className="projects-column">
+					<h2 className="column-header">experience</h2>
+
+					<div className="info-box">
+						<FaBriefcase className="info-icon" />
+						<div>
+							<h3>work</h3>
+							<p>
+								internships, technical roles, and real-world software experience
+							</p>
+						</div>
+					</div>
+
+					<div className="info-box">
+						<FaCode className="info-icon" />
+						<div>
+							<h3>projects</h3>
+							<p>
+								personal + academic projects spanning frontend, backend, and ML
+							</p>
+						</div>
+					</div>
+				</div>
+
+				{/* DIVIDER */}
+				<div className="projects-divider" />
+
+				{/* RIGHT COLUMN */}
+				<div className="projects-column">
+					<h2 className="column-header">hobbies</h2>
+
+					<Link to="/cubing" className="info-box">
+						<FaCube className="info-icon" />
+						<div>
+							<h3>cubing</h3>
+							<p>3×3 main — speedsolving and casual practice</p>
+						</div>
+					</Link>
+
+					<Link to="/sports" className="info-box">
+						<FaTableTennis className="info-icon" />
+						<div>
+							<h3>sports</h3>
+							<p>mostly table tennis, casually competitive</p>
+						</div>
+					</Link>
+
+					<Link to="/music" className="info-box">
+						<FaMusic className="info-icon" />
+						<div>
+							<h3>music</h3>
+							<p>casual piano and guitar</p>
+						</div>
+					</Link>
+
+					<Link to="/gaming" className="info-box">
+						<FaGamepad className="info-icon" />
+						<div>
+							<h3>gaming</h3>
+							<p>relaxation + strategy games</p>
+						</div>
+					</Link>
+				</div>
+			</div>
 		</div>
 	);
 };
