@@ -4,8 +4,9 @@
     align-items: center;
     justify-content: center;
     gap: 80px;
-    margin: 80px 170px;
-    padding-top: 3%;
+    min-height: 100vh;
+    padding: 0 170px;
+    box-sizing: border-box;
 }
 
 .about-title {

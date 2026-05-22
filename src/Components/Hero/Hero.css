@@ -1,9 +1,11 @@
 .hero {
     display: flex;
     align-items: center;
+    justify-content: center;
     flex-direction: column;
     gap: 30px;
-    padding-top: 7%;
+    min-height: 100vh;
+    box-sizing: border-box;
 }
 
 .hero h1 {
