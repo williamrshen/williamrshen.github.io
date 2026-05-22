@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Hero from "./Components/Hero/Hero";
 import About from "./Components/About/About";
-import Portfolio from "./Components/Projects/Projects";
+import Projects from "./Components/Projects/Projects";
 import Contact from "./Components/Contact/Contact";
 import "./Home.css";
 
@@ -39,7 +39,7 @@ const Home = () => {
 				<About />
 			</section>
 			<section id="portfolio" className="fade-in snap-section">
-				<Portfolio />
+				<Projects />
 			</section>
 			<section id="contact" className="fade-in snap-section">
 				<Contact />
