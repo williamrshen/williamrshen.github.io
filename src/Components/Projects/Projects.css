@@ -95,6 +95,16 @@
 	flex-shrink: 0;
 }
 
+.list-thumb--placeholder {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(255, 255, 255, 0.08);
+	font-size: 1.1rem;
+	font-weight: 600;
+	color: rgba(255, 255, 255, 0.45);
+}
+
 .list-icon {
 	font-size: 1.4rem;
 	flex-shrink: 0;
@@ -151,6 +161,17 @@
 	max-height: 160px;
 	object-fit: cover;
 	border-radius: 8px;
+}
+
+.detail-hero--placeholder {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(255, 255, 255, 0.05);
+	font-size: 3rem;
+	font-weight: 600;
+	color: rgba(255, 255, 255, 0.18);
+	min-height: 120px;
 }
 
 .detail-hero-icon {

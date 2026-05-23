@@ -1,50 +1,9 @@
 import React, { useState, useEffect } from "react";
 import "./Projects.css";
 import { Link } from "react-router-dom";
-import mywork_data from "../../assets/mywork_data";
-
-import {
-	FaCube,
-	FaTableTennis,
-	FaMusic,
-	FaGamepad,
-} from "react-icons/fa";
+import { work_data, project_data, hobbies_data } from "../../assets/mywork_data";
 
 const TABS = ["work", "projects", "hobbies"];
-
-const hobbies = [
-	{
-		to: "/cubing",
-		Icon: FaCube,
-		label: "cubing",
-		sub: "3×3 main — speedsolving and casual practice",
-		para: "primarily focused on 3×3 speedsolving using CFOP. enjoy casual solves and working on improving times. occasionally explore other puzzle types.",
-	},
-	{
-		to: "/sports",
-		Icon: FaTableTennis,
-		label: "sports",
-		sub: "mostly table tennis, casually competitive",
-		para: "play table tennis regularly and compete casually. enjoy the quick reflexes and strategy the game requires. also play other sports recreationally.",
-	},
-	{
-		to: "/music",
-		Icon: FaMusic,
-		label: "music",
-		sub: "casual piano and guitar",
-		para: "play piano and guitar as a hobby. enjoy learning songs by ear and picking up new pieces. mostly self-taught on guitar.",
-	},
-	{
-		to: "/gaming",
-		Icon: FaGamepad,
-		label: "gaming",
-		sub: "relaxation + strategy games",
-		para: "enjoy strategy and relaxation games in my spare time. games are a way to unwind and challenge myself in different ways.",
-	},
-];
-
-const workItems = mywork_data.filter((d) => d.category === "work");
-const projectItems = mywork_data.filter((d) => d.category === "project");
 
 const Projects = () => {
 	const [activeTab, setActiveTab] = useState("work");
@@ -55,9 +14,9 @@ const Projects = () => {
 	}, [activeTab]);
 
 	const getItems = () => {
-		if (activeTab === "work") return workItems;
-		if (activeTab === "projects") return projectItems;
-		return hobbies;
+		if (activeTab === "work") return work_data;
+		if (activeTab === "projects") return project_data;
+		return hobbies_data;
 	};
 
 	const items = getItems();
@@ -108,7 +67,10 @@ const Projects = () => {
 								className={`list-item${isActive ? " list-item--active" : ""}`}
 								onClick={() => setSelectedIndex(i)}
 							>
-								<img src={item.img} alt={item.name} className="list-thumb" />
+								{item.img
+									? <img src={item.img} alt={item.name} className="list-thumb" />
+									: <div className="list-thumb list-thumb--placeholder">{item.name[0]}</div>
+								}
 								<div className="list-text">
 									<span className="list-time">{item.time}</span>
 									<span className="list-name">{item.name}</span>
@@ -135,11 +97,10 @@ const Projects = () => {
 						</>
 					) : (
 						<>
-							<img
-								src={selected.img}
-								alt={selected.name}
-								className="detail-hero"
-							/>
+							{selected.img
+								? <img src={selected.img} alt={selected.name} className="detail-hero" />
+								: <div className="detail-hero detail-hero--placeholder">{selected.name[0]}</div>
+							}
 							<div>
 								<p className="detail-time">{selected.time}</p>
 								<h2 className="detail-title">{selected.name}</h2>

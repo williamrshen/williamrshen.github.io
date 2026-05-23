@@ -15,7 +15,7 @@ const Contact = () => {
 			<div className="contact-section">
 				<div className="contact-grid">
 					<a
-						href="mailto:williamshen85@gmail.com"
+						href="mailto:w22shen@uwaterloo.ca"
 						target="_blank"
 						className="contact-card"
 					>
