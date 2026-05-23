@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useLocation } from "react-router-dom";
 import "./Navbar.css";
 import new_underline from "../../assets/underline.png";
 import { FiHome } from "react-icons/fi";
@@ -8,31 +9,31 @@ import { MdAlternateEmail } from "react-icons/md";
 
 const Navbar = () => {
 	const [menu, setMenu] = useState("home");
+	const location = useLocation();
 
 	useEffect(() => {
-		const sections = document.querySelectorAll("section"); // assumes each part has <section id="...">
+		const hash = location.hash.replace("#", "");
+		if (hash) setMenu(hash);
+
+		const sections = document.querySelectorAll("section");
 		const options = {
 			root: null,
 			rootMargin: "0px",
-			threshold: 0.5, // triggers when 50% of section is visible
+			threshold: 0.5,
 		};
 
 		const observer = new IntersectionObserver((entries) => {
 			entries.forEach((entry) => {
 				if (entry.isIntersecting) {
-					setMenu(entry.target.id); // update menu with section id
+					setMenu(entry.target.id);
 				}
 			});
 		}, options);
 
-		sections.forEach((section) => {
-			observer.observe(section);
-		});
+		sections.forEach((section) => observer.observe(section));
 
-		return () => {
-			sections.forEach((section) => observer.unobserve(section));
-		};
-	}, []);
+		return () => observer.disconnect();
+	}, [location.pathname]);
 
 	return (
 		<div className="navbar">
@@ -42,6 +43,7 @@ const Navbar = () => {
 						<p>
 							<FiHome />
 						</p>
+						<span className="nav-label">Home</span>
 					</a>
 					{menu === "home" && <img src={new_underline} alt="" />}
 				</li>
@@ -50,6 +52,7 @@ const Navbar = () => {
 						<p>
 							<PiDetective />
 						</p>
+						<span className="nav-label">About</span>
 					</a>
 					{menu === "about" && <img src={new_underline} alt="" />}
 				</li>
@@ -58,6 +61,7 @@ const Navbar = () => {
 						<p>
 							<FaRegFolderOpen />
 						</p>
+						<span className="nav-label">Portfolio</span>
 					</a>
 					{menu === "portfolio" && <img src={new_underline} alt="" />}
 				</li>
@@ -66,6 +70,7 @@ const Navbar = () => {
 						<p>
 							<MdAlternateEmail />
 						</p>
+						<span className="nav-label">Contact</span>
 					</a>
 					{menu === "contact" && <img src={new_underline} alt="" />}
 				</li>

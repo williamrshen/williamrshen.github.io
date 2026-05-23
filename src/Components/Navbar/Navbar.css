@@ -11,16 +11,24 @@
     border: 3px solid rgb(115, 160, 120);
     padding: 7px 10px;
     z-index: 999;
+    width: 74px;
+    overflow: hidden;
+    transition: width 0.3s ease;
+    box-sizing: border-box;
+}
 
+.navbar:hover {
+    width: 180px;
 }
 
 .nav-menu {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     list-style: none;
     gap: 10px;
     font-size: 20px;
+    width: 100%;
 }
 
 .nav-connect {
@@ -47,12 +55,12 @@
     gap: 5px;
     cursor: pointer;
     border-radius: 10px;
-
     transition: background-color 0.1s ease;
+    width: 100%;
 }
 
 .nav-menu li.active {
-  background-color: rgba(51, 77, 54, 0.7); 
+  background-color: rgba(51, 77, 54, 0.7);
   border-radius: 10px;
 }
 
@@ -72,16 +80,28 @@
 .anchor-link {
     text-decoration: none;
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .navbar p {
-    padding: 7px 20px;
+    padding: 7px 10px;
 }
 
+.nav-label {
+    box-sizing: border-box;
+    width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    opacity: 0;
+    font-size: 16px;
+    padding-left: 0;
+    transition: width 0.3s ease, opacity 0.3s ease 0.1s, padding-left 0.3s ease;
+}
 
-
-
-
-
-
-
+.navbar:hover .nav-label {
+    width: 100px;
+    opacity: 1;
+    padding-left: 8px;
+}
