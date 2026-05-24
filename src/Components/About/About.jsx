@@ -17,11 +17,11 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-paragraph">
-                    <p>hi! i'm william shen, second year mathematics student at the university of waterloo. looking to pursue a specialization in computational mathematics, along with a minor
+                    <p>hi! i'm william shen, third year mathematics student at the university of waterloo. currently pursuing a specialization in computational mathematics, along with a minor
                         in combinatorics and optimization. nice to meet you!
                         <br /> <br />
                         
-                        in my free time, i enjoy playing video games like tetris and valorant. i also enjoy speedcubing and speedstacking :)
+                        i like to do a lot of things in my free time; here are some of them :)
                     </p>
                 </div>
                 <div className="about-skills">

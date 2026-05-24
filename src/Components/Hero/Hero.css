@@ -56,7 +56,12 @@
     border-radius: 20px;
     font-size: 20px;
     background: linear-gradient(267deg, #acbf71, #59ba73);
+    border: 2px solid transparent;
     cursor: pointer;
+}
+
+.hero-connect a.anchor-link {
+    padding: 0;
 }
 
 .hero-resume {
