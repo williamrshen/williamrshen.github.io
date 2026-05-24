@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import "./Navbar.css";
-import new_underline from "../../assets/underline.png";
 import { FiHome } from "react-icons/fi";
 import { PiDetective } from "react-icons/pi";
 import { FaRegFolderOpen } from "react-icons/fa";
@@ -39,40 +38,28 @@ const Navbar = () => {
 		<div className="navbar">
 			<ul className="nav-menu">
 				<li className={menu === "home" ? "active" : ""}>
-					<a className="anchor-link" href="/#home">
-						<p>
-							<FiHome />
-						</p>
+					<a className="anchor-link" href="/#home" aria-label="Go to home section">
+						<FiHome />
 						<span className="nav-label">Home</span>
 					</a>
-					{menu === "home" && <img src={new_underline} alt="" />}
 				</li>
 				<li className={menu === "about" ? "active" : ""}>
-					<a className="anchor-link" href="/#about">
-						<p>
-							<PiDetective />
-						</p>
+					<a className="anchor-link" href="/#about" aria-label="Go to about section">
+						<PiDetective />
 						<span className="nav-label">About</span>
 					</a>
-					{menu === "about" && <img src={new_underline} alt="" />}
 				</li>
 				<li className={menu === "portfolio" ? "active" : ""}>
-					<a className="anchor-link" href="/#portfolio">
-						<p>
-							<FaRegFolderOpen />
-						</p>
+					<a className="anchor-link" href="/#portfolio" aria-label="Go to portfolio section">
+						<FaRegFolderOpen />
 						<span className="nav-label">Portfolio</span>
 					</a>
-					{menu === "portfolio" && <img src={new_underline} alt="" />}
 				</li>
 				<li className={menu === "contact" ? "active" : ""}>
-					<a className="anchor-link" href="/#contact">
-						<p>
-							<MdAlternateEmail />
-						</p>
+					<a className="anchor-link" href="/#contact" aria-label="Go to contact section">
+						<MdAlternateEmail />
 						<span className="nav-label">Contact</span>
 					</a>
-					{menu === "contact" && <img src={new_underline} alt="" />}
 				</li>
 			</ul>
 		</div>
