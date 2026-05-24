@@ -41,9 +41,10 @@ export const work_data = [
 		link: "https://www.codeninjas.com/",
 		para: "taught game development coding curriculum on various platforms such as Microsoft MakeArcade, Roblox, and Unity. currently working on some app development",
 		bullets: [
-			"taught game development curriculum on MakeArcade, Roblox, and Unity",
-			"mentored students through game design and basic programming concepts",
-			"currently building internal app development projects",
+			"Developed full-stack app using Next.js, Tailwind CSS, and Firebase to display student session statistics—implemented CRUD functions on admin page, and grid display on session display page",
+			"Taught various levels of game development (scripting, tilemap and sprite design, etc.) on platforms such as Microsoft MakeArcade, Roblox Studio, and Unity, to 70+ kids aged 5-12 every week",
+			"Updated incomplete product information on Shopify using Shopify API for 400+ items automatically",
+			"Standardized formatting of human inputted times on Excel spreadsheet automatically using regex and csv in Python, to improve data entry time by 109%",
 		],
 		tags: ["Unity", "Roblox", "JavaScript", "C#", "Game Development"],
 	},
