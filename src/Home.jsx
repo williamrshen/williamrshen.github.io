@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 import Hero from "./Components/Hero/Hero";
 import About from "./Components/About/About";
 import Projects from "./Components/Projects/Projects";
@@ -6,6 +7,18 @@ import Contact from "./Components/Contact/Contact";
 import "./Home.css";
 
 const Home = () => {
+	const location = useLocation();
+
+	useEffect(() => {
+		if (!location.hash) return;
+		const id = location.hash.slice(1);
+		const element = document.getElementById(id);
+		const container = document.querySelector(".snap-container");
+		if (element && container) {
+			container.scrollTo({ left: element.offsetLeft, behavior: "instant" });
+		}
+	}, [location.hash]);
+
 	useEffect(() => {
 		const sections = document.querySelectorAll(".fade-in");
 
