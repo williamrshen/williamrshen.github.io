@@ -1,14 +1,21 @@
 import youtube_img from "../assets/uselessleaf.jpg";
+import resume from "./Resume.pdf";
 import dmoj_img from "../assets/dmoj.svg";
 import job1 from "../assets/youngengineers.png";
 import job2 from "../assets/codeninjas.jpg";
 import snowballistic from "../assets/snowballistic small.png";
 import {
+	FaUser,
 	FaCube,
 	FaTableTennis,
 	FaMusic,
 	FaGamepad,
 } from "react-icons/fa";
+import { 
+	LuPickaxe,
+	LuBlocks
+ } from "react-icons/lu";
+
 
 export const work_data = [
 	{
@@ -132,33 +139,45 @@ export const project_data = [
 	},
 ];
 
-export const hobbies_data = [
+export const about_rows = [
 	{
-		to: "/cubing",
+		Icon: FaUser,
+		label: "Intro",
+		stat: "UWaterloo Math",
+		detail: "hi! i'm william shen, third year mathematics student at the university of waterloo. currently pursuing a specialization in computational mathematics, along with a minor in combinatorics and optimization. nice to meet you!\n\ni like to do a lot of things in my free time; here are some of them :)",
+		link: resume,
+		linkLabel: "view resume",
+	},
+	{
 		Icon: FaCube,
-		label: "cubing",
-		sub: "3×3 main — speedsolving and casual practice",
-		para: "primarily focused on 3×3 speedsolving using CFOP. enjoy casual solves and working on improving times. occasionally explore other puzzle types.",
+		label: "Cubing",
+		stat: "3x3 PB Single: 5.40s",
+		detail: "7+ years of cubing. looking to podium a comp one day\n\n3×3 Stats — Single: 5.40s, ao5: 7.62s, ao12: 8.50s, ao100: 9.05",
+		link: "https://www.worldcubeassociation.org/persons/2016SHEN13",
+		linkLabel: "WCA profile",
 	},
 	{
-		to: "/sports",
 		Icon: FaTableTennis,
-		label: "sports",
-		sub: "mostly table tennis, casually competitive",
-		para: "play table tennis regularly and compete casually. enjoy the quick reflexes and strategy the game requires. also play other sports recreationally.",
+		label: "Table Tennis",
+		stat: "#11 Canada Peak",
+		detail: "grew up training competitively, now playing for fun.\n\nformer provincial team player. 3-time singles bronze medalist at ontario championships. peaked 11th in canada.",
+		link: "http://ttcan.ca/en/home/rating.aspx",
+		linkLabel: "TTCAN rating",
 	},
 	{
-		to: "/music",
-		Icon: FaMusic,
-		label: "music",
-		sub: "casual piano and guitar",
-		para: "play piano and guitar as a hobby. enjoy learning songs by ear and picking up new pieces. mostly self-taught on guitar.",
+		Icon: LuPickaxe,
+		label: "MCSR",
+		stat: "1.16 RSG PB: 20:15",
+		detail: "speedrunning for 5+ years. started with 1.16.1 RSG but moved to Ranked when it came out. currently Gold 3 \n\n Ranked PB: 13:44, Peak ELO: 1196",
+		link: "https://mcsrranked.com/stats/uselessleaf",
+		linkLabel: "MCSR profile",
 	},
 	{
-		to: "/gaming",
-		Icon: FaGamepad,
-		label: "gaming",
-		sub: "relaxation + strategy games",
-		para: "enjoy strategy and relaxation games in my spare time. games are a way to unwind and challenge myself in different ways.",
+		Icon: LuBlocks,
+		label: "TETR.IO",
+		stat: "Top 100 Canada",
+		detail: "4+ years of playing. 800+ hours. S1 - 21964TR, S2 - 20339TR \n\nPeak TR: 21964, 40L: 32.950, Blitz: 587087",
+		link: "https://ch.tetr.io/u/uselessleaf",
+		linkLabel: "TETR.IO profile",
 	},
 ];
