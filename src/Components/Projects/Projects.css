@@ -245,3 +245,26 @@
 .detail-link:hover {
 	background: rgba(255, 255, 255, 0.16);
 }
+
+@media (max-width: 768px) {
+	.projects {
+		padding: 60px 16px;
+		gap: 24px;
+	}
+
+	.detail-layout {
+		grid-template-columns: 1fr;
+		min-height: auto;
+		max-width: 100%;
+	}
+
+	.detail-list {
+		flex-direction: row;
+		flex-wrap: wrap;
+		gap: 0.4rem;
+	}
+
+	.list-item {
+		width: calc(50% - 0.2rem);
+	}
+}
