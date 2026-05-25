@@ -92,4 +92,36 @@
     height: 400px;
 }
 
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 52px;
+        width: 90%;
+        line-height: 52px;
+    }
+
+    .hero p {
+        width: 88%;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .hero-action {
+        flex-direction: column;
+        gap: 14px;
+        align-items: center;
+        margin-bottom: 24px;
+    }
+
+    .hero img {
+        height: 220px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+}
+
 

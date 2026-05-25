@@ -44,3 +44,10 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
 }
+
+@media (max-width: 768px) {
+  .snap-section {
+    padding-top: 72px;
+    padding-bottom: 0;
+  }
+}

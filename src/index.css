@@ -7,6 +7,12 @@ html {
 	scroll-padding-top: 300px;
 }
 
+@media (max-width: 768px) {
+	html {
+		scroll-padding-top: 0;
+	}
+}
+
 body {
 	height: 100vh;
 	background: #122922;
