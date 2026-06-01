@@ -1,0 +1,29 @@
+.games {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.games-develop {
+    font-size: 50px;
+    text-align: left;
+    padding: 30px;
+    background: linear-gradient(-230deg, #9B5DE5 35%, #c47ae8, #F15BB5);
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+.games-description {
+    text-align: left;
+    max-width: 50%;
+}
+
+.games-banner {
+    max-width: 20%;
+    height: auto;
+    border-radius: 25%;
+    padding-bottom: 20px;
+}
