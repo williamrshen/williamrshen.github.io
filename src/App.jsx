@@ -13,8 +13,9 @@ import { Route, Routes } from "react-router-dom";
 
 const App = () => {
 	return (
-		<div>
+		<div style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}>
 			<Navbar />
+			<div style={{ flex: 1 }}>
 			<Routes>
 				<Route path="/" element={<Home />} />
 				<Route path="/cubing" element={<Cubing />} />
@@ -24,6 +25,7 @@ const App = () => {
 				<Route path="/blog" element={<Blog />} />
 				<Route path="*" element={<Error />} />
 			</Routes>
+			</div>
 			<Footer />
 		</div>
 	);
