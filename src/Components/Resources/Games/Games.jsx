@@ -7,10 +7,10 @@ const Games = () => {
   return (
     <div className="games">
 
-        <h1 className="games-develop">under development :&#93;</h1>
+        <h1 className="games-develop">under development</h1>
         <img src={Cat} alt="" className="games-banner"/>
         <div className="games-description">
-            <p>will add some speedrun splits, tetrio stats, or highlight clips idk</p>
+            <p>content coming soon</p>
         </div>
 
     </div>

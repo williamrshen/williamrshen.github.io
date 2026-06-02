@@ -5,7 +5,7 @@ const Blog = () => {
   return (
     <div className="blog">
         <h1 className="develop">blog</h1>
-        <p>coming one day lol</p>
+        <p>coming soon</p>
     </div>
   )
 }

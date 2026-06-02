@@ -7,10 +7,10 @@ const Cubing = () => {
   return (
     <div className="cubing">
 
-        <h1 className="cubing-develop">under development :&#93;</h1>
+        <h1 className="cubing-develop">under development</h1>
         <img src={Cat} alt="" className="cubing-banner"/>
         <div className="cubing-description">
-            <p>will add some tutorials hopefully, or algs idk</p>
+            <p>content coming soon</p>
         </div>
 
     </div>

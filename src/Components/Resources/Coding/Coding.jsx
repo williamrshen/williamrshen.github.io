@@ -38,8 +38,7 @@ const Coding = () => {
 					<img src={Cat} alt="" className="coding-banner" />
 					<div className="coding-description">
 						<p>
-							competitive programming guides coming soon. other topics probably
-							never lol
+							competitive programming guides and other topics coming soon
 						</p>
 					</div>
 				</div>

@@ -7,10 +7,10 @@ const TableTennis = () => {
   return (
     <div className="tt">
 
-        <h1 className="tt-develop">under development :&#93;</h1>
+        <h1 className="tt-develop">under development</h1>
         <img src={Cat} alt="" className="tt-banner"/>
         <div className="tt-description">
-            <p>will add some match logs, training notes, or equipment setups idk</p>
+            <p>content coming soon</p>
         </div>
 
     </div>
