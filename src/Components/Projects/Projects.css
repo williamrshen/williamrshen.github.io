@@ -15,6 +15,76 @@
 	font-weight: 600;
 }
 
+/* ── Skills marquee ── */
+
+.marquee-wrapper {
+	width: 100%;
+	max-width: 900px;
+	overflow: hidden;
+	-webkit-mask-image: linear-gradient(to right, transparent, black 12%, black 88%, transparent);
+	mask-image: linear-gradient(to right, transparent, black 12%, black 88%, transparent);
+}
+
+.marquee-track {
+	display: flex;
+	gap: 0.5rem;
+	width: max-content;
+	animation: marquee-scroll 35s linear infinite;
+}
+
+.marquee-wrapper:hover .marquee-track {
+	animation-play-state: paused;
+}
+
+.marquee-item {
+	padding: 0.2rem 0.75rem;
+	border-radius: 999px;
+	font-size: 0.78rem;
+	white-space: nowrap;
+	flex-shrink: 0;
+	border: 1px solid transparent;
+}
+
+/* language — blue */
+.marquee-item--language {
+	background: rgba(100, 150, 255, 0.1);
+	border-color: rgba(100, 150, 255, 0.25);
+	color: rgba(160, 190, 255, 0.85);
+}
+
+/* framework — green (matches site accent) */
+.marquee-item--framework {
+	background: rgba(110, 195, 130, 0.1);
+	border-color: rgba(110, 195, 130, 0.25);
+	color: rgba(150, 215, 165, 0.85);
+}
+
+/* tool — amber */
+.marquee-item--tool {
+	background: rgba(255, 180, 90, 0.1);
+	border-color: rgba(255, 180, 90, 0.25);
+	color: rgba(255, 205, 135, 0.85);
+}
+
+/* database — purple */
+.marquee-item--database {
+	background: rgba(185, 120, 255, 0.1);
+	border-color: rgba(185, 120, 255, 0.25);
+	color: rgba(210, 170, 255, 0.85);
+}
+
+/* misc — neutral */
+.marquee-item--misc {
+	background: rgba(255, 255, 255, 0.06);
+	border-color: rgba(255, 255, 255, 0.1);
+	color: rgba(255, 255, 255, 0.55);
+}
+
+@keyframes marquee-scroll {
+	from { transform: translateX(0); }
+	to   { transform: translateX(-50%); }
+}
+
 /* ── Tabs ── */
 
 .projects-tabs {

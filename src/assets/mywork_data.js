@@ -78,7 +78,7 @@ export const project_data = [
 			"built a webcam ISBN scanner using QuaggaJS to quickly check out books by scanning barcodes, with OpenLibrary API fetching book details automatically",
 			"implemented role-based authentication with Firebase Auth to manage admin access",
 		],
-		tags: ["React", "Firebase", "JavaScript", "QuaggaJS", "OpenLibrary API"],
+		tags: ["React", "Firebase", "JavaScript", "QuaggaJS", "APIs"],
 	},
 	{
 		time: "2025",
@@ -92,7 +92,7 @@ export const project_data = [
 			"implemented snowball shooting mechanics, menu navigation, and sound effects",
 			"designed UI/UX for the full game experience",
 		],
-		tags: ["Unity", "C#", "Game Jam", "2D Platformer", "UI/UX"],
+		tags: ["Unity", "C#", "UI/UX"],
 	},
 	{
 		time: "2024",

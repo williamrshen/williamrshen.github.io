@@ -4,6 +4,26 @@ import { work_data, project_data } from "../../assets/mywork_data";
 
 const TABS = ["work", "projects"];
 
+const SKILL_CATEGORIES = {
+	// Languages
+	"Python": "language", "C++": "language", "JavaScript": "language",
+	"C#": "language", "PowerShell": "language",
+	// Frameworks & libraries
+	"React": "framework", "Flask": "framework", "Next.js": "framework",
+	"scikit-learn": "framework", "Tailwind CSS": "framework",
+	"Unity": "framework", "Roblox": "framework", "QuaggaJS": "framework",
+	// Tools & platforms
+	"Splunk": "tool", "Active Directory": "tool", "Imperva": "tool",
+	"Git": "tool", "Shopify API": "tool", "OpenLibrary API": "tool",
+	// Databases
+	"SQL Server": "database", "MongoDB": "database", "Firebase": "database",
+};
+
+const getCategory = (skill) => SKILL_CATEGORIES[skill] ?? "misc";
+
+const SKILLS = [...new Set([...work_data, ...project_data].flatMap((item) => item.tags))]
+	.sort(() => Math.random() - 0.5);
+
 const Projects = () => {
 	const [activeTab, setActiveTab] = useState("work");
 	const [selectedIndex, setSelectedIndex] = useState(0);
@@ -24,6 +44,14 @@ const Projects = () => {
 		<div id="projects" className="projects">
 			<div className="projects-title">
 				<h1>works</h1>
+			</div>
+
+			<div className="marquee-wrapper" aria-hidden="true">
+				<div className="marquee-track">
+					{[...SKILLS, ...SKILLS].map((skill, i) => (
+						<span key={i} className={`marquee-item marquee-item--${getCategory(skill)}`}>{skill}</span>
+					))}
+				</div>
 			</div>
 
 			<div className="projects-tabs">
