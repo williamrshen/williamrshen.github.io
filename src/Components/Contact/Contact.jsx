@@ -4,7 +4,7 @@ import "./Contact.css";
 import { CiLocationOn } from "react-icons/ci";
 import { CiLinkedin } from "react-icons/ci";
 import { CiMail } from "react-icons/ci";
-import { RxDiscordLogo } from "react-icons/rx";
+import { FaGithub } from "react-icons/fa";
 
 const Contact = () => {
 	return (
@@ -29,11 +29,11 @@ const Contact = () => {
 						<CiLinkedin />
 					</a>
 					<a
-						href="https://discord.com/users/386158824220000267"
+						href="https://github.com/williamrshen"
 						target="_blank"
 						className="contact-card"
 					>
-						<RxDiscordLogo />
+						<FaGithub />
 					</a>
 					<a 
 						href="https://share.google/HULBPYJBobzXckoXQ"
