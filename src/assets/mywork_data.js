@@ -154,7 +154,7 @@ export const about_rows = [
 		label: "Cubing",
 		stat: "3x3 PB Single: 5.40s",
 		detail: "7+ years of cubing. looking to podium a comp one day\n\n3×3 Stats — Single: 5.40s, ao5: 7.62s, ao12: 8.50s, ao100: 9.05",
-		link: "/cubing",
+		link: "/hobbies",
 		linkLabel: "more",
 	},
 	{
@@ -162,7 +162,7 @@ export const about_rows = [
 		label: "Table Tennis",
 		stat: "#11 Canada Peak",
 		detail: "grew up training competitively, now playing for fun.\n\nformer provincial team player. 3-time singles bronze medalist at ontario championships. peaked 11th in canada.",
-		link: "/tt",
+		link: "/hobbies",
 		linkLabel: "more",
 	},
 	{
@@ -170,7 +170,7 @@ export const about_rows = [
 		label: "MCSR",
 		stat: "1.16 RSG PB: 20:15",
 		detail: "speedrunning for 5+ years. started with 1.16.1 RSG but moved to Ranked when it came out. currently Gold 3 \n\n Ranked PB: 13:44, Peak ELO: 1196",
-		link: "/games",
+		link: "/hobbies",
 		linkLabel: "more",
 	},
 	{
@@ -178,7 +178,7 @@ export const about_rows = [
 		label: "TETR.IO",
 		stat: "Top 100 Canada",
 		detail: "4+ years of playing. 800+ hours. S1 - 21964TR, S2 - 20339TR \n\nPeak TR: 21964, 40L: 32.950, Blitz: 587087",
-		link: "/games",
+		link: "/hobbies",
 		linkLabel: "more",
 	},
 ];
