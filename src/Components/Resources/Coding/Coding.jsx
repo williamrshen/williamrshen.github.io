@@ -1,4 +1,3 @@
-import React from "react";
 import "./Coding.css";
 import ".././Resources.css";
 import Cat from "../../../assets/cat.png";

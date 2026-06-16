@@ -3,9 +3,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 80px;
+    gap: 46px;
     min-height: 100vh;
-    padding: 0 170px;
+    padding: 70px 120px;
     box-sizing: border-box;
 }
 
@@ -17,170 +17,329 @@
     padding: 0px 30px;
     font-size: 50px;
     font-weight: 600;
+    background: linear-gradient(230deg, #6EB257 20%, #acbf71, #C5E063 85%);
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 150% 100%;
+    animation: section-title-gradient 4s ease-in-out infinite;
 }
 
-.about-section {
-    display: flex;
-    gap: 80px;
-    align-items: center;
+.about-editorial {
+    display: grid;
+    grid-template-columns: minmax(240px, 360px) minmax(420px, 620px);
+    grid-template-areas:
+        "photo bio"
+        "strip strip";
+    gap: 22px;
+    width: min(100%, 1050px);
+    align-items: stretch;
 }
 
-.about-left img {
-    border-radius: 30px;
-    height: 400px;
-    width: auto;
+.about-photo-card,
+.about-bio-card,
+.about-hobby-strip {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 28px;
+    box-shadow: 0 24px 80px rgba(0, 0, 0, 0.18);
 }
 
-.about-right {
+.about-photo-card {
+    grid-area: photo;
+    min-height: 430px;
+    padding: 8px;
+    background:
+        linear-gradient(135deg, rgba(110, 178, 87, 0.45), rgba(197, 224, 99, 0.12)),
+        rgba(255, 255, 255, 0.055);
+}
+
+.about-photo-card::after {
+    content: '';
+    position: absolute;
+    inset: 8px;
+    border-radius: 22px;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+    pointer-events: none;
+}
+
+.about-photo-card img {
+    width: 100%;
+    height: 100%;
+    min-height: 414px;
+    display: block;
+    object-fit: cover;
+    border-radius: 22px;
+}
+
+.about-bio-card {
+    grid-area: bio;
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    justify-content: center;
+    gap: 22px;
+    padding: 36px;
+    background:
+        radial-gradient(circle at top right, rgba(197, 224, 99, 0.15), transparent 38%),
+        rgba(255, 255, 255, 0.058);
 }
 
-/* Accordion */
-
-.accordion {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    width: 600px;
+.about-bio-card::before {
+    content: '';
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 5px;
+    background: linear-gradient(180deg, #c5e063, #59ba73, transparent);
 }
 
-.accordion-row {
-    background: rgba(255, 255, 255, 0.06);
-    border-radius: 12px;
-    overflow: hidden;
-    cursor: pointer;
-    transition: background 0.2s;
+.about-kicker,
+.about-currently p,
+.about-strip-heading p {
+    letter-spacing: 0.12em;
+    text-transform: lowercase;
 }
 
-.accordion-row:hover {
-    background: rgba(255, 255, 255, 0.10);
+.about-kicker {
+    font-size: 0.75rem;
+    color: rgba(197, 224, 99, 0.8);
 }
 
-.accordion-row--open {
-    background: rgba(255, 255, 255, 0.09);
+.about-bio-card h2 {
+    font-size: clamp(2.4rem, 5vw, 4.8rem);
+    line-height: 0.94;
+    font-weight: 700;
 }
 
-.accordion-row--intro {
-    background: rgba(89, 186, 115, 0.09);
-    outline: 2px solid rgba(89, 186, 115, 0.35);
+.about-bio-text {
+    max-width: 560px;
+    font-size: 1.02rem;
+    line-height: 1.85;
+    color: rgba(255, 255, 255, 0.72);
 }
 
-.accordion-row--intro:hover {
-    background: rgba(89, 186, 115, 0.15);
-}
-
-.accordion-row--intro.accordion-row--open {
-    background: rgba(89, 186, 115, 0.12);
-}
-
-.accordion-header {
+.about-currently {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr auto;
-    align-items: center;
-    padding: 20px 24px;
-    user-select: none;
+    gap: 12px;
 }
 
-.accordion-icon {
-    font-size: 1.5rem;
-    opacity: 0.85;
-    justify-self: start;
+.about-currently p {
+    font-size: 0.72rem;
+    color: rgba(255, 255, 255, 0.44);
 }
 
-.accordion-name {
-    font-size: 1.1rem;
-    font-weight: 600;
-    justify-self: center;
-    text-align: center;
-}
-
-.accordion-stat {
-    font-size: 0.88rem;
-    opacity: 0.5;
-    justify-self: end;
-    text-align: right;
-}
-
-.accordion-chevron {
-    font-size: 0.8rem;
-    opacity: 0.45;
-    margin-left: 12px;
-    transition: transform 0.3s ease, opacity 0.2s;
-}
-
-.accordion-row--open .accordion-chevron {
-    transform: rotate(180deg);
-    opacity: 0.7;
-}
-
-.accordion-body {
+.about-currently ul {
     display: grid;
-    grid-template-rows: 0fr;
-    transition: grid-template-rows 0.3s ease;
-}
-
-.accordion-body--open {
-    grid-template-rows: 1fr;
-}
-
-.accordion-body-inner {
-    overflow: hidden;
-    min-height: 0;
-    padding: 0 22px;
-    padding-bottom: 0;
-    transition: padding-bottom 0.3s ease;
-}
-
-.accordion-body--open .accordion-body-inner {
-    padding-bottom: 20px;
-}
-
-.accordion-body p {
-    font-size: 0.92rem;
-    line-height: 1.75;
-    opacity: 0.8;
+    gap: 9px;
     margin: 0;
-    white-space: pre-line;
+    padding: 0;
+    list-style: none;
 }
 
-.accordion-link {
-    display: inline-block;
-    margin-top: 10px;
-    font-size: 0.82rem;
-    opacity: 0.6;
+.about-currently li {
+    position: relative;
+    padding-left: 20px;
+    font-size: 0.96rem;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.76);
+}
+
+.about-currently li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.64em;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #c5e063, #59ba73);
+}
+
+.about-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 4px;
+}
+
+.about-action,
+.about-hobby-card {
     text-decoration: none;
     color: white;
-    transition: opacity 0.15s;
 }
 
-.accordion-link:hover {
-    opacity: 1;
+.about-action {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 15px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.065);
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 0.9rem;
+    transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
 }
 
-.about a {
-    text-decoration: none;
+.about-action:hover {
+    transform: translateY(-2px);
+    border-color: rgba(197, 224, 99, 0.42);
+    background: rgba(197, 224, 99, 0.11);
     color: white;
+}
+
+.about-action--primary {
+    border-color: rgba(197, 224, 99, 0.38);
+    background: linear-gradient(267deg, rgba(172, 191, 113, 0.34), rgba(89, 186, 115, 0.28));
+    color: white;
+}
+
+.about-hobby-strip {
+    grid-area: strip;
+    display: grid;
+    gap: 14px;
+    padding: 18px;
+    background: rgba(255, 255, 255, 0.048);
+}
+
+.about-strip-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.about-strip-heading p {
+    font-size: 0.72rem;
+    color: rgba(197, 224, 99, 0.76);
+}
+
+.about-strip-heading h3 {
+    font-size: clamp(1.35rem, 3vw, 2rem);
+    line-height: 1.1;
+}
+
+.about-hobby-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+}
+
+.about-hobby-card {
+    display: grid;
+    gap: 6px;
+    min-height: 116px;
+    padding: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 18px;
+    background: rgba(6, 18, 14, 0.34);
+    transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+}
+
+.about-hobby-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(197, 224, 99, 0.36);
+    background: rgba(89, 186, 115, 0.11);
+}
+
+.about-hobby-icon {
+    font-size: 1.2rem;
+    color: rgba(197, 224, 99, 0.88);
+}
+
+.about-hobby-title {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.about-hobby-detail {
+    font-size: 0.76rem;
+    line-height: 1.35;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.about-hobby-link {
+    align-self: end;
+    margin-top: 4px;
+    font-size: 0.78rem;
+    color: rgba(197, 224, 99, 0.78);
+}
+
+@media (max-width: 1050px) {
+    .about {
+        padding: 60px 40px;
+    }
+
+    .about-editorial {
+        grid-template-columns: minmax(220px, 320px) minmax(0, 1fr);
+    }
+
+    .about-hobby-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
 }
 
 @media (max-width: 768px) {
     .about {
         padding: 60px 20px;
-        gap: 40px;
+        gap: 34px;
     }
 
-    .about-section {
+    .about-editorial {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "photo"
+            "bio"
+            "strip";
+    }
+
+    .about-photo-card {
+        min-height: 260px;
+    }
+
+    .about-photo-card img {
+        min-height: 244px;
+        max-height: 380px;
+    }
+
+    .about-bio-card,
+    .about-hobby-strip {
+        padding: 22px;
+        border-radius: 22px;
+    }
+
+    .about-strip-heading {
+        align-items: flex-start;
         flex-direction: column;
-        gap: 24px;
-        align-items: center;
+    }
+}
+
+@media (max-width: 520px) {
+    .about-title h1 {
+        font-size: 42px;
     }
 
-    .about-left img {
-        height: 220px;
+    .about-actions,
+    .about-hobby-grid {
+        grid-template-columns: 1fr;
     }
 
-    .accordion {
+    .about-action {
         width: 100%;
     }
+
+    .about-hobby-grid {
+        display: grid;
+    }
+}
+
+@keyframes section-title-gradient {
+	0%, 100% {
+		background-position: 0 0;
+	}
+
+	50% {
+		background-position: 100% 0;
+	}
 }

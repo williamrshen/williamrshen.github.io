@@ -1,7 +1,5 @@
-import React from 'react'
 import './Hero.css'
 import hero from '../../assets/water.png'
-import AnchorLink from 'react-anchor-link-smooth-scroll'
 import resume from "../../assets/Resume.pdf"
 
 

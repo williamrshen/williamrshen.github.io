@@ -1,0 +1,50 @@
+name: Update hobby stats
+
+on:
+  schedule:
+    # Daily at 10:00 UTC, which is 5:00 AM EST / 6:00 AM EDT.
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-hobby-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh hobby stats snapshot
+        run: npm run update:hobbies
+
+      - name: Commit refreshed stats if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update hobby stats snapshot"
+          file_pattern: src/Components/Hobbies/hobbyStats.json
+
+      - name: Build site
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        run: npm run deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

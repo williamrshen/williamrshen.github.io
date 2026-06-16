@@ -1,0 +1,6155 @@
+{
+	"updatedAt": "2026-06-16T17:23:07.479Z",
+	"ids": {
+		"wca": "2016SHEN13",
+		"mcsr": "uselessleaf",
+		"tetrio": "uselessleaf",
+		"ttcan": "30561"
+	},
+	"endpoints": {
+		"wca": "https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/persons/2016SHEN13.json",
+		"mcsr": "https://api.mcsrranked.com/users/uselessleaf",
+		"tetrioUser": "https://ch.tetr.io/api/users/uselessleaf",
+		"tetrioLeague": "https://ch.tetr.io/api/users/uselessleaf/summaries/league",
+		"tetrio40l": "https://ch.tetr.io/api/users/uselessleaf/summaries/40l",
+		"tetrioBlitz": "https://ch.tetr.io/api/users/uselessleaf/summaries/blitz",
+		"tetrioLeagueFlow": "https://ch.tetr.io/api/labs/leagueflow/uselessleaf",
+		"mcsrMatches": "https://api.mcsrranked.com/users/uselessleaf/matches?count=100&type=2&sort=oldest",
+		"ttcanProfile": "https://ttcan.onrender.com/api/players/30561"
+	},
+	"errors": [],
+	"hobbies": [
+		{
+			"id": "tetris",
+			"title": "TETR.IO",
+			"eyebrow": "Competitive Tetris",
+			"icon": "▦",
+			"accent": "#8CCB6B",
+			"profileUrl": "https://ch.tetr.io/u/uselessleaf",
+			"apiUrl": "https://ch.tetr.io/api/users/uselessleaf",
+			"blurb": "started playing tetris when introduced by a friend in grade 11. grinded a lot in highschool, both in class and out of class (oops). now just playing for fun here and there",
+			"historyLabel": "tetra league tr history",
+			"history": [
+				{
+					"label": "Aug 16, 2024",
+					"value": 14407
+				},
+				{
+					"label": "Aug 16, 2024",
+					"value": 15147
+				},
+				{
+					"label": "Aug 16, 2024",
+					"value": 14799
+				},
+				{
+					"label": "Aug 17, 2024",
+					"value": 14324
+				},
+				{
+					"label": "Aug 17, 2024",
+					"value": 14912
+				},
+				{
+					"label": "Aug 17, 2024",
+					"value": 15616
+				},
+				{
+					"label": "Aug 17, 2024",
+					"value": 16282
+				},
+				{
+					"label": "Aug 18, 2024",
+					"value": 16006
+				},
+				{
+					"label": "Aug 18, 2024",
+					"value": 15656
+				},
+				{
+					"label": "Aug 19, 2024",
+					"value": 15312
+				},
+				{
+					"label": "Aug 19, 2024",
+					"value": 15019
+				},
+				{
+					"label": "Aug 20, 2024",
+					"value": 15578
+				},
+				{
+					"label": "Aug 20, 2024",
+					"value": 15297
+				},
+				{
+					"label": "Aug 20, 2024",
+					"value": 15874
+				},
+				{
+					"label": "Aug 20, 2024",
+					"value": 16417
+				},
+				{
+					"label": "Aug 24, 2024",
+					"value": 16930
+				},
+				{
+					"label": "Aug 24, 2024",
+					"value": 16693
+				},
+				{
+					"label": "Aug 24, 2024",
+					"value": 16507
+				},
+				{
+					"label": "Aug 24, 2024",
+					"value": 16943
+				},
+				{
+					"label": "Aug 24, 2024",
+					"value": 16758
+				},
+				{
+					"label": "Aug 25, 2024",
+					"value": 16505
+				},
+				{
+					"label": "Aug 25, 2024",
+					"value": 16925
+				},
+				{
+					"label": "Aug 26, 2024",
+					"value": 17138
+				},
+				{
+					"label": "Aug 26, 2024",
+					"value": 17396
+				},
+				{
+					"label": "Aug 26, 2024",
+					"value": 17605
+				},
+				{
+					"label": "Aug 26, 2024",
+					"value": 17411
+				},
+				{
+					"label": "Aug 26, 2024",
+					"value": 17631
+				},
+				{
+					"label": "Aug 27, 2024",
+					"value": 17846
+				},
+				{
+					"label": "Aug 27, 2024",
+					"value": 18043
+				},
+				{
+					"label": "Aug 27, 2024",
+					"value": 17913
+				},
+				{
+					"label": "Aug 27, 2024",
+					"value": 18130
+				},
+				{
+					"label": "Aug 27, 2024",
+					"value": 18269
+				},
+				{
+					"label": "Aug 28, 2024",
+					"value": 18483
+				},
+				{
+					"label": "Aug 29, 2024",
+					"value": 18332
+				},
+				{
+					"label": "Aug 29, 2024",
+					"value": 18194
+				},
+				{
+					"label": "Aug 30, 2024",
+					"value": 18322
+				},
+				{
+					"label": "Aug 30, 2024",
+					"value": 18533
+				},
+				{
+					"label": "Aug 30, 2024",
+					"value": 18696
+				},
+				{
+					"label": "Aug 30, 2024",
+					"value": 18856
+				},
+				{
+					"label": "Aug 31, 2024",
+					"value": 18701
+				},
+				{
+					"label": "Sep 4, 2024",
+					"value": 18547
+				},
+				{
+					"label": "Sep 4, 2024",
+					"value": 18376
+				},
+				{
+					"label": "Sep 5, 2024",
+					"value": 18256
+				},
+				{
+					"label": "Sep 5, 2024",
+					"value": 18158
+				},
+				{
+					"label": "Sep 5, 2024",
+					"value": 18259
+				},
+				{
+					"label": "Sep 8, 2024",
+					"value": 18128
+				},
+				{
+					"label": "Sep 8, 2024",
+					"value": 18223
+				},
+				{
+					"label": "Sep 8, 2024",
+					"value": 18118
+				},
+				{
+					"label": "Sep 8, 2024",
+					"value": 17985
+				},
+				{
+					"label": "Sep 9, 2024",
+					"value": 18133
+				},
+				{
+					"label": "Sep 9, 2024",
+					"value": 18255
+				},
+				{
+					"label": "Sep 10, 2024",
+					"value": 18134
+				},
+				{
+					"label": "Sep 10, 2024",
+					"value": 18244
+				},
+				{
+					"label": "Sep 10, 2024",
+					"value": 18131
+				},
+				{
+					"label": "Sep 10, 2024",
+					"value": 18236
+				},
+				{
+					"label": "Sep 10, 2024",
+					"value": 18115
+				},
+				{
+					"label": "Sep 11, 2024",
+					"value": 18219
+				},
+				{
+					"label": "Sep 11, 2024",
+					"value": 18321
+				},
+				{
+					"label": "Sep 11, 2024",
+					"value": 18205
+				},
+				{
+					"label": "Sep 11, 2024",
+					"value": 18305
+				},
+				{
+					"label": "Sep 11, 2024",
+					"value": 18193
+				},
+				{
+					"label": "Sep 12, 2024",
+					"value": 18304
+				},
+				{
+					"label": "Sep 12, 2024",
+					"value": 18417
+				},
+				{
+					"label": "Sep 12, 2024",
+					"value": 18543
+				},
+				{
+					"label": "Sep 13, 2024",
+					"value": 18425
+				},
+				{
+					"label": "Sep 13, 2024",
+					"value": 18515
+				},
+				{
+					"label": "Sep 13, 2024",
+					"value": 18611
+				},
+				{
+					"label": "Sep 13, 2024",
+					"value": 18492
+				},
+				{
+					"label": "Sep 13, 2024",
+					"value": 18598
+				},
+				{
+					"label": "Sep 14, 2024",
+					"value": 18483
+				},
+				{
+					"label": "Sep 16, 2024",
+					"value": 18605
+				},
+				{
+					"label": "Sep 17, 2024",
+					"value": 18516
+				},
+				{
+					"label": "Sep 17, 2024",
+					"value": 18608
+				},
+				{
+					"label": "Sep 17, 2024",
+					"value": 18703
+				},
+				{
+					"label": "Sep 17, 2024",
+					"value": 18855
+				},
+				{
+					"label": "Sep 18, 2024",
+					"value": 19048
+				},
+				{
+					"label": "Sep 30, 2024",
+					"value": 18884
+				},
+				{
+					"label": "Oct 2, 2024",
+					"value": 18753
+				},
+				{
+					"label": "Oct 2, 2024",
+					"value": 18854
+				},
+				{
+					"label": "Oct 2, 2024",
+					"value": 18956
+				},
+				{
+					"label": "Oct 2, 2024",
+					"value": 19054
+				},
+				{
+					"label": "Oct 2, 2024",
+					"value": 19252
+				},
+				{
+					"label": "Oct 3, 2024",
+					"value": 19140
+				},
+				{
+					"label": "Oct 5, 2024",
+					"value": 19346
+				},
+				{
+					"label": "Oct 5, 2024",
+					"value": 19226
+				},
+				{
+					"label": "Oct 6, 2024",
+					"value": 19111
+				},
+				{
+					"label": "Oct 6, 2024",
+					"value": 18997
+				},
+				{
+					"label": "Oct 7, 2024",
+					"value": 19095
+				},
+				{
+					"label": "Oct 7, 2024",
+					"value": 18990
+				},
+				{
+					"label": "Oct 7, 2024",
+					"value": 19100
+				},
+				{
+					"label": "Oct 7, 2024",
+					"value": 19206
+				},
+				{
+					"label": "Oct 7, 2024",
+					"value": 19133
+				},
+				{
+					"label": "Oct 7, 2024",
+					"value": 19225
+				},
+				{
+					"label": "Oct 8, 2024",
+					"value": 19095
+				},
+				{
+					"label": "Oct 8, 2024",
+					"value": 19189
+				},
+				{
+					"label": "Oct 8, 2024",
+					"value": 19080
+				},
+				{
+					"label": "Oct 9, 2024",
+					"value": 19179
+				},
+				{
+					"label": "Oct 10, 2024",
+					"value": 19264
+				},
+				{
+					"label": "Oct 10, 2024",
+					"value": 19415
+				},
+				{
+					"label": "Oct 10, 2024",
+					"value": 19606
+				},
+				{
+					"label": "Oct 10, 2024",
+					"value": 19513
+				},
+				{
+					"label": "Oct 11, 2024",
+					"value": 19636
+				},
+				{
+					"label": "Oct 12, 2024",
+					"value": 19546
+				},
+				{
+					"label": "Oct 12, 2024",
+					"value": 19749
+				},
+				{
+					"label": "Oct 12, 2024",
+					"value": 19862
+				},
+				{
+					"label": "Oct 12, 2024",
+					"value": 19764
+				},
+				{
+					"label": "Oct 12, 2024",
+					"value": 19675
+				},
+				{
+					"label": "Oct 12, 2024",
+					"value": 19584
+				},
+				{
+					"label": "Oct 14, 2024",
+					"value": 19455
+				},
+				{
+					"label": "Oct 14, 2024",
+					"value": 19363
+				},
+				{
+					"label": "Oct 14, 2024",
+					"value": 19513
+				},
+				{
+					"label": "Oct 15, 2024",
+					"value": 19739
+				},
+				{
+					"label": "Oct 15, 2024",
+					"value": 19910
+				},
+				{
+					"label": "Oct 15, 2024",
+					"value": 19821
+				},
+				{
+					"label": "Oct 15, 2024",
+					"value": 19957
+				},
+				{
+					"label": "Oct 15, 2024",
+					"value": 19915
+				},
+				{
+					"label": "Oct 15, 2024",
+					"value": 20047
+				},
+				{
+					"label": "Oct 15, 2024",
+					"value": 20126
+				},
+				{
+					"label": "Oct 16, 2024",
+					"value": 20046
+				},
+				{
+					"label": "Oct 16, 2024",
+					"value": 20123
+				},
+				{
+					"label": "Oct 17, 2024",
+					"value": 20199
+				},
+				{
+					"label": "Oct 17, 2024",
+					"value": 20253
+				},
+				{
+					"label": "Oct 19, 2024",
+					"value": 20163
+				},
+				{
+					"label": "Oct 19, 2024",
+					"value": 20242
+				},
+				{
+					"label": "Oct 19, 2024",
+					"value": 20317
+				},
+				{
+					"label": "Oct 20, 2024",
+					"value": 20386
+				},
+				{
+					"label": "Oct 20, 2024",
+					"value": 20315
+				},
+				{
+					"label": "Oct 20, 2024",
+					"value": 20250
+				},
+				{
+					"label": "Oct 21, 2024",
+					"value": 20168
+				},
+				{
+					"label": "Oct 21, 2024",
+					"value": 20091
+				},
+				{
+					"label": "Oct 21, 2024",
+					"value": 20025
+				},
+				{
+					"label": "Oct 21, 2024",
+					"value": 20080
+				},
+				{
+					"label": "Oct 22, 2024",
+					"value": 20006
+				},
+				{
+					"label": "Oct 22, 2024",
+					"value": 20081
+				},
+				{
+					"label": "Oct 22, 2024",
+					"value": 20006
+				},
+				{
+					"label": "Oct 23, 2024",
+					"value": 20071
+				},
+				{
+					"label": "Oct 23, 2024",
+					"value": 20144
+				},
+				{
+					"label": "Oct 23, 2024",
+					"value": 20064
+				},
+				{
+					"label": "Oct 23, 2024",
+					"value": 20141
+				},
+				{
+					"label": "Oct 24, 2024",
+					"value": 20228
+				},
+				{
+					"label": "Oct 24, 2024",
+					"value": 20155
+				},
+				{
+					"label": "Oct 25, 2024",
+					"value": 20098
+				},
+				{
+					"label": "Oct 28, 2024",
+					"value": 20174
+				},
+				{
+					"label": "Oct 28, 2024",
+					"value": 20102
+				},
+				{
+					"label": "Oct 28, 2024",
+					"value": 20175
+				},
+				{
+					"label": "Oct 29, 2024",
+					"value": 20131
+				},
+				{
+					"label": "Oct 29, 2024",
+					"value": 20213
+				},
+				{
+					"label": "Oct 29, 2024",
+					"value": 20286
+				},
+				{
+					"label": "Oct 29, 2024",
+					"value": 20207
+				},
+				{
+					"label": "Oct 29, 2024",
+					"value": 20294
+				},
+				{
+					"label": "Oct 29, 2024",
+					"value": 20222
+				},
+				{
+					"label": "Oct 29, 2024",
+					"value": 20293
+				},
+				{
+					"label": "Oct 30, 2024",
+					"value": 20220
+				},
+				{
+					"label": "Oct 30, 2024",
+					"value": 20130
+				},
+				{
+					"label": "Oct 30, 2024",
+					"value": 20029
+				},
+				{
+					"label": "Oct 30, 2024",
+					"value": 20120
+				},
+				{
+					"label": "Oct 31, 2024",
+					"value": 20191
+				},
+				{
+					"label": "Oct 31, 2024",
+					"value": 20274
+				},
+				{
+					"label": "Oct 31, 2024",
+					"value": 20343
+				},
+				{
+					"label": "Oct 31, 2024",
+					"value": 20300
+				},
+				{
+					"label": "Nov 1, 2024",
+					"value": 20220
+				},
+				{
+					"label": "Nov 3, 2024",
+					"value": 20296
+				},
+				{
+					"label": "Nov 4, 2024",
+					"value": 20359
+				},
+				{
+					"label": "Nov 4, 2024",
+					"value": 20291
+				},
+				{
+					"label": "Nov 5, 2024",
+					"value": 20233
+				},
+				{
+					"label": "Nov 5, 2024",
+					"value": 20306
+				},
+				{
+					"label": "Nov 6, 2024",
+					"value": 20381
+				},
+				{
+					"label": "Nov 6, 2024",
+					"value": 20441
+				},
+				{
+					"label": "Nov 6, 2024",
+					"value": 20386
+				},
+				{
+					"label": "Nov 7, 2024",
+					"value": 20310
+				},
+				{
+					"label": "Nov 7, 2024",
+					"value": 20229
+				},
+				{
+					"label": "Nov 7, 2024",
+					"value": 20158
+				},
+				{
+					"label": "Nov 7, 2024",
+					"value": 20073
+				},
+				{
+					"label": "Nov 7, 2024",
+					"value": 20160
+				},
+				{
+					"label": "Nov 8, 2024",
+					"value": 20068
+				},
+				{
+					"label": "Nov 9, 2024",
+					"value": 19984
+				},
+				{
+					"label": "Nov 9, 2024",
+					"value": 20097
+				},
+				{
+					"label": "Nov 9, 2024",
+					"value": 20172
+				},
+				{
+					"label": "Nov 9, 2024",
+					"value": 20095
+				},
+				{
+					"label": "Nov 9, 2024",
+					"value": 20165
+				},
+				{
+					"label": "Nov 10, 2024",
+					"value": 20106
+				},
+				{
+					"label": "Nov 10, 2024",
+					"value": 20043
+				},
+				{
+					"label": "Nov 11, 2024",
+					"value": 20130
+				},
+				{
+					"label": "Nov 11, 2024",
+					"value": 20043
+				},
+				{
+					"label": "Nov 11, 2024",
+					"value": 20090
+				},
+				{
+					"label": "Nov 11, 2024",
+					"value": 20000
+				},
+				{
+					"label": "Nov 11, 2024",
+					"value": 19925
+				},
+				{
+					"label": "Nov 11, 2024",
+					"value": 19810
+				},
+				{
+					"label": "Nov 11, 2024",
+					"value": 19920
+				},
+				{
+					"label": "Nov 12, 2024",
+					"value": 20016
+				},
+				{
+					"label": "Nov 12, 2024",
+					"value": 19945
+				},
+				{
+					"label": "Nov 12, 2024",
+					"value": 20024
+				},
+				{
+					"label": "Nov 12, 2024",
+					"value": 19960
+				},
+				{
+					"label": "Nov 12, 2024",
+					"value": 19869
+				},
+				{
+					"label": "Nov 12, 2024",
+					"value": 19819
+				},
+				{
+					"label": "Nov 12, 2024",
+					"value": 19926
+				},
+				{
+					"label": "Nov 13, 2024",
+					"value": 19815
+				},
+				{
+					"label": "Nov 13, 2024",
+					"value": 19927
+				},
+				{
+					"label": "Nov 13, 2024",
+					"value": 20055
+				},
+				{
+					"label": "Nov 13, 2024",
+					"value": 20131
+				},
+				{
+					"label": "Nov 14, 2024",
+					"value": 20053
+				},
+				{
+					"label": "Nov 14, 2024",
+					"value": 19958
+				},
+				{
+					"label": "Nov 15, 2024",
+					"value": 20059
+				},
+				{
+					"label": "Nov 15, 2024",
+					"value": 19990
+				},
+				{
+					"label": "Nov 18, 2024",
+					"value": 20101
+				},
+				{
+					"label": "Nov 19, 2024",
+					"value": 20168
+				},
+				{
+					"label": "Nov 20, 2024",
+					"value": 20219
+				},
+				{
+					"label": "Nov 22, 2024",
+					"value": 20309
+				},
+				{
+					"label": "Nov 22, 2024",
+					"value": 20271
+				},
+				{
+					"label": "Nov 23, 2024",
+					"value": 20342
+				},
+				{
+					"label": "Nov 23, 2024",
+					"value": 20412
+				},
+				{
+					"label": "Nov 24, 2024",
+					"value": 20471
+				},
+				{
+					"label": "Nov 24, 2024",
+					"value": 20403
+				},
+				{
+					"label": "Nov 24, 2024",
+					"value": 20461
+				},
+				{
+					"label": "Nov 25, 2024",
+					"value": 20394
+				},
+				{
+					"label": "Nov 25, 2024",
+					"value": 20451
+				},
+				{
+					"label": "Nov 26, 2024",
+					"value": 20381
+				},
+				{
+					"label": "Nov 26, 2024",
+					"value": 20458
+				},
+				{
+					"label": "Nov 26, 2024",
+					"value": 20393
+				},
+				{
+					"label": "Nov 27, 2024",
+					"value": 20312
+				},
+				{
+					"label": "Nov 27, 2024",
+					"value": 20367
+				},
+				{
+					"label": "Nov 27, 2024",
+					"value": 20435
+				},
+				{
+					"label": "Nov 27, 2024",
+					"value": 20359
+				},
+				{
+					"label": "Nov 27, 2024",
+					"value": 20425
+				},
+				{
+					"label": "Nov 27, 2024",
+					"value": 20502
+				},
+				{
+					"label": "Nov 28, 2024",
+					"value": 20427
+				},
+				{
+					"label": "Nov 28, 2024",
+					"value": 20352
+				},
+				{
+					"label": "Nov 28, 2024",
+					"value": 20288
+				},
+				{
+					"label": "Nov 28, 2024",
+					"value": 20356
+				},
+				{
+					"label": "Nov 28, 2024",
+					"value": 20415
+				},
+				{
+					"label": "Nov 29, 2024",
+					"value": 20471
+				},
+				{
+					"label": "Nov 30, 2024",
+					"value": 20536
+				},
+				{
+					"label": "Nov 30, 2024",
+					"value": 20480
+				},
+				{
+					"label": "Dec 1, 2024",
+					"value": 20397
+				},
+				{
+					"label": "Dec 1, 2024",
+					"value": 20338
+				},
+				{
+					"label": "Dec 1, 2024",
+					"value": 20397
+				},
+				{
+					"label": "Dec 1, 2024",
+					"value": 20342
+				},
+				{
+					"label": "Dec 1, 2024",
+					"value": 20264
+				},
+				{
+					"label": "Dec 2, 2024",
+					"value": 20332
+				},
+				{
+					"label": "Dec 2, 2024",
+					"value": 20399
+				},
+				{
+					"label": "Dec 2, 2024",
+					"value": 20338
+				},
+				{
+					"label": "Dec 2, 2024",
+					"value": 20275
+				},
+				{
+					"label": "Dec 3, 2024",
+					"value": 20352
+				},
+				{
+					"label": "Dec 3, 2024",
+					"value": 20293
+				},
+				{
+					"label": "Dec 3, 2024",
+					"value": 20357
+				},
+				{
+					"label": "Dec 3, 2024",
+					"value": 20295
+				},
+				{
+					"label": "Dec 3, 2024",
+					"value": 20369
+				},
+				{
+					"label": "Dec 5, 2024",
+					"value": 20435
+				},
+				{
+					"label": "Dec 5, 2024",
+					"value": 20361
+				},
+				{
+					"label": "Dec 5, 2024",
+					"value": 20285
+				},
+				{
+					"label": "Dec 6, 2024",
+					"value": 20357
+				},
+				{
+					"label": "Dec 6, 2024",
+					"value": 20277
+				},
+				{
+					"label": "Dec 6, 2024",
+					"value": 20348
+				},
+				{
+					"label": "Dec 6, 2024",
+					"value": 20277
+				},
+				{
+					"label": "Dec 7, 2024",
+					"value": 20184
+				},
+				{
+					"label": "Dec 7, 2024",
+					"value": 20265
+				},
+				{
+					"label": "Dec 7, 2024",
+					"value": 20332
+				},
+				{
+					"label": "Dec 7, 2024",
+					"value": 20290
+				},
+				{
+					"label": "Dec 7, 2024",
+					"value": 20366
+				},
+				{
+					"label": "Dec 8, 2024",
+					"value": 20443
+				},
+				{
+					"label": "Dec 9, 2024",
+					"value": 20370
+				},
+				{
+					"label": "Dec 9, 2024",
+					"value": 20418
+				},
+				{
+					"label": "Dec 9, 2024",
+					"value": 20507
+				},
+				{
+					"label": "Dec 9, 2024",
+					"value": 20566
+				},
+				{
+					"label": "Dec 9, 2024",
+					"value": 20627
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20573
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20543
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20603
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20668
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20608
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20659
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20579
+				},
+				{
+					"label": "Dec 10, 2024",
+					"value": 20652
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20718
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20769
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20833
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20915
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20862
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20787
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20725
+				},
+				{
+					"label": "Dec 11, 2024",
+					"value": 20781
+				},
+				{
+					"label": "Dec 12, 2024",
+					"value": 20732
+				},
+				{
+					"label": "Dec 12, 2024",
+					"value": 20778
+				},
+				{
+					"label": "Dec 12, 2024",
+					"value": 20725
+				},
+				{
+					"label": "Dec 12, 2024",
+					"value": 20650
+				},
+				{
+					"label": "Dec 12, 2024",
+					"value": 20592
+				},
+				{
+					"label": "Dec 12, 2024",
+					"value": 20531
+				},
+				{
+					"label": "Dec 13, 2024",
+					"value": 20471
+				},
+				{
+					"label": "Dec 13, 2024",
+					"value": 20404
+				},
+				{
+					"label": "Dec 13, 2024",
+					"value": 20469
+				},
+				{
+					"label": "Dec 14, 2024",
+					"value": 20552
+				},
+				{
+					"label": "Dec 14, 2024",
+					"value": 20609
+				},
+				{
+					"label": "Dec 14, 2024",
+					"value": 20544
+				},
+				{
+					"label": "Dec 15, 2024",
+					"value": 20472
+				},
+				{
+					"label": "Dec 15, 2024",
+					"value": 20536
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20606
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20545
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20472
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20548
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20497
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20558
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20617
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20670
+				},
+				{
+					"label": "Dec 16, 2024",
+					"value": 20601
+				},
+				{
+					"label": "Dec 17, 2024",
+					"value": 20540
+				},
+				{
+					"label": "Dec 17, 2024",
+					"value": 20479
+				},
+				{
+					"label": "Dec 17, 2024",
+					"value": 20376
+				},
+				{
+					"label": "Dec 17, 2024",
+					"value": 20430
+				},
+				{
+					"label": "Dec 18, 2024",
+					"value": 20491
+				},
+				{
+					"label": "Dec 18, 2024",
+					"value": 20431
+				},
+				{
+					"label": "Dec 18, 2024",
+					"value": 20493
+				},
+				{
+					"label": "Dec 18, 2024",
+					"value": 20428
+				},
+				{
+					"label": "Dec 18, 2024",
+					"value": 20363
+				},
+				{
+					"label": "Dec 18, 2024",
+					"value": 20288
+				},
+				{
+					"label": "Dec 20, 2024",
+					"value": 20359
+				},
+				{
+					"label": "Dec 20, 2024",
+					"value": 20279
+				},
+				{
+					"label": "Dec 20, 2024",
+					"value": 20204
+				},
+				{
+					"label": "Dec 20, 2024",
+					"value": 20259
+				},
+				{
+					"label": "Dec 20, 2024",
+					"value": 20311
+				},
+				{
+					"label": "Dec 20, 2024",
+					"value": 20232
+				},
+				{
+					"label": "Dec 21, 2024",
+					"value": 20154
+				},
+				{
+					"label": "Dec 21, 2024",
+					"value": 20210
+				},
+				{
+					"label": "Dec 21, 2024",
+					"value": 20284
+				},
+				{
+					"label": "Dec 21, 2024",
+					"value": 20350
+				},
+				{
+					"label": "Dec 21, 2024",
+					"value": 20423
+				},
+				{
+					"label": "Dec 22, 2024",
+					"value": 20485
+				},
+				{
+					"label": "Dec 22, 2024",
+					"value": 20412
+				},
+				{
+					"label": "Dec 22, 2024",
+					"value": 20465
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20528
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20574
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20514
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20444
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20495
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20551
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20620
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20546
+				},
+				{
+					"label": "Dec 23, 2024",
+					"value": 20607
+				},
+				{
+					"label": "Dec 24, 2024",
+					"value": 20559
+				},
+				{
+					"label": "Dec 24, 2024",
+					"value": 20503
+				},
+				{
+					"label": "Dec 24, 2024",
+					"value": 20433
+				},
+				{
+					"label": "Dec 24, 2024",
+					"value": 20361
+				},
+				{
+					"label": "Dec 24, 2024",
+					"value": 20414
+				},
+				{
+					"label": "Dec 24, 2024",
+					"value": 20335
+				},
+				{
+					"label": "Dec 24, 2024",
+					"value": 20255
+				},
+				{
+					"label": "Dec 25, 2024",
+					"value": 20174
+				},
+				{
+					"label": "Dec 25, 2024",
+					"value": 20095
+				},
+				{
+					"label": "Dec 25, 2024",
+					"value": 20010
+				},
+				{
+					"label": "Dec 25, 2024",
+					"value": 19933
+				},
+				{
+					"label": "Dec 26, 2024",
+					"value": 20061
+				},
+				{
+					"label": "Dec 26, 2024",
+					"value": 20150
+				},
+				{
+					"label": "Dec 26, 2024",
+					"value": 20063
+				},
+				{
+					"label": "Dec 26, 2024",
+					"value": 20129
+				},
+				{
+					"label": "Dec 26, 2024",
+					"value": 20192
+				},
+				{
+					"label": "Dec 26, 2024",
+					"value": 20240
+				},
+				{
+					"label": "Dec 26, 2024",
+					"value": 20333
+				},
+				{
+					"label": "Dec 27, 2024",
+					"value": 20410
+				},
+				{
+					"label": "Dec 27, 2024",
+					"value": 20335
+				},
+				{
+					"label": "Dec 27, 2024",
+					"value": 20417
+				},
+				{
+					"label": "Dec 27, 2024",
+					"value": 20339
+				},
+				{
+					"label": "Dec 27, 2024",
+					"value": 20286
+				},
+				{
+					"label": "Dec 27, 2024",
+					"value": 20362
+				},
+				{
+					"label": "Dec 27, 2024",
+					"value": 20298
+				},
+				{
+					"label": "Dec 28, 2024",
+					"value": 20377
+				},
+				{
+					"label": "Dec 28, 2024",
+					"value": 20315
+				},
+				{
+					"label": "Dec 28, 2024",
+					"value": 20395
+				},
+				{
+					"label": "Dec 28, 2024",
+					"value": 20298
+				},
+				{
+					"label": "Dec 28, 2024",
+					"value": 20390
+				},
+				{
+					"label": "Dec 28, 2024",
+					"value": 20332
+				},
+				{
+					"label": "Dec 29, 2024",
+					"value": 20402
+				},
+				{
+					"label": "Dec 29, 2024",
+					"value": 20476
+				},
+				{
+					"label": "Dec 29, 2024",
+					"value": 20408
+				},
+				{
+					"label": "Dec 29, 2024",
+					"value": 20352
+				},
+				{
+					"label": "Dec 31, 2024",
+					"value": 20425
+				},
+				{
+					"label": "Jan 1, 2025",
+					"value": 20345
+				},
+				{
+					"label": "Jan 3, 2025",
+					"value": 20416
+				},
+				{
+					"label": "Jan 3, 2025",
+					"value": 20494
+				},
+				{
+					"label": "Jan 4, 2025",
+					"value": 20544
+				},
+				{
+					"label": "Jan 4, 2025",
+					"value": 20471
+				},
+				{
+					"label": "Jan 4, 2025",
+					"value": 20528
+				},
+				{
+					"label": "Jan 4, 2025",
+					"value": 20440
+				},
+				{
+					"label": "Jan 4, 2025",
+					"value": 20381
+				},
+				{
+					"label": "Jan 4, 2025",
+					"value": 20300
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20219
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20293
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20360
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20415
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20483
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20426
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20350
+				},
+				{
+					"label": "Jan 5, 2025",
+					"value": 20288
+				},
+				{
+					"label": "Jan 6, 2025",
+					"value": 20210
+				},
+				{
+					"label": "Jan 6, 2025",
+					"value": 20136
+				},
+				{
+					"label": "Jan 6, 2025",
+					"value": 20068
+				},
+				{
+					"label": "Jan 6, 2025",
+					"value": 19975
+				},
+				{
+					"label": "Jan 7, 2025",
+					"value": 20083
+				},
+				{
+					"label": "Jan 7, 2025",
+					"value": 19992
+				},
+				{
+					"label": "Jan 7, 2025",
+					"value": 20126
+				},
+				{
+					"label": "Jan 7, 2025",
+					"value": 20206
+				},
+				{
+					"label": "Jan 8, 2025",
+					"value": 20286
+				},
+				{
+					"label": "Jan 8, 2025",
+					"value": 20235
+				},
+				{
+					"label": "Jan 8, 2025",
+					"value": 20309
+				},
+				{
+					"label": "Jan 8, 2025",
+					"value": 20403
+				},
+				{
+					"label": "Jan 8, 2025",
+					"value": 20488
+				},
+				{
+					"label": "Jan 9, 2025",
+					"value": 20549
+				},
+				{
+					"label": "Jan 10, 2025",
+					"value": 20603
+				},
+				{
+					"label": "Jan 10, 2025",
+					"value": 20659
+				},
+				{
+					"label": "Jan 11, 2025",
+					"value": 20616
+				},
+				{
+					"label": "Jan 11, 2025",
+					"value": 20576
+				},
+				{
+					"label": "Jan 12, 2025",
+					"value": 20495
+				},
+				{
+					"label": "Jan 12, 2025",
+					"value": 20550
+				},
+				{
+					"label": "Jan 13, 2025",
+					"value": 20491
+				},
+				{
+					"label": "Jan 14, 2025",
+					"value": 20567
+				},
+				{
+					"label": "Jan 14, 2025",
+					"value": 20480
+				},
+				{
+					"label": "Jan 15, 2025",
+					"value": 20428
+				},
+				{
+					"label": "Jan 15, 2025",
+					"value": 20489
+				},
+				{
+					"label": "Jan 16, 2025",
+					"value": 20435
+				},
+				{
+					"label": "Jan 16, 2025",
+					"value": 20481
+				},
+				{
+					"label": "Jan 17, 2025",
+					"value": 20545
+				},
+				{
+					"label": "Jan 17, 2025",
+					"value": 20624
+				},
+				{
+					"label": "Jan 18, 2025",
+					"value": 20599
+				},
+				{
+					"label": "Jan 18, 2025",
+					"value": 20655
+				},
+				{
+					"label": "Jan 18, 2025",
+					"value": 20712
+				},
+				{
+					"label": "Jan 18, 2025",
+					"value": 20776
+				},
+				{
+					"label": "Jan 18, 2025",
+					"value": 20842
+				},
+				{
+					"label": "Jan 19, 2025",
+					"value": 20887
+				},
+				{
+					"label": "Jan 20, 2025",
+					"value": 20835
+				},
+				{
+					"label": "Jan 20, 2025",
+					"value": 20916
+				},
+				{
+					"label": "Jan 21, 2025",
+					"value": 20856
+				},
+				{
+					"label": "Jan 25, 2025",
+					"value": 20911
+				},
+				{
+					"label": "Jan 27, 2025",
+					"value": 20846
+				},
+				{
+					"label": "Jan 28, 2025",
+					"value": 20783
+				},
+				{
+					"label": "Jan 29, 2025",
+					"value": 20750
+				},
+				{
+					"label": "Feb 2, 2025",
+					"value": 20796
+				},
+				{
+					"label": "Feb 2, 2025",
+					"value": 20843
+				},
+				{
+					"label": "Feb 10, 2025",
+					"value": 20778
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20713
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20763
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20691
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20627
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20581
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20515
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20466
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20386
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20294
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20229
+				},
+				{
+					"label": "Feb 11, 2025",
+					"value": 20140
+				},
+				{
+					"label": "Feb 13, 2025",
+					"value": 20229
+				},
+				{
+					"label": "Feb 24, 2025",
+					"value": 20288
+				},
+				{
+					"label": "Feb 25, 2025",
+					"value": 20360
+				},
+				{
+					"label": "Feb 25, 2025",
+					"value": 20453
+				},
+				{
+					"label": "Feb 27, 2025",
+					"value": 20505
+				},
+				{
+					"label": "Feb 27, 2025",
+					"value": 20449
+				},
+				{
+					"label": "Feb 27, 2025",
+					"value": 20383
+				},
+				{
+					"label": "Mar 2, 2025",
+					"value": 20298
+				},
+				{
+					"label": "Mar 2, 2025",
+					"value": 20231
+				},
+				{
+					"label": "Mar 2, 2025",
+					"value": 20137
+				},
+				{
+					"label": "Mar 2, 2025",
+					"value": 20221
+				},
+				{
+					"label": "Mar 5, 2025",
+					"value": 20127
+				},
+				{
+					"label": "Mar 5, 2025",
+					"value": 20043
+				},
+				{
+					"label": "Mar 12, 2025",
+					"value": 19857
+				},
+				{
+					"label": "Mar 12, 2025",
+					"value": 19765
+				},
+				{
+					"label": "Mar 12, 2025",
+					"value": 19839
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 19920
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 19989
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 19901
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 19986
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 20065
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 20167
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 20217
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 20139
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 20091
+				},
+				{
+					"label": "Mar 16, 2025",
+					"value": 19973
+				},
+				{
+					"label": "Mar 20, 2025",
+					"value": 19899
+				},
+				{
+					"label": "Mar 20, 2025",
+					"value": 19985
+				},
+				{
+					"label": "Mar 20, 2025",
+					"value": 19901
+				},
+				{
+					"label": "Mar 21, 2025",
+					"value": 19829
+				},
+				{
+					"label": "Mar 22, 2025",
+					"value": 19723
+				},
+				{
+					"label": "Mar 22, 2025",
+					"value": 19629
+				},
+				{
+					"label": "Mar 23, 2025",
+					"value": 19708
+				},
+				{
+					"label": "Mar 23, 2025",
+					"value": 19784
+				},
+				{
+					"label": "Mar 23, 2025",
+					"value": 19860
+				},
+				{
+					"label": "Mar 23, 2025",
+					"value": 19964
+				},
+				{
+					"label": "Mar 23, 2025",
+					"value": 19880
+				},
+				{
+					"label": "Mar 24, 2025",
+					"value": 19971
+				},
+				{
+					"label": "Mar 24, 2025",
+					"value": 20035
+				},
+				{
+					"label": "Mar 31, 2025",
+					"value": 19912
+				},
+				{
+					"label": "Mar 31, 2025",
+					"value": 19807
+				},
+				{
+					"label": "Apr 2, 2025",
+					"value": 19717
+				},
+				{
+					"label": "Apr 2, 2025",
+					"value": 19656
+				},
+				{
+					"label": "Apr 2, 2025",
+					"value": 19740
+				},
+				{
+					"label": "Apr 2, 2025",
+					"value": 19842
+				},
+				{
+					"label": "Apr 3, 2025",
+					"value": 19760
+				},
+				{
+					"label": "Apr 4, 2025",
+					"value": 19840
+				},
+				{
+					"label": "Apr 4, 2025",
+					"value": 19751
+				},
+				{
+					"label": "Apr 4, 2025",
+					"value": 19661
+				},
+				{
+					"label": "Apr 5, 2025",
+					"value": 19595
+				},
+				{
+					"label": "Apr 6, 2025",
+					"value": 19677
+				},
+				{
+					"label": "Apr 7, 2025",
+					"value": 19757
+				},
+				{
+					"label": "Apr 8, 2025",
+					"value": 19660
+				},
+				{
+					"label": "Apr 8, 2025",
+					"value": 19574
+				},
+				{
+					"label": "Apr 8, 2025",
+					"value": 19655
+				},
+				{
+					"label": "Apr 9, 2025",
+					"value": 19572
+				},
+				{
+					"label": "Apr 9, 2025",
+					"value": 19482
+				},
+				{
+					"label": "Apr 10, 2025",
+					"value": 19395
+				},
+				{
+					"label": "Apr 10, 2025",
+					"value": 19313
+				},
+				{
+					"label": "Apr 10, 2025",
+					"value": 19393
+				},
+				{
+					"label": "Apr 10, 2025",
+					"value": 19474
+				},
+				{
+					"label": "Apr 10, 2025",
+					"value": 19560
+				},
+				{
+					"label": "Apr 11, 2025",
+					"value": 19448
+				},
+				{
+					"label": "Apr 11, 2025",
+					"value": 19534
+				},
+				{
+					"label": "Apr 11, 2025",
+					"value": 19440
+				},
+				{
+					"label": "Apr 11, 2025",
+					"value": 19521
+				},
+				{
+					"label": "Apr 12, 2025",
+					"value": 19432
+				},
+				{
+					"label": "Apr 13, 2025",
+					"value": 19499
+				},
+				{
+					"label": "Apr 13, 2025",
+					"value": 19580
+				},
+				{
+					"label": "Apr 13, 2025",
+					"value": 19485
+				},
+				{
+					"label": "Apr 14, 2025",
+					"value": 19553
+				},
+				{
+					"label": "Apr 14, 2025",
+					"value": 19620
+				},
+				{
+					"label": "Apr 14, 2025",
+					"value": 19701
+				},
+				{
+					"label": "Apr 14, 2025",
+					"value": 19780
+				},
+				{
+					"label": "Apr 15, 2025",
+					"value": 19866
+				},
+				{
+					"label": "Apr 15, 2025",
+					"value": 19784
+				},
+				{
+					"label": "Apr 15, 2025",
+					"value": 19870
+				},
+				{
+					"label": "Apr 16, 2025",
+					"value": 19937
+				},
+				{
+					"label": "Apr 16, 2025",
+					"value": 20016
+				},
+				{
+					"label": "Apr 17, 2025",
+					"value": 19910
+				},
+				{
+					"label": "Apr 17, 2025",
+					"value": 19984
+				},
+				{
+					"label": "Apr 18, 2025",
+					"value": 20072
+				},
+				{
+					"label": "Apr 19, 2025",
+					"value": 20151
+				},
+				{
+					"label": "Apr 19, 2025",
+					"value": 20232
+				},
+				{
+					"label": "Apr 19, 2025",
+					"value": 20149
+				},
+				{
+					"label": "Apr 19, 2025",
+					"value": 20009
+				},
+				{
+					"label": "Apr 19, 2025",
+					"value": 20108
+				},
+				{
+					"label": "Apr 21, 2025",
+					"value": 20048
+				},
+				{
+					"label": "Apr 21, 2025",
+					"value": 19913
+				},
+				{
+					"label": "Apr 21, 2025",
+					"value": 19820
+				},
+				{
+					"label": "Apr 21, 2025",
+					"value": 19907
+				},
+				{
+					"label": "Apr 21, 2025",
+					"value": 19825
+				},
+				{
+					"label": "Apr 24, 2025",
+					"value": 19913
+				},
+				{
+					"label": "Apr 25, 2025",
+					"value": 19975
+				},
+				{
+					"label": "Apr 25, 2025",
+					"value": 20066
+				},
+				{
+					"label": "Apr 25, 2025",
+					"value": 19956
+				},
+				{
+					"label": "Apr 25, 2025",
+					"value": 20055
+				},
+				{
+					"label": "Apr 25, 2025",
+					"value": 20127
+				},
+				{
+					"label": "Apr 27, 2025",
+					"value": 20010
+				},
+				{
+					"label": "Apr 27, 2025",
+					"value": 20105
+				},
+				{
+					"label": "Apr 27, 2025",
+					"value": 19994
+				},
+				{
+					"label": "Apr 28, 2025",
+					"value": 19925
+				},
+				{
+					"label": "Apr 28, 2025",
+					"value": 19992
+				},
+				{
+					"label": "Apr 28, 2025",
+					"value": 20062
+				},
+				{
+					"label": "May 5, 2025",
+					"value": 20145
+				},
+				{
+					"label": "May 5, 2025",
+					"value": 20015
+				},
+				{
+					"label": "May 5, 2025",
+					"value": 20106
+				},
+				{
+					"label": "May 5, 2025",
+					"value": 19979
+				},
+				{
+					"label": "May 6, 2025",
+					"value": 20055
+				},
+				{
+					"label": "May 6, 2025",
+					"value": 20148
+				},
+				{
+					"label": "May 6, 2025",
+					"value": 20030
+				},
+				{
+					"label": "May 6, 2025",
+					"value": 20122
+				},
+				{
+					"label": "May 7, 2025",
+					"value": 20206
+				},
+				{
+					"label": "May 7, 2025",
+					"value": 20138
+				},
+				{
+					"label": "May 7, 2025",
+					"value": 20008
+				},
+				{
+					"label": "May 7, 2025",
+					"value": 19882
+				},
+				{
+					"label": "May 7, 2025",
+					"value": 19785
+				},
+				{
+					"label": "May 8, 2025",
+					"value": 19858
+				},
+				{
+					"label": "May 8, 2025",
+					"value": 19924
+				},
+				{
+					"label": "May 8, 2025",
+					"value": 19838
+				},
+				{
+					"label": "May 8, 2025",
+					"value": 19750
+				},
+				{
+					"label": "May 8, 2025",
+					"value": 19671
+				},
+				{
+					"label": "May 8, 2025",
+					"value": 19759
+				},
+				{
+					"label": "May 8, 2025",
+					"value": 19859
+				},
+				{
+					"label": "May 9, 2025",
+					"value": 19930
+				},
+				{
+					"label": "May 9, 2025",
+					"value": 20003
+				},
+				{
+					"label": "May 9, 2025",
+					"value": 20097
+				},
+				{
+					"label": "May 9, 2025",
+					"value": 20172
+				},
+				{
+					"label": "May 10, 2025",
+					"value": 20276
+				},
+				{
+					"label": "May 10, 2025",
+					"value": 20235
+				},
+				{
+					"label": "May 11, 2025",
+					"value": 20290
+				},
+				{
+					"label": "May 11, 2025",
+					"value": 20251
+				},
+				{
+					"label": "May 11, 2025",
+					"value": 20211
+				},
+				{
+					"label": "May 11, 2025",
+					"value": 20065
+				},
+				{
+					"label": "May 12, 2025",
+					"value": 19936
+				},
+				{
+					"label": "May 13, 2025",
+					"value": 20013
+				},
+				{
+					"label": "May 13, 2025",
+					"value": 19867
+				},
+				{
+					"label": "May 13, 2025",
+					"value": 19944
+				},
+				{
+					"label": "May 13, 2025",
+					"value": 19862
+				},
+				{
+					"label": "May 13, 2025",
+					"value": 19938
+				},
+				{
+					"label": "May 14, 2025",
+					"value": 20029
+				},
+				{
+					"label": "May 15, 2025",
+					"value": 19927
+				},
+				{
+					"label": "May 15, 2025",
+					"value": 19859
+				},
+				{
+					"label": "May 16, 2025",
+					"value": 19943
+				},
+				{
+					"label": "May 16, 2025",
+					"value": 19859
+				},
+				{
+					"label": "May 16, 2025",
+					"value": 19759
+				},
+				{
+					"label": "May 16, 2025",
+					"value": 19829
+				},
+				{
+					"label": "May 16, 2025",
+					"value": 19943
+				},
+				{
+					"label": "May 17, 2025",
+					"value": 20031
+				},
+				{
+					"label": "May 17, 2025",
+					"value": 19889
+				},
+				{
+					"label": "May 17, 2025",
+					"value": 19797
+				},
+				{
+					"label": "May 19, 2025",
+					"value": 19875
+				},
+				{
+					"label": "May 19, 2025",
+					"value": 19953
+				},
+				{
+					"label": "May 19, 2025",
+					"value": 20016
+				},
+				{
+					"label": "May 19, 2025",
+					"value": 19944
+				},
+				{
+					"label": "May 20, 2025",
+					"value": 19886
+				},
+				{
+					"label": "May 20, 2025",
+					"value": 19808
+				},
+				{
+					"label": "May 21, 2025",
+					"value": 19720
+				},
+				{
+					"label": "May 21, 2025",
+					"value": 19627
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19695
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19765
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19838
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19768
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19839
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19920
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19827
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19745
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19836
+				},
+				{
+					"label": "May 22, 2025",
+					"value": 19903
+				},
+				{
+					"label": "May 23, 2025",
+					"value": 19983
+				},
+				{
+					"label": "May 23, 2025",
+					"value": 20039
+				},
+				{
+					"label": "May 23, 2025",
+					"value": 19928
+				},
+				{
+					"label": "May 23, 2025",
+					"value": 19866
+				},
+				{
+					"label": "May 26, 2025",
+					"value": 19956
+				},
+				{
+					"label": "May 26, 2025",
+					"value": 20057
+				},
+				{
+					"label": "May 26, 2025",
+					"value": 20149
+				},
+				{
+					"label": "May 26, 2025",
+					"value": 20230
+				},
+				{
+					"label": "May 26, 2025",
+					"value": 20287
+				},
+				{
+					"label": "May 26, 2025",
+					"value": 20364
+				},
+				{
+					"label": "May 27, 2025",
+					"value": 20423
+				},
+				{
+					"label": "May 27, 2025",
+					"value": 20360
+				},
+				{
+					"label": "May 27, 2025",
+					"value": 20432
+				},
+				{
+					"label": "May 28, 2025",
+					"value": 20501
+				},
+				{
+					"label": "May 28, 2025",
+					"value": 20444
+				},
+				{
+					"label": "May 28, 2025",
+					"value": 20379
+				},
+				{
+					"label": "May 28, 2025",
+					"value": 20461
+				},
+				{
+					"label": "May 29, 2025",
+					"value": 20396
+				},
+				{
+					"label": "May 29, 2025",
+					"value": 20449
+				},
+				{
+					"label": "May 29, 2025",
+					"value": 20526
+				},
+				{
+					"label": "May 30, 2025",
+					"value": 20463
+				},
+				{
+					"label": "May 30, 2025",
+					"value": 20383
+				},
+				{
+					"label": "May 30, 2025",
+					"value": 20462
+				},
+				{
+					"label": "May 30, 2025",
+					"value": 20397
+				},
+				{
+					"label": "May 31, 2025",
+					"value": 20472
+				},
+				{
+					"label": "May 31, 2025",
+					"value": 20431
+				},
+				{
+					"label": "May 31, 2025",
+					"value": 20370
+				},
+				{
+					"label": "Jun 1, 2025",
+					"value": 20448
+				},
+				{
+					"label": "Jun 1, 2025",
+					"value": 20514
+				},
+				{
+					"label": "Jun 1, 2025",
+					"value": 20570
+				},
+				{
+					"label": "Jun 1, 2025",
+					"value": 20627
+				},
+				{
+					"label": "Jun 2, 2025",
+					"value": 20573
+				},
+				{
+					"label": "Jun 2, 2025",
+					"value": 20499
+				},
+				{
+					"label": "Jun 2, 2025",
+					"value": 20561
+				},
+				{
+					"label": "Jun 2, 2025",
+					"value": 20504
+				},
+				{
+					"label": "Jun 3, 2025",
+					"value": 20443
+				},
+				{
+					"label": "Jun 3, 2025",
+					"value": 20481
+				},
+				{
+					"label": "Jun 3, 2025",
+					"value": 20554
+				},
+				{
+					"label": "Jun 3, 2025",
+					"value": 20616
+				},
+				{
+					"label": "Jun 3, 2025",
+					"value": 20555
+				},
+				{
+					"label": "Jun 3, 2025",
+					"value": 20620
+				},
+				{
+					"label": "Jun 4, 2025",
+					"value": 20680
+				},
+				{
+					"label": "Jun 4, 2025",
+					"value": 20619
+				},
+				{
+					"label": "Jun 5, 2025",
+					"value": 20690
+				},
+				{
+					"label": "Jun 5, 2025",
+					"value": 20643
+				},
+				{
+					"label": "Jun 5, 2025",
+					"value": 20704
+				},
+				{
+					"label": "Jun 6, 2025",
+					"value": 20762
+				},
+				{
+					"label": "Jun 6, 2025",
+					"value": 20846
+				},
+				{
+					"label": "Jun 6, 2025",
+					"value": 20796
+				},
+				{
+					"label": "Jun 7, 2025",
+					"value": 20734
+				},
+				{
+					"label": "Jun 7, 2025",
+					"value": 20686
+				},
+				{
+					"label": "Jun 7, 2025",
+					"value": 20759
+				},
+				{
+					"label": "Jun 8, 2025",
+					"value": 20695
+				},
+				{
+					"label": "Jun 9, 2025",
+					"value": 20635
+				},
+				{
+					"label": "Jun 9, 2025",
+					"value": 20575
+				},
+				{
+					"label": "Jun 30, 2025",
+					"value": 20417
+				},
+				{
+					"label": "Jul 1, 2025",
+					"value": 20417
+				},
+				{
+					"label": "Jul 2, 2025",
+					"value": 20329
+				},
+				{
+					"label": "Jul 2, 2025",
+					"value": 20180
+				},
+				{
+					"label": "Jul 3, 2025",
+					"value": 20066
+				},
+				{
+					"label": "Jul 4, 2025",
+					"value": 19880
+				},
+				{
+					"label": "Jul 4, 2025",
+					"value": 19770
+				},
+				{
+					"label": "Jul 6, 2025",
+					"value": 19869
+				},
+				{
+					"label": "Jul 8, 2025",
+					"value": 19757
+				},
+				{
+					"label": "Jul 8, 2025",
+					"value": 19642
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19542
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19652
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19765
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19662
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19759
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19643
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19781
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19876
+				},
+				{
+					"label": "Jul 10, 2025",
+					"value": 19982
+				},
+				{
+					"label": "Jul 11, 2025",
+					"value": 19906
+				},
+				{
+					"label": "Jul 11, 2025",
+					"value": 19998
+				},
+				{
+					"label": "Jul 11, 2025",
+					"value": 20082
+				},
+				{
+					"label": "Jul 13, 2025",
+					"value": 20173
+				},
+				{
+					"label": "Jul 14, 2025",
+					"value": 20037
+				},
+				{
+					"label": "Jul 14, 2025",
+					"value": 20128
+				},
+				{
+					"label": "Jul 14, 2025",
+					"value": 20211
+				},
+				{
+					"label": "Jul 14, 2025",
+					"value": 20322
+				},
+				{
+					"label": "Jul 16, 2025",
+					"value": 20421
+				},
+				{
+					"label": "Jul 16, 2025",
+					"value": 20346
+				},
+				{
+					"label": "Jul 16, 2025",
+					"value": 20234
+				},
+				{
+					"label": "Jul 16, 2025",
+					"value": 20135
+				},
+				{
+					"label": "Jul 17, 2025",
+					"value": 20224
+				},
+				{
+					"label": "Jul 17, 2025",
+					"value": 20174
+				},
+				{
+					"label": "Jul 17, 2025",
+					"value": 20060
+				},
+				{
+					"label": "Jul 18, 2025",
+					"value": 20167
+				},
+				{
+					"label": "Jul 18, 2025",
+					"value": 20076
+				},
+				{
+					"label": "Jul 21, 2025",
+					"value": 20174
+				},
+				{
+					"label": "Jul 21, 2025",
+					"value": 20258
+				},
+				{
+					"label": "Jul 21, 2025",
+					"value": 20343
+				},
+				{
+					"label": "Jul 21, 2025",
+					"value": 20430
+				},
+				{
+					"label": "Jul 21, 2025",
+					"value": 20341
+				},
+				{
+					"label": "Jul 22, 2025",
+					"value": 20418
+				},
+				{
+					"label": "Jul 22, 2025",
+					"value": 20362
+				},
+				{
+					"label": "Jul 23, 2025",
+					"value": 20239
+				},
+				{
+					"label": "Jul 23, 2025",
+					"value": 20323
+				},
+				{
+					"label": "Jul 23, 2025",
+					"value": 20201
+				},
+				{
+					"label": "Jul 23, 2025",
+					"value": 20073
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 19946
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 20023
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 20109
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 20022
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 19898
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 19798
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 19873
+				},
+				{
+					"label": "Jul 24, 2025",
+					"value": 19794
+				},
+				{
+					"label": "Jul 25, 2025",
+					"value": 19873
+				},
+				{
+					"label": "Jul 25, 2025",
+					"value": 19939
+				},
+				{
+					"label": "Jul 25, 2025",
+					"value": 19869
+				},
+				{
+					"label": "Jul 27, 2025",
+					"value": 19945
+				},
+				{
+					"label": "Jul 27, 2025",
+					"value": 20026
+				},
+				{
+					"label": "Jul 27, 2025",
+					"value": 20114
+				},
+				{
+					"label": "Jul 27, 2025",
+					"value": 20187
+				},
+				{
+					"label": "Jul 27, 2025",
+					"value": 20289
+				},
+				{
+					"label": "Jul 27, 2025",
+					"value": 20370
+				},
+				{
+					"label": "Jul 27, 2025",
+					"value": 20466
+				},
+				{
+					"label": "Jul 28, 2025",
+					"value": 20402
+				},
+				{
+					"label": "Jul 29, 2025",
+					"value": 20258
+				},
+				{
+					"label": "Aug 1, 2025",
+					"value": 20144
+				},
+				{
+					"label": "Aug 1, 2025",
+					"value": 20027
+				},
+				{
+					"label": "Aug 1, 2025",
+					"value": 19948
+				},
+				{
+					"label": "Aug 1, 2025",
+					"value": 19864
+				},
+				{
+					"label": "Aug 1, 2025",
+					"value": 19927
+				},
+				{
+					"label": "Aug 2, 2025",
+					"value": 19836
+				},
+				{
+					"label": "Aug 2, 2025",
+					"value": 19758
+				},
+				{
+					"label": "Aug 2, 2025",
+					"value": 19675
+				},
+				{
+					"label": "Aug 3, 2025",
+					"value": 19747
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19683
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19583
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19652
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19729
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19818
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19731
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19623
+				},
+				{
+					"label": "Aug 4, 2025",
+					"value": 19540
+				},
+				{
+					"label": "Aug 6, 2025",
+					"value": 19629
+				},
+				{
+					"label": "Aug 6, 2025",
+					"value": 19550
+				},
+				{
+					"label": "Aug 6, 2025",
+					"value": 19445
+				},
+				{
+					"label": "Aug 6, 2025",
+					"value": 19342
+				},
+				{
+					"label": "Aug 6, 2025",
+					"value": 19259
+				},
+				{
+					"label": "Aug 7, 2025",
+					"value": 19174
+				},
+				{
+					"label": "Aug 7, 2025",
+					"value": 19067
+				},
+				{
+					"label": "Aug 7, 2025",
+					"value": 19162
+				},
+				{
+					"label": "Aug 7, 2025",
+					"value": 19046
+				},
+				{
+					"label": "Aug 8, 2025",
+					"value": 19141
+				},
+				{
+					"label": "Aug 8, 2025",
+					"value": 19253
+				},
+				{
+					"label": "Aug 8, 2025",
+					"value": 19159
+				},
+				{
+					"label": "Aug 8, 2025",
+					"value": 19254
+				},
+				{
+					"label": "Aug 9, 2025",
+					"value": 19326
+				},
+				{
+					"label": "Aug 9, 2025",
+					"value": 19434
+				},
+				{
+					"label": "Aug 9, 2025",
+					"value": 19516
+				},
+				{
+					"label": "Aug 9, 2025",
+					"value": 19618
+				},
+				{
+					"label": "Aug 9, 2025",
+					"value": 19686
+				},
+				{
+					"label": "Aug 9, 2025",
+					"value": 19773
+				},
+				{
+					"label": "Aug 10, 2025",
+					"value": 19692
+				},
+				{
+					"label": "Aug 10, 2025",
+					"value": 19783
+				},
+				{
+					"label": "Aug 10, 2025",
+					"value": 19844
+				},
+				{
+					"label": "Aug 10, 2025",
+					"value": 19935
+				},
+				{
+					"label": "Aug 11, 2025",
+					"value": 20018
+				},
+				{
+					"label": "Aug 11, 2025",
+					"value": 19898
+				},
+				{
+					"label": "Aug 11, 2025",
+					"value": 19974
+				},
+				{
+					"label": "Aug 11, 2025",
+					"value": 19889
+				},
+				{
+					"label": "Aug 12, 2025",
+					"value": 19817
+				},
+				{
+					"label": "Aug 12, 2025",
+					"value": 19715
+				},
+				{
+					"label": "Aug 12, 2025",
+					"value": 19801
+				},
+				{
+					"label": "Aug 12, 2025",
+					"value": 19871
+				},
+				{
+					"label": "Aug 13, 2025",
+					"value": 19936
+				},
+				{
+					"label": "Aug 13, 2025",
+					"value": 20023
+				},
+				{
+					"label": "Aug 13, 2025",
+					"value": 19939
+				},
+				{
+					"label": "Aug 14, 2025",
+					"value": 20039
+				},
+				{
+					"label": "Aug 15, 2025",
+					"value": 20132
+				},
+				{
+					"label": "Aug 15, 2025",
+					"value": 20004
+				},
+				{
+					"label": "Aug 15, 2025",
+					"value": 20114
+				},
+				{
+					"label": "Aug 15, 2025",
+					"value": 20196
+				},
+				{
+					"label": "Aug 18, 2025",
+					"value": 20119
+				},
+				{
+					"label": "Aug 18, 2025",
+					"value": 20025
+				},
+				{
+					"label": "Aug 19, 2025",
+					"value": 19888
+				},
+				{
+					"label": "Aug 27, 2025",
+					"value": 19800
+				},
+				{
+					"label": "Sep 6, 2025",
+					"value": 19691
+				},
+				{
+					"label": "Sep 6, 2025",
+					"value": 19797
+				},
+				{
+					"label": "Sep 8, 2025",
+					"value": 19681
+				},
+				{
+					"label": "Sep 8, 2025",
+					"value": 19592
+				},
+				{
+					"label": "Sep 15, 2025",
+					"value": 19530
+				},
+				{
+					"label": "Sep 16, 2025",
+					"value": 19625
+				},
+				{
+					"label": "Sep 17, 2025",
+					"value": 19534
+				},
+				{
+					"label": "Sep 17, 2025",
+					"value": 19617
+				},
+				{
+					"label": "Sep 17, 2025",
+					"value": 19528
+				},
+				{
+					"label": "Sep 17, 2025",
+					"value": 19623
+				},
+				{
+					"label": "Sep 18, 2025",
+					"value": 19724
+				},
+				{
+					"label": "Sep 22, 2025",
+					"value": 19666
+				},
+				{
+					"label": "Sep 23, 2025",
+					"value": 19591
+				},
+				{
+					"label": "Oct 1, 2025",
+					"value": 19491
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19600
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19689
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19608
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19689
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19758
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19670
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19743
+				},
+				{
+					"label": "Oct 3, 2025",
+					"value": 19851
+				},
+				{
+					"label": "Oct 5, 2025",
+					"value": 19930
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 19828
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 19924
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20015
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20101
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 19990
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 19932
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 19870
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 19950
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20020
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20109
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20197
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20101
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20194
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20314
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20196
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20311
+				},
+				{
+					"label": "Oct 6, 2025",
+					"value": 20209
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20285
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20384
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20277
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20363
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20455
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20356
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20454
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20544
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20623
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20667
+				},
+				{
+					"label": "Oct 7, 2025",
+					"value": 20728
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20681
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20744
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20671
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20713
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20779
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20827
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20903
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 20954
+				},
+				{
+					"label": "Oct 8, 2025",
+					"value": 21009
+				},
+				{
+					"label": "Oct 9, 2025",
+					"value": 21055
+				},
+				{
+					"label": "Oct 9, 2025",
+					"value": 20992
+				},
+				{
+					"label": "Oct 10, 2025",
+					"value": 21046
+				},
+				{
+					"label": "Oct 11, 2025",
+					"value": 21096
+				},
+				{
+					"label": "Oct 13, 2025",
+					"value": 21156
+				},
+				{
+					"label": "Oct 13, 2025",
+					"value": 21101
+				},
+				{
+					"label": "Oct 14, 2025",
+					"value": 21053
+				},
+				{
+					"label": "Oct 14, 2025",
+					"value": 21042
+				},
+				{
+					"label": "Oct 17, 2025",
+					"value": 20971
+				},
+				{
+					"label": "Oct 17, 2025",
+					"value": 21021
+				},
+				{
+					"label": "Oct 18, 2025",
+					"value": 20974
+				},
+				{
+					"label": "Oct 19, 2025",
+					"value": 20927
+				},
+				{
+					"label": "Oct 19, 2025",
+					"value": 20858
+				},
+				{
+					"label": "Oct 19, 2025",
+					"value": 20798
+				},
+				{
+					"label": "Oct 19, 2025",
+					"value": 20749
+				},
+				{
+					"label": "Oct 20, 2025",
+					"value": 20811
+				},
+				{
+					"label": "Oct 20, 2025",
+					"value": 20758
+				},
+				{
+					"label": "Oct 20, 2025",
+					"value": 20815
+				},
+				{
+					"label": "Oct 20, 2025",
+					"value": 20741
+				},
+				{
+					"label": "Oct 20, 2025",
+					"value": 20663
+				},
+				{
+					"label": "Oct 21, 2025",
+					"value": 20616
+				},
+				{
+					"label": "Oct 21, 2025",
+					"value": 20672
+				},
+				{
+					"label": "Oct 21, 2025",
+					"value": 20607
+				},
+				{
+					"label": "Oct 21, 2025",
+					"value": 20690
+				},
+				{
+					"label": "Oct 22, 2025",
+					"value": 20733
+				},
+				{
+					"label": "Oct 24, 2025",
+					"value": 20784
+				},
+				{
+					"label": "Oct 24, 2025",
+					"value": 20867
+				},
+				{
+					"label": "Oct 24, 2025",
+					"value": 20923
+				},
+				{
+					"label": "Oct 27, 2025",
+					"value": 20978
+				},
+				{
+					"label": "Oct 27, 2025",
+					"value": 21038
+				},
+				{
+					"label": "Oct 28, 2025",
+					"value": 21004
+				},
+				{
+					"label": "Oct 28, 2025",
+					"value": 20933
+				},
+				{
+					"label": "Oct 28, 2025",
+					"value": 20873
+				},
+				{
+					"label": "Oct 30, 2025",
+					"value": 20841
+				},
+				{
+					"label": "Oct 30, 2025",
+					"value": 20913
+				},
+				{
+					"label": "Nov 3, 2025",
+					"value": 20834
+				},
+				{
+					"label": "Nov 3, 2025",
+					"value": 20768
+				},
+				{
+					"label": "Nov 4, 2025",
+					"value": 20809
+				},
+				{
+					"label": "Nov 4, 2025",
+					"value": 20743
+				},
+				{
+					"label": "Nov 4, 2025",
+					"value": 20683
+				},
+				{
+					"label": "Nov 4, 2025",
+					"value": 20729
+				},
+				{
+					"label": "Nov 5, 2025",
+					"value": 20666
+				},
+				{
+					"label": "Nov 5, 2025",
+					"value": 20601
+				},
+				{
+					"label": "Nov 5, 2025",
+					"value": 20538
+				},
+				{
+					"label": "Nov 7, 2025",
+					"value": 20592
+				},
+				{
+					"label": "Nov 7, 2025",
+					"value": 20516
+				},
+				{
+					"label": "Nov 8, 2025",
+					"value": 20456
+				},
+				{
+					"label": "Nov 8, 2025",
+					"value": 20370
+				},
+				{
+					"label": "Nov 8, 2025",
+					"value": 20239
+				},
+				{
+					"label": "Nov 8, 2025",
+					"value": 20339
+				},
+				{
+					"label": "Nov 9, 2025",
+					"value": 20409
+				},
+				{
+					"label": "Nov 9, 2025",
+					"value": 20332
+				},
+				{
+					"label": "Nov 10, 2025",
+					"value": 20222
+				},
+				{
+					"label": "Nov 10, 2025",
+					"value": 20135
+				},
+				{
+					"label": "Nov 10, 2025",
+					"value": 20192
+				},
+				{
+					"label": "Nov 11, 2025",
+					"value": 20274
+				},
+				{
+					"label": "Nov 11, 2025",
+					"value": 20187
+				},
+				{
+					"label": "Nov 12, 2025",
+					"value": 20299
+				},
+				{
+					"label": "Nov 12, 2025",
+					"value": 20375
+				},
+				{
+					"label": "Nov 12, 2025",
+					"value": 20319
+				},
+				{
+					"label": "Nov 12, 2025",
+					"value": 20425
+				},
+				{
+					"label": "Nov 13, 2025",
+					"value": 20485
+				},
+				{
+					"label": "Nov 13, 2025",
+					"value": 20428
+				},
+				{
+					"label": "Nov 17, 2025",
+					"value": 20342
+				},
+				{
+					"label": "Nov 17, 2025",
+					"value": 20212
+				},
+				{
+					"label": "Nov 18, 2025",
+					"value": 20087
+				},
+				{
+					"label": "Nov 18, 2025",
+					"value": 20177
+				},
+				{
+					"label": "Nov 19, 2025",
+					"value": 20273
+				},
+				{
+					"label": "Nov 19, 2025",
+					"value": 20190
+				},
+				{
+					"label": "Nov 19, 2025",
+					"value": 20288
+				},
+				{
+					"label": "Nov 21, 2025",
+					"value": 20196
+				},
+				{
+					"label": "Nov 23, 2025",
+					"value": 20277
+				},
+				{
+					"label": "Nov 23, 2025",
+					"value": 20132
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 20199
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 20051
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 19899
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 19812
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 19884
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 19812
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 19719
+				},
+				{
+					"label": "Nov 24, 2025",
+					"value": 19785
+				},
+				{
+					"label": "Nov 27, 2025",
+					"value": 19691
+				},
+				{
+					"label": "Nov 27, 2025",
+					"value": 19775
+				},
+				{
+					"label": "Nov 27, 2025",
+					"value": 19865
+				},
+				{
+					"label": "Nov 27, 2025",
+					"value": 19944
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19858
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19943
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 20014
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19922
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19962
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19895
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19816
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19903
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19988
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19908
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19832
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19906
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 19987
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 20077
+				},
+				{
+					"label": "Nov 28, 2025",
+					"value": 20161
+				},
+				{
+					"label": "Nov 29, 2025",
+					"value": 20239
+				},
+				{
+					"label": "Nov 29, 2025",
+					"value": 20312
+				},
+				{
+					"label": "Nov 29, 2025",
+					"value": 20214
+				},
+				{
+					"label": "Nov 30, 2025",
+					"value": 20085
+				},
+				{
+					"label": "Nov 30, 2025",
+					"value": 19962
+				},
+				{
+					"label": "Dec 1, 2025",
+					"value": 20030
+				},
+				{
+					"label": "Dec 1, 2025",
+					"value": 19896
+				},
+				{
+					"label": "Dec 2, 2025",
+					"value": 19804
+				},
+				{
+					"label": "Dec 2, 2025",
+					"value": 19854
+				},
+				{
+					"label": "Dec 2, 2025",
+					"value": 19948
+				},
+				{
+					"label": "Dec 3, 2025",
+					"value": 19871
+				},
+				{
+					"label": "Dec 5, 2025",
+					"value": 19778
+				},
+				{
+					"label": "Dec 5, 2025",
+					"value": 19879
+				},
+				{
+					"label": "Dec 5, 2025",
+					"value": 19795
+				},
+				{
+					"label": "Dec 8, 2025",
+					"value": 19878
+				},
+				{
+					"label": "Dec 8, 2025",
+					"value": 19977
+				},
+				{
+					"label": "Dec 8, 2025",
+					"value": 20045
+				},
+				{
+					"label": "Dec 8, 2025",
+					"value": 19932
+				},
+				{
+					"label": "Dec 8, 2025",
+					"value": 20002
+				},
+				{
+					"label": "Dec 8, 2025",
+					"value": 19874
+				},
+				{
+					"label": "Dec 8, 2025",
+					"value": 19935
+				},
+				{
+					"label": "Dec 9, 2025",
+					"value": 20022
+				},
+				{
+					"label": "Dec 9, 2025",
+					"value": 19899
+				},
+				{
+					"label": "Dec 9, 2025",
+					"value": 19805
+				},
+				{
+					"label": "Dec 9, 2025",
+					"value": 19874
+				},
+				{
+					"label": "Dec 9, 2025",
+					"value": 19798
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19715
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19627
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19543
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19464
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19563
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19631
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19703
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19766
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19825
+				},
+				{
+					"label": "Dec 10, 2025",
+					"value": 19762
+				},
+				{
+					"label": "Dec 12, 2025",
+					"value": 19706
+				},
+				{
+					"label": "Dec 12, 2025",
+					"value": 19613
+				},
+				{
+					"label": "Dec 12, 2025",
+					"value": 19692
+				},
+				{
+					"label": "Dec 12, 2025",
+					"value": 19601
+				},
+				{
+					"label": "Dec 12, 2025",
+					"value": 19520
+				},
+				{
+					"label": "Dec 13, 2025",
+					"value": 19612
+				},
+				{
+					"label": "Dec 15, 2025",
+					"value": 19558
+				},
+				{
+					"label": "Dec 15, 2025",
+					"value": 19632
+				},
+				{
+					"label": "Dec 15, 2025",
+					"value": 19536
+				},
+				{
+					"label": "Dec 15, 2025",
+					"value": 19645
+				},
+				{
+					"label": "Dec 17, 2025",
+					"value": 19556
+				},
+				{
+					"label": "Dec 18, 2025",
+					"value": 19628
+				},
+				{
+					"label": "Dec 18, 2025",
+					"value": 19550
+				},
+				{
+					"label": "Dec 18, 2025",
+					"value": 19470
+				},
+				{
+					"label": "Dec 18, 2025",
+					"value": 19544
+				},
+				{
+					"label": "Dec 19, 2025",
+					"value": 19416
+				},
+				{
+					"label": "Dec 19, 2025",
+					"value": 19499
+				},
+				{
+					"label": "Dec 19, 2025",
+					"value": 19585
+				},
+				{
+					"label": "Dec 19, 2025",
+					"value": 19509
+				},
+				{
+					"label": "Dec 20, 2025",
+					"value": 19603
+				},
+				{
+					"label": "Dec 20, 2025",
+					"value": 19519
+				},
+				{
+					"label": "Dec 20, 2025",
+					"value": 19608
+				},
+				{
+					"label": "Dec 20, 2025",
+					"value": 19688
+				},
+				{
+					"label": "Dec 21, 2025",
+					"value": 19592
+				},
+				{
+					"label": "Dec 21, 2025",
+					"value": 19547
+				},
+				{
+					"label": "Dec 22, 2025",
+					"value": 19626
+				},
+				{
+					"label": "Dec 22, 2025",
+					"value": 19708
+				},
+				{
+					"label": "Dec 22, 2025",
+					"value": 19627
+				},
+				{
+					"label": "Dec 22, 2025",
+					"value": 19541
+				},
+				{
+					"label": "Dec 22, 2025",
+					"value": 19608
+				},
+				{
+					"label": "Dec 22, 2025",
+					"value": 19680
+				},
+				{
+					"label": "Dec 22, 2025",
+					"value": 19770
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19845
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19765
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19832
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19894
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19982
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 20048
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19915
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19977
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19895
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 19957
+				},
+				{
+					"label": "Dec 23, 2025",
+					"value": 20027
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20099
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20208
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20295
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20195
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20265
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20359
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20471
+				},
+				{
+					"label": "Dec 24, 2025",
+					"value": 20409
+				},
+				{
+					"label": "Dec 25, 2025",
+					"value": 20517
+				},
+				{
+					"label": "Dec 25, 2025",
+					"value": 20436
+				},
+				{
+					"label": "Dec 26, 2025",
+					"value": 20381
+				},
+				{
+					"label": "Dec 26, 2025",
+					"value": 20251
+				},
+				{
+					"label": "Dec 26, 2025",
+					"value": 20159
+				},
+				{
+					"label": "Dec 26, 2025",
+					"value": 20033
+				},
+				{
+					"label": "Dec 26, 2025",
+					"value": 20155
+				},
+				{
+					"label": "Dec 26, 2025",
+					"value": 20022
+				},
+				{
+					"label": "Dec 27, 2025",
+					"value": 20130
+				},
+				{
+					"label": "Dec 27, 2025",
+					"value": 20184
+				},
+				{
+					"label": "Dec 27, 2025",
+					"value": 20265
+				},
+				{
+					"label": "Dec 27, 2025",
+					"value": 20354
+				},
+				{
+					"label": "Dec 28, 2025",
+					"value": 20302
+				},
+				{
+					"label": "Dec 29, 2025",
+					"value": 20412
+				},
+				{
+					"label": "Dec 29, 2025",
+					"value": 20269
+				},
+				{
+					"label": "Dec 30, 2025",
+					"value": 20153
+				},
+				{
+					"label": "Dec 30, 2025",
+					"value": 20082
+				},
+				{
+					"label": "Dec 30, 2025",
+					"value": 20155
+				},
+				{
+					"label": "Dec 30, 2025",
+					"value": 20021
+				},
+				{
+					"label": "Dec 30, 2025",
+					"value": 20100
+				},
+				{
+					"label": "Jan 1, 2026",
+					"value": 19959
+				},
+				{
+					"label": "Jan 1, 2026",
+					"value": 19903
+				},
+				{
+					"label": "Jan 4, 2026",
+					"value": 19834
+				},
+				{
+					"label": "Jan 4, 2026",
+					"value": 19889
+				},
+				{
+					"label": "Jan 4, 2026",
+					"value": 19960
+				},
+				{
+					"label": "Jan 4, 2026",
+					"value": 19891
+				},
+				{
+					"label": "Jan 5, 2026",
+					"value": 19973
+				},
+				{
+					"label": "Jan 5, 2026",
+					"value": 19898
+				},
+				{
+					"label": "Jan 5, 2026",
+					"value": 19966
+				},
+				{
+					"label": "Jan 5, 2026",
+					"value": 19885
+				},
+				{
+					"label": "Jan 5, 2026",
+					"value": 19800
+				},
+				{
+					"label": "Jan 6, 2026",
+					"value": 19706
+				},
+				{
+					"label": "Jan 6, 2026",
+					"value": 19626
+				},
+				{
+					"label": "Jan 6, 2026",
+					"value": 19701
+				},
+				{
+					"label": "Jan 6, 2026",
+					"value": 19788
+				},
+				{
+					"label": "Jan 6, 2026",
+					"value": 19695
+				},
+				{
+					"label": "Jan 7, 2026",
+					"value": 19609
+				},
+				{
+					"label": "Jan 8, 2026",
+					"value": 19722
+				},
+				{
+					"label": "Jan 8, 2026",
+					"value": 19793
+				},
+				{
+					"label": "Jan 8, 2026",
+					"value": 19723
+				},
+				{
+					"label": "Jan 8, 2026",
+					"value": 19649
+				},
+				{
+					"label": "Jan 8, 2026",
+					"value": 19741
+				},
+				{
+					"label": "Jan 9, 2026",
+					"value": 19837
+				},
+				{
+					"label": "Jan 9, 2026",
+					"value": 19760
+				},
+				{
+					"label": "Jan 9, 2026",
+					"value": 19838
+				},
+				{
+					"label": "Jan 12, 2026",
+					"value": 19917
+				},
+				{
+					"label": "Jan 12, 2026",
+					"value": 19990
+				},
+				{
+					"label": "Jan 12, 2026",
+					"value": 20085
+				},
+				{
+					"label": "Jan 13, 2026",
+					"value": 19962
+				},
+				{
+					"label": "Jan 13, 2026",
+					"value": 20036
+				},
+				{
+					"label": "Jan 13, 2026",
+					"value": 19938
+				},
+				{
+					"label": "Jan 13, 2026",
+					"value": 19859
+				},
+				{
+					"label": "Jan 14, 2026",
+					"value": 19915
+				},
+				{
+					"label": "Jan 14, 2026",
+					"value": 19984
+				},
+				{
+					"label": "Jan 14, 2026",
+					"value": 20043
+				},
+				{
+					"label": "Jan 14, 2026",
+					"value": 20127
+				},
+				{
+					"label": "Jan 14, 2026",
+					"value": 19999
+				},
+				{
+					"label": "Jan 14, 2026",
+					"value": 19928
+				},
+				{
+					"label": "Jan 14, 2026",
+					"value": 19847
+				},
+				{
+					"label": "Jan 15, 2026",
+					"value": 19754
+				},
+				{
+					"label": "Jan 16, 2026",
+					"value": 19677
+				},
+				{
+					"label": "Jan 16, 2026",
+					"value": 19756
+				},
+				{
+					"label": "Jan 16, 2026",
+					"value": 19821
+				},
+				{
+					"label": "Jan 17, 2026",
+					"value": 19886
+				},
+				{
+					"label": "Jan 17, 2026",
+					"value": 19826
+				},
+				{
+					"label": "Jan 19, 2026",
+					"value": 19908
+				},
+				{
+					"label": "Jan 19, 2026",
+					"value": 19819
+				},
+				{
+					"label": "Jan 19, 2026",
+					"value": 19907
+				},
+				{
+					"label": "Jan 19, 2026",
+					"value": 20002
+				},
+				{
+					"label": "Jan 20, 2026",
+					"value": 19875
+				},
+				{
+					"label": "Jan 20, 2026",
+					"value": 19776
+				},
+				{
+					"label": "Jan 22, 2026",
+					"value": 19706
+				},
+				{
+					"label": "Jan 22, 2026",
+					"value": 19764
+				},
+				{
+					"label": "Jan 22, 2026",
+					"value": 19679
+				},
+				{
+					"label": "Jan 23, 2026",
+					"value": 19753
+				},
+				{
+					"label": "Jan 23, 2026",
+					"value": 19834
+				},
+				{
+					"label": "Jan 23, 2026",
+					"value": 19894
+				},
+				{
+					"label": "Jan 23, 2026",
+					"value": 19830
+				},
+				{
+					"label": "Jan 23, 2026",
+					"value": 19908
+				},
+				{
+					"label": "Jan 24, 2026",
+					"value": 19981
+				},
+				{
+					"label": "Jan 25, 2026",
+					"value": 19900
+				},
+				{
+					"label": "Jan 25, 2026",
+					"value": 19977
+				},
+				{
+					"label": "Jan 25, 2026",
+					"value": 19882
+				},
+				{
+					"label": "Jan 26, 2026",
+					"value": 19808
+				},
+				{
+					"label": "Jan 26, 2026",
+					"value": 19874
+				},
+				{
+					"label": "Jan 26, 2026",
+					"value": 19958
+				},
+				{
+					"label": "Jan 26, 2026",
+					"value": 20036
+				},
+				{
+					"label": "Jan 26, 2026",
+					"value": 19933
+				},
+				{
+					"label": "Jan 26, 2026",
+					"value": 19997
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19940
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19861
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19932
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19855
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19771
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19671
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19749
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19828
+				},
+				{
+					"label": "Jan 27, 2026",
+					"value": 19750
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19853
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19923
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 20001
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19862
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19953
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19875
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19958
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19896
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19963
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 20008
+				},
+				{
+					"label": "Jan 28, 2026",
+					"value": 19909
+				},
+				{
+					"label": "Jan 29, 2026",
+					"value": 19831
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19911
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19832
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19916
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19829
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19772
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19839
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19914
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19994
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 20068
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 20152
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 20030
+				},
+				{
+					"label": "Jan 30, 2026",
+					"value": 19907
+				},
+				{
+					"label": "Jan 31, 2026",
+					"value": 19803
+				},
+				{
+					"label": "Feb 1, 2026",
+					"value": 19867
+				},
+				{
+					"label": "Feb 1, 2026",
+					"value": 19823
+				},
+				{
+					"label": "Feb 1, 2026",
+					"value": 19911
+				},
+				{
+					"label": "Feb 1, 2026",
+					"value": 19828
+				},
+				{
+					"label": "Feb 2, 2026",
+					"value": 19913
+				},
+				{
+					"label": "Feb 2, 2026",
+					"value": 19824
+				},
+				{
+					"label": "Feb 3, 2026",
+					"value": 19903
+				},
+				{
+					"label": "Feb 3, 2026",
+					"value": 19968
+				},
+				{
+					"label": "Feb 3, 2026",
+					"value": 20042
+				},
+				{
+					"label": "Feb 3, 2026",
+					"value": 19920
+				},
+				{
+					"label": "Feb 3, 2026",
+					"value": 19989
+				},
+				{
+					"label": "Feb 4, 2026",
+					"value": 19921
+				},
+				{
+					"label": "Feb 4, 2026",
+					"value": 20002
+				},
+				{
+					"label": "Feb 4, 2026",
+					"value": 19871
+				},
+				{
+					"label": "Feb 4, 2026",
+					"value": 19940
+				},
+				{
+					"label": "Feb 4, 2026",
+					"value": 20029
+				},
+				{
+					"label": "Feb 5, 2026",
+					"value": 19882
+				},
+				{
+					"label": "Feb 5, 2026",
+					"value": 19987
+				},
+				{
+					"label": "Feb 5, 2026",
+					"value": 20068
+				},
+				{
+					"label": "Feb 6, 2026",
+					"value": 20159
+				},
+				{
+					"label": "Feb 6, 2026",
+					"value": 20026
+				},
+				{
+					"label": "Feb 6, 2026",
+					"value": 20088
+				},
+				{
+					"label": "Feb 7, 2026",
+					"value": 19945
+				},
+				{
+					"label": "Feb 9, 2026",
+					"value": 20006
+				},
+				{
+					"label": "Feb 9, 2026",
+					"value": 19881
+				},
+				{
+					"label": "Feb 9, 2026",
+					"value": 19802
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 19713
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 19794
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 19862
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 19947
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 19947
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 20024
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 20085
+				},
+				{
+					"label": "Feb 10, 2026",
+					"value": 19952
+				},
+				{
+					"label": "Feb 11, 2026",
+					"value": 19906
+				},
+				{
+					"label": "Feb 11, 2026",
+					"value": 19826
+				},
+				{
+					"label": "Feb 11, 2026",
+					"value": 19912
+				},
+				{
+					"label": "Feb 11, 2026",
+					"value": 19981
+				},
+				{
+					"label": "Feb 12, 2026",
+					"value": 20044
+				},
+				{
+					"label": "Feb 15, 2026",
+					"value": 20111
+				},
+				{
+					"label": "Feb 15, 2026",
+					"value": 20025
+				},
+				{
+					"label": "Feb 15, 2026",
+					"value": 20112
+				},
+				{
+					"label": "Feb 16, 2026",
+					"value": 20002
+				},
+				{
+					"label": "Feb 16, 2026",
+					"value": 19878
+				},
+				{
+					"label": "Feb 16, 2026",
+					"value": 19944
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20020
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20090
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20168
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20041
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20139
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20222
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20108
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20021
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20126
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 19979
+				},
+				{
+					"label": "Feb 17, 2026",
+					"value": 20055
+				},
+				{
+					"label": "Feb 18, 2026",
+					"value": 20142
+				},
+				{
+					"label": "Feb 18, 2026",
+					"value": 20243
+				},
+				{
+					"label": "Feb 18, 2026",
+					"value": 20358
+				},
+				{
+					"label": "Feb 19, 2026",
+					"value": 20271
+				},
+				{
+					"label": "Feb 19, 2026",
+					"value": 20154
+				},
+				{
+					"label": "Feb 19, 2026",
+					"value": 20240
+				},
+				{
+					"label": "Feb 20, 2026",
+					"value": 20137
+				},
+				{
+					"label": "Feb 20, 2026",
+					"value": 20011
+				},
+				{
+					"label": "Feb 20, 2026",
+					"value": 19875
+				},
+				{
+					"label": "Feb 20, 2026",
+					"value": 19960
+				},
+				{
+					"label": "Feb 22, 2026",
+					"value": 20037
+				},
+				{
+					"label": "Feb 22, 2026",
+					"value": 20126
+				},
+				{
+					"label": "Feb 22, 2026",
+					"value": 19998
+				},
+				{
+					"label": "Feb 22, 2026",
+					"value": 20059
+				},
+				{
+					"label": "Feb 23, 2026",
+					"value": 20153
+				},
+				{
+					"label": "Feb 23, 2026",
+					"value": 20032
+				},
+				{
+					"label": "Feb 24, 2026",
+					"value": 19929
+				},
+				{
+					"label": "Feb 24, 2026",
+					"value": 20012
+				},
+				{
+					"label": "Feb 24, 2026",
+					"value": 20084
+				},
+				{
+					"label": "Feb 25, 2026",
+					"value": 20162
+				},
+				{
+					"label": "Feb 25, 2026",
+					"value": 20040
+				},
+				{
+					"label": "Feb 25, 2026",
+					"value": 19907
+				},
+				{
+					"label": "Feb 25, 2026",
+					"value": 19994
+				},
+				{
+					"label": "Feb 26, 2026",
+					"value": 19910
+				},
+				{
+					"label": "Feb 26, 2026",
+					"value": 20008
+				},
+				{
+					"label": "Feb 27, 2026",
+					"value": 20075
+				},
+				{
+					"label": "Feb 27, 2026",
+					"value": 20155
+				},
+				{
+					"label": "Feb 28, 2026",
+					"value": 20035
+				},
+				{
+					"label": "Feb 28, 2026",
+					"value": 19913
+				},
+				{
+					"label": "Mar 2, 2026",
+					"value": 19834
+				},
+				{
+					"label": "Mar 2, 2026",
+					"value": 19753
+				},
+				{
+					"label": "Mar 2, 2026",
+					"value": 19753
+				},
+				{
+					"label": "Mar 2, 2026",
+					"value": 19695
+				},
+				{
+					"label": "Mar 3, 2026",
+					"value": 19779
+				},
+				{
+					"label": "Mar 3, 2026",
+					"value": 19708
+				},
+				{
+					"label": "Mar 3, 2026",
+					"value": 19787
+				},
+				{
+					"label": "Mar 3, 2026",
+					"value": 19861
+				},
+				{
+					"label": "Mar 4, 2026",
+					"value": 19781
+				},
+				{
+					"label": "Mar 4, 2026",
+					"value": 19860
+				},
+				{
+					"label": "Mar 4, 2026",
+					"value": 19918
+				},
+				{
+					"label": "Mar 5, 2026",
+					"value": 19980
+				},
+				{
+					"label": "Mar 5, 2026",
+					"value": 19910
+				},
+				{
+					"label": "Mar 5, 2026",
+					"value": 19840
+				},
+				{
+					"label": "Mar 8, 2026",
+					"value": 19924
+				},
+				{
+					"label": "Mar 9, 2026",
+					"value": 19815
+				},
+				{
+					"label": "Mar 10, 2026",
+					"value": 19905
+				},
+				{
+					"label": "Mar 10, 2026",
+					"value": 19821
+				},
+				{
+					"label": "Mar 10, 2026",
+					"value": 19733
+				},
+				{
+					"label": "Mar 11, 2026",
+					"value": 19631
+				},
+				{
+					"label": "Mar 11, 2026",
+					"value": 19535
+				},
+				{
+					"label": "Mar 11, 2026",
+					"value": 19624
+				},
+				{
+					"label": "Mar 11, 2026",
+					"value": 19544
+				},
+				{
+					"label": "Mar 13, 2026",
+					"value": 19647
+				},
+				{
+					"label": "Mar 15, 2026",
+					"value": 19726
+				},
+				{
+					"label": "Mar 15, 2026",
+					"value": 19807
+				},
+				{
+					"label": "Mar 15, 2026",
+					"value": 19735
+				},
+				{
+					"label": "Mar 16, 2026",
+					"value": 19821
+				},
+				{
+					"label": "Mar 17, 2026",
+					"value": 19734
+				},
+				{
+					"label": "Mar 17, 2026",
+					"value": 19794
+				},
+				{
+					"label": "Mar 17, 2026",
+					"value": 19721
+				},
+				{
+					"label": "Mar 18, 2026",
+					"value": 19804
+				},
+				{
+					"label": "Mar 18, 2026",
+					"value": 19885
+				},
+				{
+					"label": "Mar 18, 2026",
+					"value": 19805
+				},
+				{
+					"label": "Mar 19, 2026",
+					"value": 19888
+				},
+				{
+					"label": "Mar 19, 2026",
+					"value": 19965
+				},
+				{
+					"label": "Mar 20, 2026",
+					"value": 19903
+				},
+				{
+					"label": "Mar 20, 2026",
+					"value": 19962
+				},
+				{
+					"label": "Mar 20, 2026",
+					"value": 20036
+				},
+				{
+					"label": "Mar 22, 2026",
+					"value": 19924
+				},
+				{
+					"label": "Mar 22, 2026",
+					"value": 19837
+				},
+				{
+					"label": "Mar 22, 2026",
+					"value": 19765
+				},
+				{
+					"label": "Mar 22, 2026",
+					"value": 19850
+				},
+				{
+					"label": "Mar 23, 2026",
+					"value": 19757
+				},
+				{
+					"label": "Mar 23, 2026",
+					"value": 19844
+				},
+				{
+					"label": "Mar 24, 2026",
+					"value": 19896
+				},
+				{
+					"label": "Mar 24, 2026",
+					"value": 19831
+				},
+				{
+					"label": "Mar 24, 2026",
+					"value": 19888
+				},
+				{
+					"label": "Mar 24, 2026",
+					"value": 19944
+				},
+				{
+					"label": "Mar 25, 2026",
+					"value": 20015
+				},
+				{
+					"label": "Mar 25, 2026",
+					"value": 19896
+				},
+				{
+					"label": "Mar 26, 2026",
+					"value": 19984
+				},
+				{
+					"label": "Mar 26, 2026",
+					"value": 19906
+				},
+				{
+					"label": "Mar 26, 2026",
+					"value": 19949
+				},
+				{
+					"label": "Mar 27, 2026",
+					"value": 19861
+				},
+				{
+					"label": "Mar 27, 2026",
+					"value": 19945
+				},
+				{
+					"label": "Mar 27, 2026",
+					"value": 19863
+				},
+				{
+					"label": "Mar 29, 2026",
+					"value": 19935
+				},
+				{
+					"label": "Mar 30, 2026",
+					"value": 19842
+				},
+				{
+					"label": "Mar 30, 2026",
+					"value": 19751
+				},
+				{
+					"label": "Mar 31, 2026",
+					"value": 19664
+				},
+				{
+					"label": "Mar 31, 2026",
+					"value": 19716
+				},
+				{
+					"label": "Apr 1, 2026",
+					"value": 19787
+				},
+				{
+					"label": "Apr 2, 2026",
+					"value": 19718
+				},
+				{
+					"label": "Apr 2, 2026",
+					"value": 19803
+				},
+				{
+					"label": "Apr 3, 2026",
+					"value": 19895
+				},
+				{
+					"label": "Apr 3, 2026",
+					"value": 19968
+				},
+				{
+					"label": "Apr 3, 2026",
+					"value": 19915
+				},
+				{
+					"label": "Apr 4, 2026",
+					"value": 20002
+				},
+				{
+					"label": "Apr 4, 2026",
+					"value": 20084
+				},
+				{
+					"label": "Apr 4, 2026",
+					"value": 20163
+				},
+				{
+					"label": "Apr 4, 2026",
+					"value": 20241
+				},
+				{
+					"label": "Apr 5, 2026",
+					"value": 20127
+				},
+				{
+					"label": "Apr 5, 2026",
+					"value": 20173
+				},
+				{
+					"label": "Apr 6, 2026",
+					"value": 20082
+				},
+				{
+					"label": "Apr 6, 2026",
+					"value": 19944
+				},
+				{
+					"label": "Apr 6, 2026",
+					"value": 20010
+				},
+				{
+					"label": "Apr 7, 2026",
+					"value": 19899
+				},
+				{
+					"label": "Apr 7, 2026",
+					"value": 19840
+				},
+				{
+					"label": "Apr 7, 2026",
+					"value": 19750
+				},
+				{
+					"label": "Apr 8, 2026",
+					"value": 19834
+				},
+				{
+					"label": "Apr 8, 2026",
+					"value": 19906
+				},
+				{
+					"label": "Apr 9, 2026",
+					"value": 19830
+				},
+				{
+					"label": "Apr 9, 2026",
+					"value": 19905
+				},
+				{
+					"label": "Apr 10, 2026",
+					"value": 19984
+				},
+				{
+					"label": "Apr 10, 2026",
+					"value": 20061
+				},
+				{
+					"label": "Apr 11, 2026",
+					"value": 20167
+				},
+				{
+					"label": "Apr 11, 2026",
+					"value": 20041
+				},
+				{
+					"label": "Apr 12, 2026",
+					"value": 19919
+				},
+				{
+					"label": "Apr 13, 2026",
+					"value": 19995
+				},
+				{
+					"label": "Apr 13, 2026",
+					"value": 20065
+				},
+				{
+					"label": "Apr 14, 2026",
+					"value": 19950
+				},
+				{
+					"label": "Apr 14, 2026",
+					"value": 19867
+				},
+				{
+					"label": "Apr 14, 2026",
+					"value": 19933
+				},
+				{
+					"label": "Apr 14, 2026",
+					"value": 19850
+				},
+				{
+					"label": "Apr 15, 2026",
+					"value": 19801
+				},
+				{
+					"label": "Apr 15, 2026",
+					"value": 19899
+				},
+				{
+					"label": "Apr 15, 2026",
+					"value": 19823
+				},
+				{
+					"label": "Apr 16, 2026",
+					"value": 19720
+				},
+				{
+					"label": "Apr 16, 2026",
+					"value": 19788
+				},
+				{
+					"label": "Apr 17, 2026",
+					"value": 19721
+				},
+				{
+					"label": "Apr 17, 2026",
+					"value": 19816
+				},
+				{
+					"label": "Apr 17, 2026",
+					"value": 19876
+				},
+				{
+					"label": "Apr 20, 2026",
+					"value": 19810
+				},
+				{
+					"label": "Apr 20, 2026",
+					"value": 19878
+				},
+				{
+					"label": "Apr 21, 2026",
+					"value": 19940
+				},
+				{
+					"label": "Apr 21, 2026",
+					"value": 20000
+				},
+				{
+					"label": "Apr 21, 2026",
+					"value": 20109
+				},
+				{
+					"label": "Apr 22, 2026",
+					"value": 20201
+				},
+				{
+					"label": "Apr 22, 2026",
+					"value": 20284
+				},
+				{
+					"label": "Apr 22, 2026",
+					"value": 20360
+				},
+				{
+					"label": "Apr 23, 2026",
+					"value": 20290
+				},
+				{
+					"label": "Apr 23, 2026",
+					"value": 20181
+				},
+				{
+					"label": "Apr 24, 2026",
+					"value": 20076
+				},
+				{
+					"label": "Apr 24, 2026",
+					"value": 20190
+				},
+				{
+					"label": "Apr 25, 2026",
+					"value": 20277
+				},
+				{
+					"label": "Apr 25, 2026",
+					"value": 20354
+				},
+				{
+					"label": "Apr 27, 2026",
+					"value": 20273
+				},
+				{
+					"label": "Apr 27, 2026",
+					"value": 20143
+				},
+				{
+					"label": "Apr 27, 2026",
+					"value": 20030
+				},
+				{
+					"label": "Apr 28, 2026",
+					"value": 19870
+				},
+				{
+					"label": "Apr 29, 2026",
+					"value": 19963
+				},
+				{
+					"label": "Apr 29, 2026",
+					"value": 19866
+				},
+				{
+					"label": "Apr 30, 2026",
+					"value": 19784
+				},
+				{
+					"label": "May 1, 2026",
+					"value": 19840
+				},
+				{
+					"label": "May 2, 2026",
+					"value": 19742
+				},
+				{
+					"label": "May 2, 2026",
+					"value": 19827
+				},
+				{
+					"label": "May 3, 2026",
+					"value": 19891
+				},
+				{
+					"label": "May 3, 2026",
+					"value": 19961
+				},
+				{
+					"label": "May 4, 2026",
+					"value": 19885
+				},
+				{
+					"label": "May 5, 2026",
+					"value": 19821
+				},
+				{
+					"label": "May 5, 2026",
+					"value": 19899
+				},
+				{
+					"label": "May 6, 2026",
+					"value": 19980
+				},
+				{
+					"label": "May 7, 2026",
+					"value": 20049
+				},
+				{
+					"label": "May 7, 2026",
+					"value": 19932
+				},
+				{
+					"label": "May 8, 2026",
+					"value": 20026
+				},
+				{
+					"label": "May 8, 2026",
+					"value": 20117
+				},
+				{
+					"label": "May 9, 2026",
+					"value": 20053
+				},
+				{
+					"label": "May 10, 2026",
+					"value": 19910
+				},
+				{
+					"label": "May 11, 2026",
+					"value": 19985
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 20050
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 20146
+				},
+				{
+					"label": "May 13, 2026",
+					"value": 20209
+				},
+				{
+					"label": "May 14, 2026",
+					"value": 20286
+				},
+				{
+					"label": "May 15, 2026",
+					"value": 20200
+				},
+				{
+					"label": "May 16, 2026",
+					"value": 20283
+				},
+				{
+					"label": "May 16, 2026",
+					"value": 20350
+				},
+				{
+					"label": "May 17, 2026",
+					"value": 20287
+				},
+				{
+					"label": "May 17, 2026",
+					"value": 20215
+				},
+				{
+					"label": "May 18, 2026",
+					"value": 20131
+				},
+				{
+					"label": "May 18, 2026",
+					"value": 20208
+				},
+				{
+					"label": "May 18, 2026",
+					"value": 20280
+				},
+				{
+					"label": "May 19, 2026",
+					"value": 20358
+				},
+				{
+					"label": "May 20, 2026",
+					"value": 20438
+				},
+				{
+					"label": "May 21, 2026",
+					"value": 20519
+				},
+				{
+					"label": "May 22, 2026",
+					"value": 20463
+				},
+				{
+					"label": "May 23, 2026",
+					"value": 20399
+				},
+				{
+					"label": "May 23, 2026",
+					"value": 20340
+				},
+				{
+					"label": "May 24, 2026",
+					"value": 20392
+				},
+				{
+					"label": "May 25, 2026",
+					"value": 20456
+				},
+				{
+					"label": "May 25, 2026",
+					"value": 20508
+				},
+				{
+					"label": "May 26, 2026",
+					"value": 20583
+				},
+				{
+					"label": "May 28, 2026",
+					"value": 20521
+				},
+				{
+					"label": "May 29, 2026",
+					"value": 20434
+				},
+				{
+					"label": "May 30, 2026",
+					"value": 20497
+				},
+				{
+					"label": "May 31, 2026",
+					"value": 20564
+				},
+				{
+					"label": "Jun 1, 2026",
+					"value": 20609
+				},
+				{
+					"label": "Jun 1, 2026",
+					"value": 20688
+				},
+				{
+					"label": "Jun 2, 2026",
+					"value": 20617
+				},
+				{
+					"label": "Jun 3, 2026",
+					"value": 20566
+				},
+				{
+					"label": "Jun 4, 2026",
+					"value": 20495
+				},
+				{
+					"label": "Jun 6, 2026",
+					"value": 20578
+				},
+				{
+					"label": "Jun 7, 2026",
+					"value": 20503
+				},
+				{
+					"label": "Jun 8, 2026",
+					"value": 20429
+				},
+				{
+					"label": "Jun 9, 2026",
+					"value": 20357
+				},
+				{
+					"label": "Jun 10, 2026",
+					"value": 20425
+				},
+				{
+					"label": "Jun 11, 2026",
+					"value": 20470
+				},
+				{
+					"label": "Jun 13, 2026",
+					"value": 20528
+				},
+				{
+					"label": "Jun 13, 2026",
+					"value": 20452
+				},
+				{
+					"label": "Jun 14, 2026",
+					"value": 20523
+				},
+				{
+					"label": "Jun 15, 2026",
+					"value": 20457
+				}
+			],
+			"stats": [
+				{
+					"label": "league rank",
+					"value": "U",
+					"detail": "#1,692 global · #107 Canada"
+				},
+				{
+					"label": "TR",
+					"value": "20457",
+					"detail": "best rank U"
+				},
+				{
+					"label": "APM / PPS / VS",
+					"value": "83.4 / 1.99 / 171.9",
+					"detail": "last 10 games stats"
+				},
+				{
+					"label": "40L PB",
+					"value": "32.950s",
+					"detail": "#389 Canada · #6,168 global"
+				},
+				{
+					"label": "Blitz PB",
+					"value": "587,087",
+					"detail": "#141 Canada · #1,894 global"
+				},
+				{
+					"label": "win rate",
+					"value": "49.8%",
+					"detail": "3,325 / 6,676 games played · 843h time played"
+				}
+			]
+		},
+		{
+			"id": "mcsr",
+			"title": "MCSR Ranked",
+			"eyebrow": "Minecraft Speedrunning",
+			"icon": "⛏️",
+			"accent": "#C5E063",
+			"profileUrl": "https://mcsrranked.com/stats/uselessleaf",
+			"apiUrl": "https://api.mcsrranked.com/users/uselessleaf",
+			"blurb": "started after seeing couriway's 14:36 1.16 RSG world record. been playing on and off for a while. now mainly playing ranked",
+			"historyLabel": "ranked elo history",
+			"history": [
+				{
+					"label": "May 2, 2026",
+					"value": 1083
+				},
+				{
+					"label": "May 2, 2026",
+					"value": 1102
+				},
+				{
+					"label": "May 2, 2026",
+					"value": 1082
+				},
+				{
+					"label": "May 2, 2026",
+					"value": 1082
+				},
+				{
+					"label": "May 2, 2026",
+					"value": 1063
+				},
+				{
+					"label": "May 2, 2026",
+					"value": 1083
+				},
+				{
+					"label": "May 3, 2026",
+					"value": 1103
+				},
+				{
+					"label": "May 3, 2026",
+					"value": 1083
+				},
+				{
+					"label": "May 4, 2026",
+					"value": 1064
+				},
+				{
+					"label": "May 4, 2026",
+					"value": 1084
+				},
+				{
+					"label": "May 4, 2026",
+					"value": 1064
+				},
+				{
+					"label": "May 4, 2026",
+					"value": 1044
+				},
+				{
+					"label": "May 4, 2026",
+					"value": 1063
+				},
+				{
+					"label": "May 7, 2026",
+					"value": 1043
+				},
+				{
+					"label": "May 7, 2026",
+					"value": 1064
+				},
+				{
+					"label": "May 7, 2026",
+					"value": 1064
+				},
+				{
+					"label": "May 8, 2026",
+					"value": 1082
+				},
+				{
+					"label": "May 8, 2026",
+					"value": 1100
+				},
+				{
+					"label": "May 9, 2026",
+					"value": 1080
+				},
+				{
+					"label": "May 10, 2026",
+					"value": 1058
+				},
+				{
+					"label": "May 10, 2026",
+					"value": 1078
+				},
+				{
+					"label": "May 10, 2026",
+					"value": 1058
+				},
+				{
+					"label": "May 10, 2026",
+					"value": 1039
+				},
+				{
+					"label": "May 11, 2026",
+					"value": 1018
+				},
+				{
+					"label": "May 11, 2026",
+					"value": 1038
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 1018
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 1038
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 1059
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 1079
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 1101
+				},
+				{
+					"label": "May 13, 2026",
+					"value": 1101
+				},
+				{
+					"label": "May 13, 2026",
+					"value": 1121
+				},
+				{
+					"label": "May 13, 2026",
+					"value": 1141
+				},
+				{
+					"label": "May 13, 2026",
+					"value": 1122
+				},
+				{
+					"label": "May 14, 2026",
+					"value": 1140
+				},
+				{
+					"label": "May 14, 2026",
+					"value": 1158
+				},
+				{
+					"label": "May 14, 2026",
+					"value": 1139
+				},
+				{
+					"label": "May 14, 2026",
+					"value": 1119
+				},
+				{
+					"label": "May 14, 2026",
+					"value": 1141
+				},
+				{
+					"label": "May 15, 2026",
+					"value": 1123
+				},
+				{
+					"label": "May 16, 2026",
+					"value": 1143
+				},
+				{
+					"label": "May 16, 2026",
+					"value": 1162
+				},
+				{
+					"label": "May 16, 2026",
+					"value": 1141
+				}
+			],
+			"stats": [
+				{
+					"label": "current elo",
+					"value": "1,141",
+					"detail": "rank #4,291"
+				},
+				{
+					"label": "all-time best",
+					"value": "13:44.263",
+					"detail": "ranked RSG"
+				},
+				{
+					"label": "ranked record",
+					"value": "346–327",
+					"detail": "51.4% win rate"
+				}
+			]
+		},
+		{
+			"id": "table-tennis",
+			"title": "Table Tennis",
+			"eyebrow": "TTCAN Ratings",
+			"icon": "🏓",
+			"accent": "#59BA73",
+			"profileUrl": "https://ttcan.onrender.com/api/players/30561",
+			"apiUrl": "https://ttcan.onrender.com/api/players/30561",
+			"blurb": "playing since 2014. trained a lot and got up to provincial level. top canadian competitor up until age 15",
+			"stats": [
+				{
+					"label": "latest rating",
+					"value": "1,104",
+					"detail": "rating period May 5, 2023"
+				},
+				{
+					"label": "peak rating",
+					"value": "1,184",
+					"detail": "reached May 5, 2022"
+				},
+				{
+					"label": "record",
+					"value": "148–184",
+					"detail": "44.6% win rate"
+				}
+			],
+			"historyLabel": "rating history",
+			"history": [
+				{
+					"label": "May 1, 2016",
+					"value": 372
+				},
+				{
+					"label": "October 1, 2016",
+					"value": 464
+				},
+				{
+					"label": "December 1, 2016",
+					"value": 484
+				},
+				{
+					"label": "February 1, 2017",
+					"value": 525
+				},
+				{
+					"label": "March 1, 2017",
+					"value": 543
+				},
+				{
+					"label": "April 1, 2017",
+					"value": 557
+				},
+				{
+					"label": "May 1, 2017",
+					"value": 590
+				},
+				{
+					"label": "June 1, 2017",
+					"value": 560
+				},
+				{
+					"label": "August 1, 2017",
+					"value": 573
+				},
+				{
+					"label": "September 1, 2017",
+					"value": 593
+				},
+				{
+					"label": "November 1, 2017",
+					"value": 618
+				},
+				{
+					"label": "December 1, 2017",
+					"value": 752
+				},
+				{
+					"label": "April 1, 2018",
+					"value": 829
+				},
+				{
+					"label": "May 1, 2018",
+					"value": 884
+				},
+				{
+					"label": "September 1, 2018",
+					"value": 902
+				},
+				{
+					"label": "October 1, 2018",
+					"value": 909
+				},
+				{
+					"label": "November 1, 2018",
+					"value": 940
+				},
+				{
+					"label": "May 1, 2019",
+					"value": 1022
+				},
+				{
+					"label": "August 1, 2019",
+					"value": 1008
+				},
+				{
+					"label": "December 1, 2019",
+					"value": 1064
+				},
+				{
+					"label": "January 1, 2020",
+					"value": 1098
+				},
+				{
+					"label": "May 5, 2022",
+					"value": 1184
+				},
+				{
+					"label": "January 5, 2023",
+					"value": 1181
+				},
+				{
+					"label": "May 5, 2023",
+					"value": 1104
+				}
+			]
+		},
+		{
+			"id": "speedcubing",
+			"title": "Speedcubing",
+			"eyebrow": "World Cube Association",
+			"icon": "🧩",
+			"accent": "#6EB257",
+			"profileUrl": "https://www.worldcubeassociation.org/persons/2016SHEN13",
+			"apiUrl": "https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/refs/heads/v1/persons/2016SHEN13.json",
+			"blurb": "been cubing since 2012! started with a rubik's brand cube and truly started speedcubing in 2015. a 3x3 main through and through. trying to learn some more events now!",
+			"stats": [
+				{
+					"label": "3×3 single",
+					"value": "8.15s",
+					"detail": "Canada #297 · World #8,345"
+				},
+				{
+					"label": "3×3 average",
+					"value": "8.79s",
+					"detail": "Canada #137 · World #3,642"
+				},
+				{
+					"label": "competitions",
+					"value": "5",
+					"detail": "CA competitor since 2016"
+				}
+			]
+		}
+	]
+}

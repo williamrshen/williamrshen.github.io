@@ -1,4 +1,3 @@
-import React from 'react'
 import './TableTennis.css'
 import '.././Resources.css'
 import Cat from '../../../assets/cat2.png'

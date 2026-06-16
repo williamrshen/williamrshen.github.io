@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import "./Navbar.css";
 import { FiHome } from "react-icons/fi";
@@ -32,7 +32,7 @@ const Navbar = () => {
 		sections.forEach((section) => observer.observe(section));
 
 		return () => observer.disconnect();
-	}, [location.pathname]);
+	}, [location.pathname, location.hash]);
 
 	return (
 		<div className="navbar">

@@ -17,6 +17,13 @@
 	padding: 0px 30px;
 	font-size: 50px;
 	font-weight: 600;
+	background: linear-gradient(230deg, #6EB257 20%, #acbf71, #C5E063 85%);
+	background-clip: text;
+	color: transparent;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-size: 150% 100%;
+	animation: section-title-gradient 4s ease-in-out infinite;
 }
 
 .contact-section {
@@ -44,12 +51,15 @@
 	width: 160px;
 	height: 160px;
 	border-radius: 12px;
-	background: rgba(255, 255, 255, 0.05);
+	background:
+		radial-gradient(circle at top right, rgba(197, 224, 99, 0.08), transparent 46%),
+		rgba(255, 255, 255, 0.05);
+	border: 1px solid rgba(255, 255, 255, 0.08);
 	color: white;
 	text-decoration: none;
 	font-size: 18px;
 	font-family: Outfit;
-	transition: transform 0.2s ease, background 0.2s ease;
+	transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
 	cursor: pointer;
 }
 
@@ -57,17 +67,19 @@
 	width: 56px;
 	height: 56px;
 	flex-shrink: 0;
+	color: rgba(197, 224, 99, 0.82);
 }
 
 .contact-card:hover {
 	transform: translateY(-3px);
-	background: rgba(255, 255, 255, 0.08);
+	background: rgba(197, 224, 99, 0.08);
+	border-color: rgba(197, 224, 99, 0.28);
 }
 
 .contact-divider {
 	width: 1px;
 	height: 100%;
-	background-color: rgba(255, 255, 255, 0.2);
+	background: linear-gradient(180deg, transparent, rgba(197, 224, 99, 0.48), transparent);
 }
 
 .contact-text {
@@ -80,14 +92,11 @@
 .contact-text h1 {
 	font-size: 80px;
 	font-weight: 700;
-	background: linear-gradient(107deg, #c5e063, #6eb257);
-	background-clip: text;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	color: white;
 }
 
 .contact-text p {
-	color: white;
+	color: rgba(255, 255, 255, 0.76);
 	font-size: 20px;
 	line-height: 35px;
 }
@@ -115,6 +124,7 @@
 	.contact-divider {
 		width: 100%;
 		height: 1px;
+		background: linear-gradient(90deg, transparent, rgba(197, 224, 99, 0.48), transparent);
 	}
 
 	.contact-grid {
@@ -141,5 +151,15 @@
 	.contact-card {
 		width: 140px;
 		height: 140px;
+	}
+}
+
+@keyframes section-title-gradient {
+	0%, 100% {
+		background-position: 0 0;
+	}
+
+	50% {
+		background-position: 100% 0;
 	}
 }

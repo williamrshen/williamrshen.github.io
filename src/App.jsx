@@ -1,9 +1,8 @@
-import { React, useState, useEffect } from "react";
 import Navbar from "./Components/Navbar/Navbar";
 import Home from "./Home";
 import Footer from "./Components/Footer/Footer";
 import Coding from "./Components/Resources/Coding/Coding";
-import Games from "./Components/Resources/Games/Games";
+import Hobbies from "./Components/Hobbies/Hobbies";
 import Blog from "./Components/Blog/Blog";
 import Error from "./Components/404Page/pagenotfound";
 
@@ -17,7 +16,7 @@ const App = () => {
 			<Routes>
 				<Route path="/" element={<Home />} />
 				<Route path="/coding" element={<Coding />} />
-				<Route path="/hobbies" element={<Games />} />
+				<Route path="/hobbies" element={<Hobbies />} />
 				<Route path="/blog" element={<Blog />} />
 				<Route path="*" element={<Error />} />
 			</Routes>

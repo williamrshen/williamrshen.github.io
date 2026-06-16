@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import "./Projects.css";
 import { work_data, project_data } from "../../assets/mywork_data";
 

@@ -1,4 +1,3 @@
-import React from 'react'
 import { useEffect, useState } from "react";
 import './Footer.css'
 import { FaCross } from "react-icons/fa";
@@ -15,7 +14,7 @@ const Footer = () => {
     };
     }, []);
 
-    const date = new Date();
+    const date = new Date(time);
     const showDate = date.toLocaleDateString('en-US', {
         year: 'numeric',
         month: '2-digit',
