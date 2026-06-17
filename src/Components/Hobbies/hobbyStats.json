@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-06-16T17:23:07.479Z",
+	"updatedAt": "2026-06-17T13:36:04.613Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -17,7 +17,9 @@
 		"mcsrMatches": "https://api.mcsrranked.com/users/uselessleaf/matches?count=100&type=2&sort=oldest",
 		"ttcanProfile": "https://ttcan.onrender.com/api/players/30561"
 	},
-	"errors": [],
+	"errors": [
+		"TTCAN: 500 Internal Server Error for https://ttcan.onrender.com/api/players/30561"
+	],
 	"hobbies": [
 		{
 			"id": "tetris",
@@ -31,15 +33,15 @@
 			"historyLabel": "tetra league tr history",
 			"history": [
 				{
-					"label": "Aug 16, 2024",
+					"label": "Aug 17, 2024",
 					"value": 14407
 				},
 				{
-					"label": "Aug 16, 2024",
+					"label": "Aug 17, 2024",
 					"value": 15147
 				},
 				{
-					"label": "Aug 16, 2024",
+					"label": "Aug 17, 2024",
 					"value": 14799
 				},
 				{
@@ -59,19 +61,19 @@
 					"value": 16282
 				},
 				{
-					"label": "Aug 18, 2024",
+					"label": "Aug 19, 2024",
 					"value": 16006
 				},
 				{
-					"label": "Aug 18, 2024",
+					"label": "Aug 19, 2024",
 					"value": 15656
 				},
 				{
-					"label": "Aug 19, 2024",
+					"label": "Aug 20, 2024",
 					"value": 15312
 				},
 				{
-					"label": "Aug 19, 2024",
+					"label": "Aug 20, 2024",
 					"value": 15019
 				},
 				{
@@ -87,7 +89,7 @@
 					"value": 15874
 				},
 				{
-					"label": "Aug 20, 2024",
+					"label": "Aug 21, 2024",
 					"value": 16417
 				},
 				{
@@ -99,23 +101,23 @@
 					"value": 16693
 				},
 				{
-					"label": "Aug 24, 2024",
+					"label": "Aug 25, 2024",
 					"value": 16507
 				},
 				{
-					"label": "Aug 24, 2024",
+					"label": "Aug 25, 2024",
 					"value": 16943
 				},
 				{
-					"label": "Aug 24, 2024",
+					"label": "Aug 25, 2024",
 					"value": 16758
 				},
 				{
-					"label": "Aug 25, 2024",
+					"label": "Aug 26, 2024",
 					"value": 16505
 				},
 				{
-					"label": "Aug 25, 2024",
+					"label": "Aug 26, 2024",
 					"value": 16925
 				},
 				{
@@ -211,19 +213,19 @@
 					"value": 18259
 				},
 				{
-					"label": "Sep 8, 2024",
+					"label": "Sep 9, 2024",
 					"value": 18128
 				},
 				{
-					"label": "Sep 8, 2024",
+					"label": "Sep 9, 2024",
 					"value": 18223
 				},
 				{
-					"label": "Sep 8, 2024",
+					"label": "Sep 9, 2024",
 					"value": 18118
 				},
 				{
-					"label": "Sep 8, 2024",
+					"label": "Sep 9, 2024",
 					"value": 17985
 				},
 				{
@@ -271,19 +273,19 @@
 					"value": 18305
 				},
 				{
-					"label": "Sep 11, 2024",
+					"label": "Sep 12, 2024",
 					"value": 18193
 				},
 				{
-					"label": "Sep 12, 2024",
+					"label": "Sep 13, 2024",
 					"value": 18304
 				},
 				{
-					"label": "Sep 12, 2024",
+					"label": "Sep 13, 2024",
 					"value": 18417
 				},
 				{
-					"label": "Sep 12, 2024",
+					"label": "Sep 13, 2024",
 					"value": 18543
 				},
 				{
@@ -335,7 +337,7 @@
 					"value": 19048
 				},
 				{
-					"label": "Sep 30, 2024",
+					"label": "Oct 1, 2024",
 					"value": 18884
 				},
 				{
@@ -363,11 +365,11 @@
 					"value": 19140
 				},
 				{
-					"label": "Oct 5, 2024",
+					"label": "Oct 6, 2024",
 					"value": 19346
 				},
 				{
-					"label": "Oct 5, 2024",
+					"label": "Oct 6, 2024",
 					"value": 19226
 				},
 				{
@@ -399,7 +401,7 @@
 					"value": 19133
 				},
 				{
-					"label": "Oct 7, 2024",
+					"label": "Oct 8, 2024",
 					"value": 19225
 				},
 				{
@@ -451,15 +453,15 @@
 					"value": 19862
 				},
 				{
-					"label": "Oct 12, 2024",
+					"label": "Oct 13, 2024",
 					"value": 19764
 				},
 				{
-					"label": "Oct 12, 2024",
+					"label": "Oct 13, 2024",
 					"value": 19675
 				},
 				{
-					"label": "Oct 12, 2024",
+					"label": "Oct 13, 2024",
 					"value": 19584
 				},
 				{
@@ -527,7 +529,7 @@
 					"value": 20242
 				},
 				{
-					"label": "Oct 19, 2024",
+					"label": "Oct 20, 2024",
 					"value": 20317
 				},
 				{
@@ -535,11 +537,11 @@
 					"value": 20386
 				},
 				{
-					"label": "Oct 20, 2024",
+					"label": "Oct 21, 2024",
 					"value": 20315
 				},
 				{
-					"label": "Oct 20, 2024",
+					"label": "Oct 21, 2024",
 					"value": 20250
 				},
 				{
@@ -551,11 +553,11 @@
 					"value": 20091
 				},
 				{
-					"label": "Oct 21, 2024",
+					"label": "Oct 22, 2024",
 					"value": 20025
 				},
 				{
-					"label": "Oct 21, 2024",
+					"label": "Oct 22, 2024",
 					"value": 20080
 				},
 				{
@@ -583,7 +585,7 @@
 					"value": 20064
 				},
 				{
-					"label": "Oct 23, 2024",
+					"label": "Oct 24, 2024",
 					"value": 20141
 				},
 				{
@@ -631,11 +633,11 @@
 					"value": 20294
 				},
 				{
-					"label": "Oct 29, 2024",
+					"label": "Oct 30, 2024",
 					"value": 20222
 				},
 				{
-					"label": "Oct 29, 2024",
+					"label": "Oct 30, 2024",
 					"value": 20293
 				},
 				{
@@ -675,7 +677,7 @@
 					"value": 20220
 				},
 				{
-					"label": "Nov 3, 2024",
+					"label": "Nov 4, 2024",
 					"value": 20296
 				},
 				{
@@ -755,7 +757,7 @@
 					"value": 20106
 				},
 				{
-					"label": "Nov 10, 2024",
+					"label": "Nov 11, 2024",
 					"value": 20043
 				},
 				{
@@ -779,11 +781,11 @@
 					"value": 19925
 				},
 				{
-					"label": "Nov 11, 2024",
+					"label": "Nov 12, 2024",
 					"value": 19810
 				},
 				{
-					"label": "Nov 11, 2024",
+					"label": "Nov 12, 2024",
 					"value": 19920
 				},
 				{
@@ -835,7 +837,7 @@
 					"value": 20053
 				},
 				{
-					"label": "Nov 14, 2024",
+					"label": "Nov 15, 2024",
 					"value": 19958
 				},
 				{
@@ -883,7 +885,7 @@
 					"value": 20403
 				},
 				{
-					"label": "Nov 24, 2024",
+					"label": "Nov 25, 2024",
 					"value": 20461
 				},
 				{
@@ -947,7 +949,7 @@
 					"value": 20356
 				},
 				{
-					"label": "Nov 28, 2024",
+					"label": "Nov 29, 2024",
 					"value": 20415
 				},
 				{
@@ -955,11 +957,11 @@
 					"value": 20471
 				},
 				{
-					"label": "Nov 30, 2024",
+					"label": "Dec 1, 2024",
 					"value": 20536
 				},
 				{
-					"label": "Nov 30, 2024",
+					"label": "Dec 1, 2024",
 					"value": 20480
 				},
 				{
@@ -971,15 +973,15 @@
 					"value": 20338
 				},
 				{
-					"label": "Dec 1, 2024",
+					"label": "Dec 2, 2024",
 					"value": 20397
 				},
 				{
-					"label": "Dec 1, 2024",
+					"label": "Dec 2, 2024",
 					"value": 20342
 				},
 				{
-					"label": "Dec 1, 2024",
+					"label": "Dec 2, 2024",
 					"value": 20264
 				},
 				{
@@ -1011,11 +1013,11 @@
 					"value": 20357
 				},
 				{
-					"label": "Dec 3, 2024",
+					"label": "Dec 4, 2024",
 					"value": 20295
 				},
 				{
-					"label": "Dec 3, 2024",
+					"label": "Dec 4, 2024",
 					"value": 20369
 				},
 				{
@@ -1055,19 +1057,19 @@
 					"value": 20265
 				},
 				{
-					"label": "Dec 7, 2024",
+					"label": "Dec 8, 2024",
 					"value": 20332
 				},
 				{
-					"label": "Dec 7, 2024",
+					"label": "Dec 8, 2024",
 					"value": 20290
 				},
 				{
-					"label": "Dec 7, 2024",
+					"label": "Dec 8, 2024",
 					"value": 20366
 				},
 				{
-					"label": "Dec 8, 2024",
+					"label": "Dec 9, 2024",
 					"value": 20443
 				},
 				{
@@ -1083,11 +1085,11 @@
 					"value": 20507
 				},
 				{
-					"label": "Dec 9, 2024",
+					"label": "Dec 10, 2024",
 					"value": 20566
 				},
 				{
-					"label": "Dec 9, 2024",
+					"label": "Dec 10, 2024",
 					"value": 20627
 				},
 				{
@@ -1119,7 +1121,7 @@
 					"value": 20579
 				},
 				{
-					"label": "Dec 10, 2024",
+					"label": "Dec 11, 2024",
 					"value": 20652
 				},
 				{
@@ -1147,11 +1149,11 @@
 					"value": 20787
 				},
 				{
-					"label": "Dec 11, 2024",
+					"label": "Dec 12, 2024",
 					"value": 20725
 				},
 				{
-					"label": "Dec 11, 2024",
+					"label": "Dec 12, 2024",
 					"value": 20781
 				},
 				{
@@ -1171,11 +1173,11 @@
 					"value": 20650
 				},
 				{
-					"label": "Dec 12, 2024",
+					"label": "Dec 13, 2024",
 					"value": 20592
 				},
 				{
-					"label": "Dec 12, 2024",
+					"label": "Dec 13, 2024",
 					"value": 20531
 				},
 				{
@@ -1199,7 +1201,7 @@
 					"value": 20609
 				},
 				{
-					"label": "Dec 14, 2024",
+					"label": "Dec 15, 2024",
 					"value": 20544
 				},
 				{
@@ -1223,27 +1225,27 @@
 					"value": 20472
 				},
 				{
-					"label": "Dec 16, 2024",
+					"label": "Dec 17, 2024",
 					"value": 20548
 				},
 				{
-					"label": "Dec 16, 2024",
+					"label": "Dec 17, 2024",
 					"value": 20497
 				},
 				{
-					"label": "Dec 16, 2024",
+					"label": "Dec 17, 2024",
 					"value": 20558
 				},
 				{
-					"label": "Dec 16, 2024",
+					"label": "Dec 17, 2024",
 					"value": 20617
 				},
 				{
-					"label": "Dec 16, 2024",
+					"label": "Dec 17, 2024",
 					"value": 20670
 				},
 				{
-					"label": "Dec 16, 2024",
+					"label": "Dec 17, 2024",
 					"value": 20601
 				},
 				{
@@ -1307,7 +1309,7 @@
 					"value": 20311
 				},
 				{
-					"label": "Dec 20, 2024",
+					"label": "Dec 21, 2024",
 					"value": 20232
 				},
 				{
@@ -1319,15 +1321,15 @@
 					"value": 20210
 				},
 				{
-					"label": "Dec 21, 2024",
+					"label": "Dec 22, 2024",
 					"value": 20284
 				},
 				{
-					"label": "Dec 21, 2024",
+					"label": "Dec 22, 2024",
 					"value": 20350
 				},
 				{
-					"label": "Dec 21, 2024",
+					"label": "Dec 22, 2024",
 					"value": 20423
 				},
 				{
@@ -1339,7 +1341,7 @@
 					"value": 20412
 				},
 				{
-					"label": "Dec 22, 2024",
+					"label": "Dec 23, 2024",
 					"value": 20465
 				},
 				{
@@ -1371,11 +1373,11 @@
 					"value": 20620
 				},
 				{
-					"label": "Dec 23, 2024",
+					"label": "Dec 24, 2024",
 					"value": 20546
 				},
 				{
-					"label": "Dec 23, 2024",
+					"label": "Dec 24, 2024",
 					"value": 20607
 				},
 				{
@@ -1399,11 +1401,11 @@
 					"value": 20414
 				},
 				{
-					"label": "Dec 24, 2024",
+					"label": "Dec 25, 2024",
 					"value": 20335
 				},
 				{
-					"label": "Dec 24, 2024",
+					"label": "Dec 25, 2024",
 					"value": 20255
 				},
 				{
@@ -1471,11 +1473,11 @@
 					"value": 20286
 				},
 				{
-					"label": "Dec 27, 2024",
+					"label": "Dec 28, 2024",
 					"value": 20362
 				},
 				{
-					"label": "Dec 27, 2024",
+					"label": "Dec 28, 2024",
 					"value": 20298
 				},
 				{
@@ -1527,11 +1529,11 @@
 					"value": 20345
 				},
 				{
-					"label": "Jan 3, 2025",
+					"label": "Jan 4, 2025",
 					"value": 20416
 				},
 				{
-					"label": "Jan 3, 2025",
+					"label": "Jan 4, 2025",
 					"value": 20494
 				},
 				{
@@ -1543,19 +1545,19 @@
 					"value": 20471
 				},
 				{
-					"label": "Jan 4, 2025",
+					"label": "Jan 5, 2025",
 					"value": 20528
 				},
 				{
-					"label": "Jan 4, 2025",
+					"label": "Jan 5, 2025",
 					"value": 20440
 				},
 				{
-					"label": "Jan 4, 2025",
+					"label": "Jan 5, 2025",
 					"value": 20381
 				},
 				{
-					"label": "Jan 4, 2025",
+					"label": "Jan 5, 2025",
 					"value": 20300
 				},
 				{
@@ -1619,7 +1621,7 @@
 					"value": 20126
 				},
 				{
-					"label": "Jan 7, 2025",
+					"label": "Jan 8, 2025",
 					"value": 20206
 				},
 				{
@@ -1635,11 +1637,11 @@
 					"value": 20309
 				},
 				{
-					"label": "Jan 8, 2025",
+					"label": "Jan 9, 2025",
 					"value": 20403
 				},
 				{
-					"label": "Jan 8, 2025",
+					"label": "Jan 9, 2025",
 					"value": 20488
 				},
 				{
@@ -1651,7 +1653,7 @@
 					"value": 20603
 				},
 				{
-					"label": "Jan 10, 2025",
+					"label": "Jan 11, 2025",
 					"value": 20659
 				},
 				{
@@ -1691,19 +1693,19 @@
 					"value": 20489
 				},
 				{
-					"label": "Jan 16, 2025",
+					"label": "Jan 17, 2025",
 					"value": 20435
 				},
 				{
-					"label": "Jan 16, 2025",
+					"label": "Jan 17, 2025",
 					"value": 20481
 				},
 				{
-					"label": "Jan 17, 2025",
+					"label": "Jan 18, 2025",
 					"value": 20545
 				},
 				{
-					"label": "Jan 17, 2025",
+					"label": "Jan 18, 2025",
 					"value": 20624
 				},
 				{
@@ -1715,15 +1717,15 @@
 					"value": 20655
 				},
 				{
-					"label": "Jan 18, 2025",
+					"label": "Jan 19, 2025",
 					"value": 20712
 				},
 				{
-					"label": "Jan 18, 2025",
+					"label": "Jan 19, 2025",
 					"value": 20776
 				},
 				{
-					"label": "Jan 18, 2025",
+					"label": "Jan 19, 2025",
 					"value": 20842
 				},
 				{
@@ -1735,7 +1737,7 @@
 					"value": 20835
 				},
 				{
-					"label": "Jan 20, 2025",
+					"label": "Jan 21, 2025",
 					"value": 20916
 				},
 				{
@@ -1743,7 +1745,7 @@
 					"value": 20856
 				},
 				{
-					"label": "Jan 25, 2025",
+					"label": "Jan 26, 2025",
 					"value": 20911
 				},
 				{
@@ -1755,7 +1757,7 @@
 					"value": 20783
 				},
 				{
-					"label": "Jan 29, 2025",
+					"label": "Jan 30, 2025",
 					"value": 20750
 				},
 				{
@@ -1815,19 +1817,19 @@
 					"value": 20140
 				},
 				{
-					"label": "Feb 13, 2025",
+					"label": "Feb 14, 2025",
 					"value": 20229
 				},
 				{
-					"label": "Feb 24, 2025",
+					"label": "Feb 25, 2025",
 					"value": 20288
 				},
 				{
-					"label": "Feb 25, 2025",
+					"label": "Feb 26, 2025",
 					"value": 20360
 				},
 				{
-					"label": "Feb 25, 2025",
+					"label": "Feb 26, 2025",
 					"value": 20453
 				},
 				{
@@ -1835,11 +1837,11 @@
 					"value": 20505
 				},
 				{
-					"label": "Feb 27, 2025",
+					"label": "Feb 28, 2025",
 					"value": 20449
 				},
 				{
-					"label": "Feb 27, 2025",
+					"label": "Feb 28, 2025",
 					"value": 20383
 				},
 				{
@@ -1851,11 +1853,11 @@
 					"value": 20231
 				},
 				{
-					"label": "Mar 2, 2025",
+					"label": "Mar 3, 2025",
 					"value": 20137
 				},
 				{
-					"label": "Mar 2, 2025",
+					"label": "Mar 3, 2025",
 					"value": 20221
 				},
 				{
@@ -1919,15 +1921,15 @@
 					"value": 19973
 				},
 				{
-					"label": "Mar 20, 2025",
+					"label": "Mar 21, 2025",
 					"value": 19899
 				},
 				{
-					"label": "Mar 20, 2025",
+					"label": "Mar 21, 2025",
 					"value": 19985
 				},
 				{
-					"label": "Mar 20, 2025",
+					"label": "Mar 21, 2025",
 					"value": 19901
 				},
 				{
@@ -1951,15 +1953,15 @@
 					"value": 19784
 				},
 				{
-					"label": "Mar 23, 2025",
+					"label": "Mar 24, 2025",
 					"value": 19860
 				},
 				{
-					"label": "Mar 23, 2025",
+					"label": "Mar 24, 2025",
 					"value": 19964
 				},
 				{
-					"label": "Mar 23, 2025",
+					"label": "Mar 24, 2025",
 					"value": 19880
 				},
 				{
@@ -1983,15 +1985,15 @@
 					"value": 19717
 				},
 				{
-					"label": "Apr 2, 2025",
+					"label": "Apr 3, 2025",
 					"value": 19656
 				},
 				{
-					"label": "Apr 2, 2025",
+					"label": "Apr 3, 2025",
 					"value": 19740
 				},
 				{
-					"label": "Apr 2, 2025",
+					"label": "Apr 3, 2025",
 					"value": 19842
 				},
 				{
@@ -2007,11 +2009,11 @@
 					"value": 19751
 				},
 				{
-					"label": "Apr 4, 2025",
+					"label": "Apr 5, 2025",
 					"value": 19661
 				},
 				{
-					"label": "Apr 5, 2025",
+					"label": "Apr 6, 2025",
 					"value": 19595
 				},
 				{
@@ -2019,7 +2021,7 @@
 					"value": 19677
 				},
 				{
-					"label": "Apr 7, 2025",
+					"label": "Apr 8, 2025",
 					"value": 19757
 				},
 				{
@@ -2027,11 +2029,11 @@
 					"value": 19660
 				},
 				{
-					"label": "Apr 8, 2025",
+					"label": "Apr 9, 2025",
 					"value": 19574
 				},
 				{
-					"label": "Apr 8, 2025",
+					"label": "Apr 9, 2025",
 					"value": 19655
 				},
 				{
@@ -2055,11 +2057,11 @@
 					"value": 19393
 				},
 				{
-					"label": "Apr 10, 2025",
+					"label": "Apr 11, 2025",
 					"value": 19474
 				},
 				{
-					"label": "Apr 10, 2025",
+					"label": "Apr 11, 2025",
 					"value": 19560
 				},
 				{
@@ -2091,23 +2093,23 @@
 					"value": 19580
 				},
 				{
-					"label": "Apr 13, 2025",
+					"label": "Apr 14, 2025",
 					"value": 19485
 				},
 				{
-					"label": "Apr 14, 2025",
+					"label": "Apr 15, 2025",
 					"value": 19553
 				},
 				{
-					"label": "Apr 14, 2025",
+					"label": "Apr 15, 2025",
 					"value": 19620
 				},
 				{
-					"label": "Apr 14, 2025",
+					"label": "Apr 15, 2025",
 					"value": 19701
 				},
 				{
-					"label": "Apr 14, 2025",
+					"label": "Apr 15, 2025",
 					"value": 19780
 				},
 				{
@@ -2115,11 +2117,11 @@
 					"value": 19866
 				},
 				{
-					"label": "Apr 15, 2025",
+					"label": "Apr 16, 2025",
 					"value": 19784
 				},
 				{
-					"label": "Apr 15, 2025",
+					"label": "Apr 16, 2025",
 					"value": 19870
 				},
 				{
@@ -2135,11 +2137,11 @@
 					"value": 19910
 				},
 				{
-					"label": "Apr 17, 2025",
+					"label": "Apr 18, 2025",
 					"value": 19984
 				},
 				{
-					"label": "Apr 18, 2025",
+					"label": "Apr 19, 2025",
 					"value": 20072
 				},
 				{
@@ -2175,11 +2177,11 @@
 					"value": 19820
 				},
 				{
-					"label": "Apr 21, 2025",
+					"label": "Apr 22, 2025",
 					"value": 19907
 				},
 				{
-					"label": "Apr 21, 2025",
+					"label": "Apr 22, 2025",
 					"value": 19825
 				},
 				{
@@ -2195,15 +2197,15 @@
 					"value": 20066
 				},
 				{
-					"label": "Apr 25, 2025",
+					"label": "Apr 26, 2025",
 					"value": 19956
 				},
 				{
-					"label": "Apr 25, 2025",
+					"label": "Apr 26, 2025",
 					"value": 20055
 				},
 				{
-					"label": "Apr 25, 2025",
+					"label": "Apr 26, 2025",
 					"value": 20127
 				},
 				{
@@ -2243,7 +2245,7 @@
 					"value": 20106
 				},
 				{
-					"label": "May 5, 2025",
+					"label": "May 6, 2025",
 					"value": 19979
 				},
 				{
@@ -2263,23 +2265,23 @@
 					"value": 20122
 				},
 				{
-					"label": "May 7, 2025",
+					"label": "May 8, 2025",
 					"value": 20206
 				},
 				{
-					"label": "May 7, 2025",
+					"label": "May 8, 2025",
 					"value": 20138
 				},
 				{
-					"label": "May 7, 2025",
+					"label": "May 8, 2025",
 					"value": 20008
 				},
 				{
-					"label": "May 7, 2025",
+					"label": "May 8, 2025",
 					"value": 19882
 				},
 				{
-					"label": "May 7, 2025",
+					"label": "May 8, 2025",
 					"value": 19785
 				},
 				{
@@ -2339,15 +2341,15 @@
 					"value": 20290
 				},
 				{
-					"label": "May 11, 2025",
+					"label": "May 12, 2025",
 					"value": 20251
 				},
 				{
-					"label": "May 11, 2025",
+					"label": "May 12, 2025",
 					"value": 20211
 				},
 				{
-					"label": "May 11, 2025",
+					"label": "May 12, 2025",
 					"value": 20065
 				},
 				{
@@ -2439,7 +2441,7 @@
 					"value": 19886
 				},
 				{
-					"label": "May 20, 2025",
+					"label": "May 21, 2025",
 					"value": 19808
 				},
 				{
@@ -2595,7 +2597,7 @@
 					"value": 20431
 				},
 				{
-					"label": "May 31, 2025",
+					"label": "Jun 1, 2025",
 					"value": 20370
 				},
 				{
@@ -2651,7 +2653,7 @@
 					"value": 20555
 				},
 				{
-					"label": "Jun 3, 2025",
+					"label": "Jun 4, 2025",
 					"value": 20620
 				},
 				{
@@ -2671,7 +2673,7 @@
 					"value": 20643
 				},
 				{
-					"label": "Jun 5, 2025",
+					"label": "Jun 6, 2025",
 					"value": 20704
 				},
 				{
@@ -2743,11 +2745,11 @@
 					"value": 19869
 				},
 				{
-					"label": "Jul 8, 2025",
+					"label": "Jul 9, 2025",
 					"value": 19757
 				},
 				{
-					"label": "Jul 8, 2025",
+					"label": "Jul 9, 2025",
 					"value": 19642
 				},
 				{
@@ -2799,7 +2801,7 @@
 					"value": 20082
 				},
 				{
-					"label": "Jul 13, 2025",
+					"label": "Jul 14, 2025",
 					"value": 20173
 				},
 				{
@@ -2811,11 +2813,11 @@
 					"value": 20128
 				},
 				{
-					"label": "Jul 14, 2025",
+					"label": "Jul 15, 2025",
 					"value": 20211
 				},
 				{
-					"label": "Jul 14, 2025",
+					"label": "Jul 15, 2025",
 					"value": 20322
 				},
 				{
@@ -2827,11 +2829,11 @@
 					"value": 20346
 				},
 				{
-					"label": "Jul 16, 2025",
+					"label": "Jul 17, 2025",
 					"value": 20234
 				},
 				{
-					"label": "Jul 16, 2025",
+					"label": "Jul 17, 2025",
 					"value": 20135
 				},
 				{
@@ -2867,19 +2869,19 @@
 					"value": 20343
 				},
 				{
-					"label": "Jul 21, 2025",
+					"label": "Jul 22, 2025",
 					"value": 20430
 				},
 				{
-					"label": "Jul 21, 2025",
+					"label": "Jul 22, 2025",
 					"value": 20341
 				},
 				{
-					"label": "Jul 22, 2025",
+					"label": "Jul 23, 2025",
 					"value": 20418
 				},
 				{
-					"label": "Jul 22, 2025",
+					"label": "Jul 23, 2025",
 					"value": 20362
 				},
 				{
@@ -2963,11 +2965,11 @@
 					"value": 20289
 				},
 				{
-					"label": "Jul 27, 2025",
+					"label": "Jul 28, 2025",
 					"value": 20370
 				},
 				{
-					"label": "Jul 27, 2025",
+					"label": "Jul 28, 2025",
 					"value": 20466
 				},
 				{
@@ -2991,11 +2993,11 @@
 					"value": 19948
 				},
 				{
-					"label": "Aug 1, 2025",
+					"label": "Aug 2, 2025",
 					"value": 19864
 				},
 				{
-					"label": "Aug 1, 2025",
+					"label": "Aug 2, 2025",
 					"value": 19927
 				},
 				{
@@ -3035,15 +3037,15 @@
 					"value": 19818
 				},
 				{
-					"label": "Aug 4, 2025",
+					"label": "Aug 5, 2025",
 					"value": 19731
 				},
 				{
-					"label": "Aug 4, 2025",
+					"label": "Aug 5, 2025",
 					"value": 19623
 				},
 				{
-					"label": "Aug 4, 2025",
+					"label": "Aug 5, 2025",
 					"value": 19540
 				},
 				{
@@ -3095,7 +3097,7 @@
 					"value": 19159
 				},
 				{
-					"label": "Aug 8, 2025",
+					"label": "Aug 9, 2025",
 					"value": 19254
 				},
 				{
@@ -3119,7 +3121,7 @@
 					"value": 19686
 				},
 				{
-					"label": "Aug 9, 2025",
+					"label": "Aug 10, 2025",
 					"value": 19773
 				},
 				{
@@ -3147,11 +3149,11 @@
 					"value": 19898
 				},
 				{
-					"label": "Aug 11, 2025",
+					"label": "Aug 12, 2025",
 					"value": 19974
 				},
 				{
-					"label": "Aug 11, 2025",
+					"label": "Aug 12, 2025",
 					"value": 19889
 				},
 				{
@@ -3199,7 +3201,7 @@
 					"value": 20114
 				},
 				{
-					"label": "Aug 15, 2025",
+					"label": "Aug 16, 2025",
 					"value": 20196
 				},
 				{
@@ -3207,7 +3209,7 @@
 					"value": 20119
 				},
 				{
-					"label": "Aug 18, 2025",
+					"label": "Aug 19, 2025",
 					"value": 20025
 				},
 				{
@@ -3215,7 +3217,7 @@
 					"value": 19888
 				},
 				{
-					"label": "Aug 27, 2025",
+					"label": "Aug 28, 2025",
 					"value": 19800
 				},
 				{
@@ -3231,7 +3233,7 @@
 					"value": 19681
 				},
 				{
-					"label": "Sep 8, 2025",
+					"label": "Sep 9, 2025",
 					"value": 19592
 				},
 				{
@@ -3239,7 +3241,7 @@
 					"value": 19530
 				},
 				{
-					"label": "Sep 16, 2025",
+					"label": "Sep 17, 2025",
 					"value": 19625
 				},
 				{
@@ -3255,7 +3257,7 @@
 					"value": 19528
 				},
 				{
-					"label": "Sep 17, 2025",
+					"label": "Sep 18, 2025",
 					"value": 19623
 				},
 				{
@@ -3287,23 +3289,23 @@
 					"value": 19608
 				},
 				{
-					"label": "Oct 3, 2025",
+					"label": "Oct 4, 2025",
 					"value": 19689
 				},
 				{
-					"label": "Oct 3, 2025",
+					"label": "Oct 4, 2025",
 					"value": 19758
 				},
 				{
-					"label": "Oct 3, 2025",
+					"label": "Oct 4, 2025",
 					"value": 19670
 				},
 				{
-					"label": "Oct 3, 2025",
+					"label": "Oct 4, 2025",
 					"value": 19743
 				},
 				{
-					"label": "Oct 3, 2025",
+					"label": "Oct 4, 2025",
 					"value": 19851
 				},
 				{
@@ -3367,15 +3369,15 @@
 					"value": 20314
 				},
 				{
-					"label": "Oct 6, 2025",
+					"label": "Oct 7, 2025",
 					"value": 20196
 				},
 				{
-					"label": "Oct 6, 2025",
+					"label": "Oct 7, 2025",
 					"value": 20311
 				},
 				{
-					"label": "Oct 6, 2025",
+					"label": "Oct 7, 2025",
 					"value": 20209
 				},
 				{
@@ -3411,15 +3413,15 @@
 					"value": 20544
 				},
 				{
-					"label": "Oct 7, 2025",
+					"label": "Oct 8, 2025",
 					"value": 20623
 				},
 				{
-					"label": "Oct 7, 2025",
+					"label": "Oct 8, 2025",
 					"value": 20667
 				},
 				{
-					"label": "Oct 7, 2025",
+					"label": "Oct 8, 2025",
 					"value": 20728
 				},
 				{
@@ -3471,7 +3473,7 @@
 					"value": 21046
 				},
 				{
-					"label": "Oct 11, 2025",
+					"label": "Oct 12, 2025",
 					"value": 21096
 				},
 				{
@@ -3503,19 +3505,19 @@
 					"value": 20974
 				},
 				{
-					"label": "Oct 19, 2025",
+					"label": "Oct 20, 2025",
 					"value": 20927
 				},
 				{
-					"label": "Oct 19, 2025",
+					"label": "Oct 20, 2025",
 					"value": 20858
 				},
 				{
-					"label": "Oct 19, 2025",
+					"label": "Oct 20, 2025",
 					"value": 20798
 				},
 				{
-					"label": "Oct 19, 2025",
+					"label": "Oct 20, 2025",
 					"value": 20749
 				},
 				{
@@ -3543,19 +3545,19 @@
 					"value": 20616
 				},
 				{
-					"label": "Oct 21, 2025",
+					"label": "Oct 22, 2025",
 					"value": 20672
 				},
 				{
-					"label": "Oct 21, 2025",
+					"label": "Oct 22, 2025",
 					"value": 20607
 				},
 				{
-					"label": "Oct 21, 2025",
+					"label": "Oct 22, 2025",
 					"value": 20690
 				},
 				{
-					"label": "Oct 22, 2025",
+					"label": "Oct 23, 2025",
 					"value": 20733
 				},
 				{
@@ -3579,15 +3581,15 @@
 					"value": 21038
 				},
 				{
-					"label": "Oct 28, 2025",
+					"label": "Oct 29, 2025",
 					"value": 21004
 				},
 				{
-					"label": "Oct 28, 2025",
+					"label": "Oct 29, 2025",
 					"value": 20933
 				},
 				{
-					"label": "Oct 28, 2025",
+					"label": "Oct 29, 2025",
 					"value": 20873
 				},
 				{
@@ -3595,7 +3597,7 @@
 					"value": 20841
 				},
 				{
-					"label": "Oct 30, 2025",
+					"label": "Oct 31, 2025",
 					"value": 20913
 				},
 				{
@@ -3607,19 +3609,19 @@
 					"value": 20768
 				},
 				{
-					"label": "Nov 4, 2025",
+					"label": "Nov 5, 2025",
 					"value": 20809
 				},
 				{
-					"label": "Nov 4, 2025",
+					"label": "Nov 5, 2025",
 					"value": 20743
 				},
 				{
-					"label": "Nov 4, 2025",
+					"label": "Nov 5, 2025",
 					"value": 20683
 				},
 				{
-					"label": "Nov 4, 2025",
+					"label": "Nov 5, 2025",
 					"value": 20729
 				},
 				{
@@ -3651,11 +3653,11 @@
 					"value": 20370
 				},
 				{
-					"label": "Nov 8, 2025",
+					"label": "Nov 9, 2025",
 					"value": 20239
 				},
 				{
-					"label": "Nov 8, 2025",
+					"label": "Nov 9, 2025",
 					"value": 20339
 				},
 				{
@@ -3667,15 +3669,15 @@
 					"value": 20332
 				},
 				{
-					"label": "Nov 10, 2025",
+					"label": "Nov 11, 2025",
 					"value": 20222
 				},
 				{
-					"label": "Nov 10, 2025",
+					"label": "Nov 11, 2025",
 					"value": 20135
 				},
 				{
-					"label": "Nov 10, 2025",
+					"label": "Nov 11, 2025",
 					"value": 20192
 				},
 				{
@@ -3743,11 +3745,11 @@
 					"value": 20196
 				},
 				{
-					"label": "Nov 23, 2025",
+					"label": "Nov 24, 2025",
 					"value": 20277
 				},
 				{
-					"label": "Nov 23, 2025",
+					"label": "Nov 24, 2025",
 					"value": 20132
 				},
 				{
@@ -3847,15 +3849,15 @@
 					"value": 19906
 				},
 				{
-					"label": "Nov 28, 2025",
+					"label": "Nov 29, 2025",
 					"value": 19987
 				},
 				{
-					"label": "Nov 28, 2025",
+					"label": "Nov 29, 2025",
 					"value": 20077
 				},
 				{
-					"label": "Nov 28, 2025",
+					"label": "Nov 29, 2025",
 					"value": 20161
 				},
 				{
@@ -3883,7 +3885,7 @@
 					"value": 20030
 				},
 				{
-					"label": "Dec 1, 2025",
+					"label": "Dec 2, 2025",
 					"value": 19896
 				},
 				{
@@ -3899,7 +3901,7 @@
 					"value": 19948
 				},
 				{
-					"label": "Dec 3, 2025",
+					"label": "Dec 4, 2025",
 					"value": 19871
 				},
 				{
@@ -3995,11 +3997,11 @@
 					"value": 19766
 				},
 				{
-					"label": "Dec 10, 2025",
+					"label": "Dec 11, 2025",
 					"value": 19825
 				},
 				{
-					"label": "Dec 10, 2025",
+					"label": "Dec 11, 2025",
 					"value": 19762
 				},
 				{
@@ -4035,11 +4037,11 @@
 					"value": 19632
 				},
 				{
-					"label": "Dec 15, 2025",
+					"label": "Dec 16, 2025",
 					"value": 19536
 				},
 				{
-					"label": "Dec 15, 2025",
+					"label": "Dec 16, 2025",
 					"value": 19645
 				},
 				{
@@ -4047,19 +4049,19 @@
 					"value": 19556
 				},
 				{
-					"label": "Dec 18, 2025",
+					"label": "Dec 19, 2025",
 					"value": 19628
 				},
 				{
-					"label": "Dec 18, 2025",
+					"label": "Dec 19, 2025",
 					"value": 19550
 				},
 				{
-					"label": "Dec 18, 2025",
+					"label": "Dec 19, 2025",
 					"value": 19470
 				},
 				{
-					"label": "Dec 18, 2025",
+					"label": "Dec 19, 2025",
 					"value": 19544
 				},
 				{
@@ -4119,15 +4121,15 @@
 					"value": 19541
 				},
 				{
-					"label": "Dec 22, 2025",
+					"label": "Dec 23, 2025",
 					"value": 19608
 				},
 				{
-					"label": "Dec 22, 2025",
+					"label": "Dec 23, 2025",
 					"value": 19680
 				},
 				{
-					"label": "Dec 22, 2025",
+					"label": "Dec 23, 2025",
 					"value": 19770
 				},
 				{
@@ -4155,23 +4157,23 @@
 					"value": 20048
 				},
 				{
-					"label": "Dec 23, 2025",
+					"label": "Dec 24, 2025",
 					"value": 19915
 				},
 				{
-					"label": "Dec 23, 2025",
+					"label": "Dec 24, 2025",
 					"value": 19977
 				},
 				{
-					"label": "Dec 23, 2025",
+					"label": "Dec 24, 2025",
 					"value": 19895
 				},
 				{
-					"label": "Dec 23, 2025",
+					"label": "Dec 24, 2025",
 					"value": 19957
 				},
 				{
-					"label": "Dec 23, 2025",
+					"label": "Dec 24, 2025",
 					"value": 20027
 				},
 				{
@@ -4191,19 +4193,19 @@
 					"value": 20195
 				},
 				{
-					"label": "Dec 24, 2025",
+					"label": "Dec 25, 2025",
 					"value": 20265
 				},
 				{
-					"label": "Dec 24, 2025",
+					"label": "Dec 25, 2025",
 					"value": 20359
 				},
 				{
-					"label": "Dec 24, 2025",
+					"label": "Dec 25, 2025",
 					"value": 20471
 				},
 				{
-					"label": "Dec 24, 2025",
+					"label": "Dec 25, 2025",
 					"value": 20409
 				},
 				{
@@ -4231,39 +4233,39 @@
 					"value": 20033
 				},
 				{
-					"label": "Dec 26, 2025",
+					"label": "Dec 27, 2025",
 					"value": 20155
 				},
 				{
-					"label": "Dec 26, 2025",
+					"label": "Dec 27, 2025",
 					"value": 20022
 				},
 				{
-					"label": "Dec 27, 2025",
+					"label": "Dec 28, 2025",
 					"value": 20130
 				},
 				{
-					"label": "Dec 27, 2025",
+					"label": "Dec 28, 2025",
 					"value": 20184
 				},
 				{
-					"label": "Dec 27, 2025",
+					"label": "Dec 28, 2025",
 					"value": 20265
 				},
 				{
-					"label": "Dec 27, 2025",
+					"label": "Dec 28, 2025",
 					"value": 20354
 				},
 				{
-					"label": "Dec 28, 2025",
+					"label": "Dec 29, 2025",
 					"value": 20302
 				},
 				{
-					"label": "Dec 29, 2025",
+					"label": "Dec 30, 2025",
 					"value": 20412
 				},
 				{
-					"label": "Dec 29, 2025",
+					"label": "Dec 30, 2025",
 					"value": 20269
 				},
 				{
@@ -4367,11 +4369,11 @@
 					"value": 19723
 				},
 				{
-					"label": "Jan 8, 2026",
+					"label": "Jan 9, 2026",
 					"value": 19649
 				},
 				{
-					"label": "Jan 8, 2026",
+					"label": "Jan 9, 2026",
 					"value": 19741
 				},
 				{
@@ -4387,15 +4389,15 @@
 					"value": 19838
 				},
 				{
-					"label": "Jan 12, 2026",
+					"label": "Jan 13, 2026",
 					"value": 19917
 				},
 				{
-					"label": "Jan 12, 2026",
+					"label": "Jan 13, 2026",
 					"value": 19990
 				},
 				{
-					"label": "Jan 12, 2026",
+					"label": "Jan 13, 2026",
 					"value": 20085
 				},
 				{
@@ -4431,15 +4433,15 @@
 					"value": 20127
 				},
 				{
-					"label": "Jan 14, 2026",
+					"label": "Jan 15, 2026",
 					"value": 19999
 				},
 				{
-					"label": "Jan 14, 2026",
+					"label": "Jan 15, 2026",
 					"value": 19928
 				},
 				{
-					"label": "Jan 14, 2026",
+					"label": "Jan 15, 2026",
 					"value": 19847
 				},
 				{
@@ -4523,7 +4525,7 @@
 					"value": 19908
 				},
 				{
-					"label": "Jan 24, 2026",
+					"label": "Jan 25, 2026",
 					"value": 19981
 				},
 				{
@@ -4695,7 +4697,7 @@
 					"value": 19907
 				},
 				{
-					"label": "Jan 31, 2026",
+					"label": "Feb 1, 2026",
 					"value": 19803
 				},
 				{
@@ -4707,11 +4709,11 @@
 					"value": 19823
 				},
 				{
-					"label": "Feb 1, 2026",
+					"label": "Feb 2, 2026",
 					"value": 19911
 				},
 				{
-					"label": "Feb 1, 2026",
+					"label": "Feb 2, 2026",
 					"value": 19828
 				},
 				{
@@ -4755,11 +4757,11 @@
 					"value": 19871
 				},
 				{
-					"label": "Feb 4, 2026",
+					"label": "Feb 5, 2026",
 					"value": 19940
 				},
 				{
-					"label": "Feb 4, 2026",
+					"label": "Feb 5, 2026",
 					"value": 20029
 				},
 				{
@@ -4815,23 +4817,23 @@
 					"value": 19862
 				},
 				{
-					"label": "Feb 10, 2026",
+					"label": "Feb 11, 2026",
 					"value": 19947
 				},
 				{
-					"label": "Feb 10, 2026",
+					"label": "Feb 11, 2026",
 					"value": 19947
 				},
 				{
-					"label": "Feb 10, 2026",
+					"label": "Feb 11, 2026",
 					"value": 20024
 				},
 				{
-					"label": "Feb 10, 2026",
+					"label": "Feb 11, 2026",
 					"value": 20085
 				},
 				{
-					"label": "Feb 10, 2026",
+					"label": "Feb 11, 2026",
 					"value": 19952
 				},
 				{
@@ -4859,11 +4861,11 @@
 					"value": 20111
 				},
 				{
-					"label": "Feb 15, 2026",
+					"label": "Feb 16, 2026",
 					"value": 20025
 				},
 				{
-					"label": "Feb 15, 2026",
+					"label": "Feb 16, 2026",
 					"value": 20112
 				},
 				{
@@ -4875,7 +4877,7 @@
 					"value": 19878
 				},
 				{
-					"label": "Feb 16, 2026",
+					"label": "Feb 17, 2026",
 					"value": 19944
 				},
 				{
@@ -4915,11 +4917,11 @@
 					"value": 20126
 				},
 				{
-					"label": "Feb 17, 2026",
+					"label": "Feb 18, 2026",
 					"value": 19979
 				},
 				{
-					"label": "Feb 17, 2026",
+					"label": "Feb 18, 2026",
 					"value": 20055
 				},
 				{
@@ -4951,15 +4953,15 @@
 					"value": 20137
 				},
 				{
-					"label": "Feb 20, 2026",
+					"label": "Feb 21, 2026",
 					"value": 20011
 				},
 				{
-					"label": "Feb 20, 2026",
+					"label": "Feb 21, 2026",
 					"value": 19875
 				},
 				{
-					"label": "Feb 20, 2026",
+					"label": "Feb 21, 2026",
 					"value": 19960
 				},
 				{
@@ -4975,7 +4977,7 @@
 					"value": 19998
 				},
 				{
-					"label": "Feb 22, 2026",
+					"label": "Feb 23, 2026",
 					"value": 20059
 				},
 				{
@@ -5087,11 +5089,11 @@
 					"value": 19980
 				},
 				{
-					"label": "Mar 5, 2026",
+					"label": "Mar 6, 2026",
 					"value": 19910
 				},
 				{
-					"label": "Mar 5, 2026",
+					"label": "Mar 6, 2026",
 					"value": 19840
 				},
 				{
@@ -5115,19 +5117,19 @@
 					"value": 19733
 				},
 				{
-					"label": "Mar 11, 2026",
+					"label": "Mar 12, 2026",
 					"value": 19631
 				},
 				{
-					"label": "Mar 11, 2026",
+					"label": "Mar 12, 2026",
 					"value": 19535
 				},
 				{
-					"label": "Mar 11, 2026",
+					"label": "Mar 12, 2026",
 					"value": 19624
 				},
 				{
-					"label": "Mar 11, 2026",
+					"label": "Mar 12, 2026",
 					"value": 19544
 				},
 				{
@@ -5143,7 +5145,7 @@
 					"value": 19807
 				},
 				{
-					"label": "Mar 15, 2026",
+					"label": "Mar 16, 2026",
 					"value": 19735
 				},
 				{
@@ -5395,11 +5397,11 @@
 					"value": 19919
 				},
 				{
-					"label": "Apr 13, 2026",
+					"label": "Apr 14, 2026",
 					"value": 19995
 				},
 				{
-					"label": "Apr 13, 2026",
+					"label": "Apr 14, 2026",
 					"value": 20065
 				},
 				{
@@ -5415,7 +5417,7 @@
 					"value": 19933
 				},
 				{
-					"label": "Apr 14, 2026",
+					"label": "Apr 15, 2026",
 					"value": 19850
 				},
 				{
@@ -5479,7 +5481,7 @@
 					"value": 20284
 				},
 				{
-					"label": "Apr 22, 2026",
+					"label": "Apr 23, 2026",
 					"value": 20360
 				},
 				{
@@ -5503,7 +5505,7 @@
 					"value": 20277
 				},
 				{
-					"label": "Apr 25, 2026",
+					"label": "Apr 26, 2026",
 					"value": 20354
 				},
 				{
@@ -5519,15 +5521,15 @@
 					"value": 20030
 				},
 				{
-					"label": "Apr 28, 2026",
+					"label": "Apr 29, 2026",
 					"value": 19870
 				},
 				{
-					"label": "Apr 29, 2026",
+					"label": "Apr 30, 2026",
 					"value": 19963
 				},
 				{
-					"label": "Apr 29, 2026",
+					"label": "Apr 30, 2026",
 					"value": 19866
 				},
 				{
@@ -5563,7 +5565,7 @@
 					"value": 19821
 				},
 				{
-					"label": "May 5, 2026",
+					"label": "May 6, 2026",
 					"value": 19899
 				},
 				{
@@ -5579,15 +5581,15 @@
 					"value": 19932
 				},
 				{
-					"label": "May 8, 2026",
+					"label": "May 9, 2026",
 					"value": 20026
 				},
 				{
-					"label": "May 8, 2026",
+					"label": "May 9, 2026",
 					"value": 20117
 				},
 				{
-					"label": "May 9, 2026",
+					"label": "May 10, 2026",
 					"value": 20053
 				},
 				{
@@ -5595,7 +5597,7 @@
 					"value": 19910
 				},
 				{
-					"label": "May 11, 2026",
+					"label": "May 12, 2026",
 					"value": 19985
 				},
 				{
@@ -5607,11 +5609,11 @@
 					"value": 20146
 				},
 				{
-					"label": "May 13, 2026",
+					"label": "May 14, 2026",
 					"value": 20209
 				},
 				{
-					"label": "May 14, 2026",
+					"label": "May 15, 2026",
 					"value": 20286
 				},
 				{
@@ -5631,7 +5633,7 @@
 					"value": 20287
 				},
 				{
-					"label": "May 17, 2026",
+					"label": "May 18, 2026",
 					"value": 20215
 				},
 				{
@@ -5639,23 +5641,23 @@
 					"value": 20131
 				},
 				{
-					"label": "May 18, 2026",
+					"label": "May 19, 2026",
 					"value": 20208
 				},
 				{
-					"label": "May 18, 2026",
+					"label": "May 19, 2026",
 					"value": 20280
 				},
 				{
-					"label": "May 19, 2026",
+					"label": "May 20, 2026",
 					"value": 20358
 				},
 				{
-					"label": "May 20, 2026",
+					"label": "May 21, 2026",
 					"value": 20438
 				},
 				{
-					"label": "May 21, 2026",
+					"label": "May 22, 2026",
 					"value": 20519
 				},
 				{
@@ -5667,7 +5669,7 @@
 					"value": 20399
 				},
 				{
-					"label": "May 23, 2026",
+					"label": "May 24, 2026",
 					"value": 20340
 				},
 				{
@@ -5715,15 +5717,15 @@
 					"value": 20617
 				},
 				{
-					"label": "Jun 3, 2026",
+					"label": "Jun 4, 2026",
 					"value": 20566
 				},
 				{
-					"label": "Jun 4, 2026",
+					"label": "Jun 5, 2026",
 					"value": 20495
 				},
 				{
-					"label": "Jun 6, 2026",
+					"label": "Jun 7, 2026",
 					"value": 20578
 				},
 				{
@@ -5735,11 +5737,11 @@
 					"value": 20429
 				},
 				{
-					"label": "Jun 9, 2026",
+					"label": "Jun 10, 2026",
 					"value": 20357
 				},
 				{
-					"label": "Jun 10, 2026",
+					"label": "Jun 11, 2026",
 					"value": 20425
 				},
 				{
@@ -5751,38 +5753,42 @@
 					"value": 20528
 				},
 				{
-					"label": "Jun 13, 2026",
+					"label": "Jun 14, 2026",
 					"value": 20452
 				},
 				{
-					"label": "Jun 14, 2026",
+					"label": "Jun 15, 2026",
 					"value": 20523
 				},
 				{
 					"label": "Jun 15, 2026",
 					"value": 20457
+				},
+				{
+					"label": "Jun 17, 2026",
+					"value": 20522
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,692 global · #107 Canada"
+					"detail": "#1,635 global · #105 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20457",
+					"value": "20522",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "83.4 / 1.99 / 171.9",
+					"value": "82.7 / 1.99 / 168.6",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#389 Canada · #6,168 global"
+					"detail": "#389 Canada · #6,169 global"
 				},
 				{
 					"label": "Blitz PB",
@@ -5792,7 +5798,7 @@
 				{
 					"label": "win rate",
 					"value": "49.8%",
-					"detail": "3,325 / 6,676 games played · 843h time played"
+					"detail": "3,326 / 6,677 games played · 843h time played"
 				}
 			]
 		},
@@ -5860,23 +5866,23 @@
 					"value": 1063
 				},
 				{
-					"label": "May 7, 2026",
+					"label": "May 8, 2026",
 					"value": 1043
 				},
 				{
-					"label": "May 7, 2026",
-					"value": 1064
-				},
-				{
-					"label": "May 7, 2026",
+					"label": "May 8, 2026",
 					"value": 1064
 				},
 				{
 					"label": "May 8, 2026",
+					"value": 1064
+				},
+				{
+					"label": "May 9, 2026",
 					"value": 1082
 				},
 				{
-					"label": "May 8, 2026",
+					"label": "May 9, 2026",
 					"value": 1100
 				},
 				{
@@ -5900,14 +5906,6 @@
 					"value": 1039
 				},
 				{
-					"label": "May 11, 2026",
-					"value": 1018
-				},
-				{
-					"label": "May 11, 2026",
-					"value": 1038
-				},
-				{
 					"label": "May 12, 2026",
 					"value": 1018
 				},
@@ -5917,30 +5915,38 @@
 				},
 				{
 					"label": "May 12, 2026",
+					"value": 1018
+				},
+				{
+					"label": "May 12, 2026",
+					"value": 1038
+				},
+				{
+					"label": "May 13, 2026",
 					"value": 1059
 				},
 				{
-					"label": "May 12, 2026",
+					"label": "May 13, 2026",
 					"value": 1079
 				},
 				{
-					"label": "May 12, 2026",
-					"value": 1101
-				},
-				{
 					"label": "May 13, 2026",
 					"value": 1101
 				},
 				{
-					"label": "May 13, 2026",
+					"label": "May 14, 2026",
+					"value": 1101
+				},
+				{
+					"label": "May 14, 2026",
 					"value": 1121
 				},
 				{
-					"label": "May 13, 2026",
+					"label": "May 14, 2026",
 					"value": 1141
 				},
 				{
-					"label": "May 13, 2026",
+					"label": "May 14, 2026",
 					"value": 1122
 				},
 				{
@@ -5956,11 +5962,11 @@
 					"value": 1139
 				},
 				{
-					"label": "May 14, 2026",
+					"label": "May 15, 2026",
 					"value": 1119
 				},
 				{
-					"label": "May 14, 2026",
+					"label": "May 15, 2026",
 					"value": 1141
 				},
 				{
@@ -6122,7 +6128,9 @@
 					"label": "May 5, 2023",
 					"value": 1104
 				}
-			]
+			],
+			"stale": true,
+			"error": "Unable to refresh TTCAN stats."
 		},
 		{
 			"id": "speedcubing",
