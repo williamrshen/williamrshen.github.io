@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-06-17T13:36:04.613Z",
+	"updatedAt": "2026-06-18T12:45:16.128Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -17,9 +17,7 @@
 		"mcsrMatches": "https://api.mcsrranked.com/users/uselessleaf/matches?count=100&type=2&sort=oldest",
 		"ttcanProfile": "https://ttcan.onrender.com/api/players/30561"
 	},
-	"errors": [
-		"TTCAN: 500 Internal Server Error for https://ttcan.onrender.com/api/players/30561"
-	],
+	"errors": [],
 	"hobbies": [
 		{
 			"id": "tetris",
@@ -5767,38 +5765,42 @@
 				{
 					"label": "Jun 17, 2026",
 					"value": 20522
+				},
+				{
+					"label": "Jun 17, 2026",
+					"value": 20588
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,635 global · #105 Canada"
+					"detail": "#1,575 global · #102 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20522",
+					"value": "20588",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "82.7 / 1.99 / 168.6",
+					"value": "84.5 / 1.99 / 173.2",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#389 Canada · #6,169 global"
+					"detail": "#388 Canada · #6,174 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#141 Canada · #1,894 global"
+					"detail": "#141 Canada · #1,896 global"
 				},
 				{
 					"label": "win rate",
 					"value": "49.8%",
-					"detail": "3,326 / 6,677 games played · 843h time played"
+					"detail": "3,327 / 6,678 games played · 843h time played"
 				}
 			]
 		},
@@ -5984,13 +5986,17 @@
 				{
 					"label": "May 16, 2026",
 					"value": 1141
+				},
+				{
+					"label": "Jun 18, 2026",
+					"value": 1162
 				}
 			],
 			"stats": [
 				{
 					"label": "current elo",
-					"value": "1,141",
-					"detail": "rank #4,291"
+					"value": "1,162",
+					"detail": "rank #3,925"
 				},
 				{
 					"label": "all-time best",
@@ -5999,8 +6005,8 @@
 				},
 				{
 					"label": "ranked record",
-					"value": "346–327",
-					"detail": "51.4% win rate"
+					"value": "347–327",
+					"detail": "51.5% win rate"
 				}
 			]
 		},
@@ -6128,9 +6134,7 @@
 					"label": "May 5, 2023",
 					"value": 1104
 				}
-			],
-			"stale": true,
-			"error": "Unable to refresh TTCAN stats."
+			]
 		},
 		{
 			"id": "speedcubing",
@@ -6145,12 +6149,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #297 · World #8,345"
+					"detail": "Canada #298 · World #8,361"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #137 · World #3,642"
+					"detail": "Canada #137 · World #3,647"
 				},
 				{
 					"label": "competitions",
