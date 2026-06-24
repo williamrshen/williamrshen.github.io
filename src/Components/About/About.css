@@ -50,17 +50,17 @@
 .about-photo-card {
     grid-area: photo;
     min-height: 430px;
-    padding: 8px;
+    padding: 4px;
     background:
-        linear-gradient(135deg, rgba(110, 178, 87, 0.45), rgba(197, 224, 99, 0.12)),
+        linear-gradient(135deg, rgba(110, 178, 87, 0.34), rgba(197, 224, 99, 0.08)),
         rgba(255, 255, 255, 0.055);
 }
 
 .about-photo-card::after {
     content: '';
     position: absolute;
-    inset: 8px;
-    border-radius: 22px;
+    inset: 4px;
+    border-radius: 10px;
     box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
     pointer-events: none;
 }
@@ -68,7 +68,7 @@
 .about-photo-card img {
     width: 100%;
     height: 100%;
-    min-height: 414px;
+    min-height: 422px;
     display: block;
     object-fit: cover;
     border-radius: 22px;
@@ -156,58 +156,20 @@
     background: linear-gradient(135deg, #c5e063, #59ba73);
 }
 
-.about-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-top: 4px;
-}
-
-.about-action,
-.about-hobby-card {
-    text-decoration: none;
-    color: white;
-}
-
-.about-action {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 15px;
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    border-radius: 999px;
-    background: rgba(255, 255, 255, 0.065);
-    color: rgba(255, 255, 255, 0.78);
-    font-size: 0.9rem;
-    transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
-}
-
-.about-action:hover {
-    transform: translateY(-2px);
-    border-color: rgba(197, 224, 99, 0.42);
-    background: rgba(197, 224, 99, 0.11);
-    color: white;
-}
-
-.about-action--primary {
-    border-color: rgba(197, 224, 99, 0.38);
-    background: linear-gradient(267deg, rgba(172, 191, 113, 0.34), rgba(89, 186, 115, 0.28));
-    color: white;
-}
-
 .about-hobby-strip {
     grid-area: strip;
     display: grid;
-    gap: 14px;
-    padding: 18px;
+    gap: 16px;
+    padding: 22px;
     background: rgba(255, 255, 255, 0.048);
 }
 
 .about-strip-heading {
     display: flex;
-    align-items: end;
+    align-items: baseline;
     justify-content: space-between;
-    gap: 16px;
+    gap: 18px;
+    padding: 0 2px;
 }
 
 .about-strip-heading p {
@@ -217,20 +179,23 @@
 
 .about-strip-heading h3 {
     font-size: clamp(1.35rem, 3vw, 2rem);
-    line-height: 1.1;
+    line-height: 1;
 }
 
 .about-hobby-grid {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 12px;
+    gap: 14px;
 }
 
 .about-hobby-card {
-    display: grid;
-    gap: 6px;
-    min-height: 116px;
-    padding: 14px;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-height: 72px;
+    padding: 14px 16px;
     border: 1px solid rgba(255, 255, 255, 0.09);
     border-radius: 18px;
     background: rgba(6, 18, 14, 0.34);
@@ -244,27 +209,17 @@
 }
 
 .about-hobby-icon {
-    font-size: 1.2rem;
+    font-size: 1.05rem;
     color: rgba(197, 224, 99, 0.88);
+    flex-shrink: 0;
 }
 
 .about-hobby-title {
-    font-size: 1rem;
+    font-size: 0.95rem;
     font-weight: 700;
 }
 
-.about-hobby-detail {
-    font-size: 0.76rem;
-    line-height: 1.35;
-    color: rgba(255, 255, 255, 0.55);
-}
 
-.about-hobby-link {
-    align-self: end;
-    margin-top: 4px;
-    font-size: 0.78rem;
-    color: rgba(197, 224, 99, 0.78);
-}
 
 @media (max-width: 1050px) {
     .about {
@@ -312,6 +267,7 @@
     .about-strip-heading {
         align-items: flex-start;
         flex-direction: column;
+        padding: 0;
     }
 }
 
@@ -320,13 +276,8 @@
         font-size: 42px;
     }
 
-    .about-actions,
     .about-hobby-grid {
         grid-template-columns: 1fr;
-    }
-
-    .about-action {
-        width: 100%;
     }
 
     .about-hobby-grid {

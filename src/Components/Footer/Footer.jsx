@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import './Footer.css'
 import { FaCross } from "react-icons/fa";
+import resume from '../../assets/Resume.pdf'
 
 
 const Footer = () => {
@@ -40,6 +41,15 @@ const Footer = () => {
             <p className="footer-bottom-left">
                 01/21/2025 - {showDate}
             </p>
+            <nav className="footer-links" aria-label="Footer quick links">
+                <a href={resume} download="William Shen - Resume">resume</a>
+                <span aria-hidden="true">⋅</span>
+                <a href="/#contact">contact</a>
+                <span aria-hidden="true">⋅</span>
+                <a href="/#portfolio">portfolio</a>
+                <span aria-hidden="true">⋅</span>
+                <a href="/hobbies">hobbies</a>
+            </nav>
             <div className="footer-bottom-right">
                 <p>{showTime}</p>
                 <p>made with react + vite + mald</p>

@@ -11,15 +11,16 @@ const Hero = () => {
         <h2>aka uselessleaf</h2>
         <p>part time - coder, cuber, athlete, musician, gamer</p>
         
-        <div className="hero-action">
-            <div className="hero-connect">
-                <a className='anchor-link' href='#contact'>
-                connect with me
-                </a>
-            </div>
-            <div className="hero-resume">
-                <a href={resume} download="William Shen - Resume">see my resume</a>
-            </div>
+        <div className="hero-action" aria-label="Hero links">
+            <a className="hero-btn hero-btn--primary" href="/#portfolio">
+                see my works
+            </a>
+            <a className="hero-btn hero-btn--secondary" href="/hobbies">
+                explore hobbies
+            </a>
+            <a className="hero-btn hero-btn--secondary" href={resume} download="William Shen - Resume">
+                resume
+            </a>
         </div>
     </div>
   )
