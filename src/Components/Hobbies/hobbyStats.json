@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-08-11T10:40:43.039Z",
+	"updatedAt": "2026-08-12T10:50:20.440Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -5935,7 +5935,7 @@
 				{
 					"label": "league rank",
 					"value": "SS",
-					"detail": "#1,804 global · #109 Canada"
+					"detail": "#1,810 global · #108 Canada"
 				},
 				{
 					"label": "TR",
@@ -5950,7 +5950,7 @@
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#390 Canada · #6,306 global"
+					"detail": "#390 Canada · #6,305 global"
 				},
 				{
 					"label": "Blitz PB",
@@ -6164,7 +6164,7 @@
 				{
 					"label": "current elo",
 					"value": "1,201",
-					"detail": "rank #3,935"
+					"detail": "rank #3,930"
 				},
 				{
 					"label": "all-time best",
@@ -6317,12 +6317,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #300 · World #8,540"
+					"detail": "Canada #300 · World #8,552"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #140 · World #3,716"
+					"detail": "Canada #140 · World #3,720"
 				},
 				{
 					"label": "competitions",
