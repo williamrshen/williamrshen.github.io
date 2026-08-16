@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-08-15T10:11:19.111Z",
+	"updatedAt": "2026-08-16T10:12:27.965Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -5937,28 +5937,32 @@
 				{
 					"label": "Aug 13, 2026",
 					"value": 20547
+				},
+				{
+					"label": "Aug 15, 2026",
+					"value": 20635
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,706 global · #102 Canada"
+					"detail": "#1,583 global · #94 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20547",
+					"value": "20635",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "80.6 / 1.92 / 164.9",
+					"value": "81.8 / 1.92 / 167.2",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#390 Canada · #6,311 global"
+					"detail": "#390 Canada · #6,312 global"
 				},
 				{
 					"label": "Blitz PB",
@@ -5968,7 +5972,7 @@
 				{
 					"label": "win rate",
 					"value": "49.8%",
-					"detail": "3,349 / 6,720 games played · 850h time played"
+					"detail": "3,350 / 6,721 games played · 850h time played"
 				}
 			]
 		},
@@ -6172,7 +6176,7 @@
 				{
 					"label": "current elo",
 					"value": "1,201",
-					"detail": "rank #3,959"
+					"detail": "rank #3,975"
 				},
 				{
 					"label": "all-time best",
@@ -6325,12 +6329,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #300 · World #8,553"
+					"detail": "Canada #300 · World #8,561"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #140 · World #3,721"
+					"detail": "Canada #140 · World #3,727"
 				},
 				{
 					"label": "competitions",
