@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-08-29T14:46:45.430Z",
+	"updatedAt": "2026-08-30T14:33:26.199Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -5961,38 +5961,42 @@
 				{
 					"label": "Aug 28, 2026",
 					"value": 20336
+				},
+				{
+					"label": "Aug 30, 2026",
+					"value": 20412
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "SS",
-					"detail": "#1,777 global · #111 Canada"
+					"detail": "#1,746 global · #111 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20336",
+					"value": "20412",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "77.0 / 1.84 / 161.2",
+					"value": "77.4 / 1.83 / 162.6",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#395 Canada · #6,337 global"
+					"detail": "#395 Canada · #6,351 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#141 Canada · #1,941 global"
+					"detail": "#141 Canada · #1,942 global"
 				},
 				{
 					"label": "win rate",
 					"value": "49.8%",
-					"detail": "3,351 / 6,726 games played · 850h time played"
+					"detail": "3,352 / 6,727 games played · 850h time played"
 				}
 			]
 		},
@@ -6006,197 +6010,12 @@
 			"apiUrl": "https://api.mcsrranked.com/users/uselessleaf",
 			"blurb": "started after seeing couriway's 14:36 1.16 RSG world record. been playing on and off for a while. now mainly playing ranked",
 			"historyLabel": "ranked elo history",
-			"history": [
-				{
-					"label": "May 2, 2026",
-					"value": 1083
-				},
-				{
-					"label": "May 2, 2026",
-					"value": 1102
-				},
-				{
-					"label": "May 2, 2026",
-					"value": 1082
-				},
-				{
-					"label": "May 2, 2026",
-					"value": 1082
-				},
-				{
-					"label": "May 2, 2026",
-					"value": 1063
-				},
-				{
-					"label": "May 2, 2026",
-					"value": 1083
-				},
-				{
-					"label": "May 3, 2026",
-					"value": 1103
-				},
-				{
-					"label": "May 3, 2026",
-					"value": 1083
-				},
-				{
-					"label": "May 4, 2026",
-					"value": 1064
-				},
-				{
-					"label": "May 4, 2026",
-					"value": 1084
-				},
-				{
-					"label": "May 4, 2026",
-					"value": 1064
-				},
-				{
-					"label": "May 4, 2026",
-					"value": 1044
-				},
-				{
-					"label": "May 4, 2026",
-					"value": 1063
-				},
-				{
-					"label": "May 8, 2026",
-					"value": 1043
-				},
-				{
-					"label": "May 8, 2026",
-					"value": 1064
-				},
-				{
-					"label": "May 8, 2026",
-					"value": 1064
-				},
-				{
-					"label": "May 9, 2026",
-					"value": 1082
-				},
-				{
-					"label": "May 9, 2026",
-					"value": 1100
-				},
-				{
-					"label": "May 9, 2026",
-					"value": 1080
-				},
-				{
-					"label": "May 10, 2026",
-					"value": 1058
-				},
-				{
-					"label": "May 10, 2026",
-					"value": 1078
-				},
-				{
-					"label": "May 10, 2026",
-					"value": 1058
-				},
-				{
-					"label": "May 10, 2026",
-					"value": 1039
-				},
-				{
-					"label": "May 12, 2026",
-					"value": 1018
-				},
-				{
-					"label": "May 12, 2026",
-					"value": 1038
-				},
-				{
-					"label": "May 12, 2026",
-					"value": 1018
-				},
-				{
-					"label": "May 12, 2026",
-					"value": 1038
-				},
-				{
-					"label": "May 13, 2026",
-					"value": 1059
-				},
-				{
-					"label": "May 13, 2026",
-					"value": 1079
-				},
-				{
-					"label": "May 13, 2026",
-					"value": 1101
-				},
-				{
-					"label": "May 14, 2026",
-					"value": 1101
-				},
-				{
-					"label": "May 14, 2026",
-					"value": 1121
-				},
-				{
-					"label": "May 14, 2026",
-					"value": 1141
-				},
-				{
-					"label": "May 14, 2026",
-					"value": 1122
-				},
-				{
-					"label": "May 14, 2026",
-					"value": 1140
-				},
-				{
-					"label": "May 14, 2026",
-					"value": 1158
-				},
-				{
-					"label": "May 14, 2026",
-					"value": 1139
-				},
-				{
-					"label": "May 15, 2026",
-					"value": 1119
-				},
-				{
-					"label": "May 15, 2026",
-					"value": 1141
-				},
-				{
-					"label": "May 15, 2026",
-					"value": 1123
-				},
-				{
-					"label": "May 16, 2026",
-					"value": 1143
-				},
-				{
-					"label": "May 16, 2026",
-					"value": 1162
-				},
-				{
-					"label": "May 16, 2026",
-					"value": 1141
-				},
-				{
-					"label": "Jun 18, 2026",
-					"value": 1162
-				},
-				{
-					"label": "Jun 19, 2026",
-					"value": 1181
-				},
-				{
-					"label": "Jun 19, 2026",
-					"value": 1201
-				}
-			],
+			"history": [],
 			"stats": [
 				{
 					"label": "current elo",
-					"value": "1,201",
-					"detail": "rank #4,165"
+					"value": "—",
+					"detail": "rank —"
 				},
 				{
 					"label": "all-time best",
@@ -6349,12 +6168,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #303 · World #8,640"
+					"detail": "Canada #303 · World #8,643"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #141 · World #3,762"
+					"detail": "Canada #141 · World #3,767"
 				},
 				{
 					"label": "competitions",
