@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-09-18T13:57:21.597Z",
+	"updatedAt": "2026-09-19T13:33:06.487Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -5993,28 +5993,32 @@
 				{
 					"label": "Sep 18, 2026",
 					"value": 20762
+				},
+				{
+					"label": "Sep 18, 2026",
+					"value": 20663
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,477 global · #88 Canada"
+					"detail": "#1,565 global · #88 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20762",
+					"value": "20663",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "84.4 / 1.91 / 172.3",
+					"value": "85.0 / 1.92 / 173.4",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#398 Canada · #6,390 global"
+					"detail": "#398 Canada · #6,394 global"
 				},
 				{
 					"label": "Blitz PB",
@@ -6024,7 +6028,7 @@
 				{
 					"label": "win rate",
 					"value": "49.9%",
-					"detail": "3,358 / 6,734 games played · 851h time played"
+					"detail": "3,358 / 6,735 games played · 852h time played"
 				}
 			]
 		},
@@ -6074,13 +6078,29 @@
 				{
 					"label": "Sep 1, 2026",
 					"value": 1142
+				},
+				{
+					"label": "Sep 18, 2026",
+					"value": 1121
+				},
+				{
+					"label": "Sep 18, 2026",
+					"value": 1121
+				},
+				{
+					"label": "Sep 18, 2026",
+					"value": 1101
+				},
+				{
+					"label": "Sep 18, 2026",
+					"value": 1120
 				}
 			],
 			"stats": [
 				{
 					"label": "current elo",
-					"value": "1,142",
-					"detail": "rank #4,314"
+					"value": "1,120",
+					"detail": "rank #4,760"
 				},
 				{
 					"label": "all-time best",
@@ -6089,8 +6109,8 @@
 				},
 				{
 					"label": "ranked record",
-					"value": "358–332",
-					"detail": "51.9% win rate"
+					"value": "359–334",
+					"detail": "51.8% win rate"
 				}
 			]
 		},
@@ -6233,12 +6253,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #305 · World #8,715"
+					"detail": "Canada #305 · World #8,721"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #144 · World #3,813"
+					"detail": "Canada #144 · World #3,815"
 				},
 				{
 					"label": "competitions",
