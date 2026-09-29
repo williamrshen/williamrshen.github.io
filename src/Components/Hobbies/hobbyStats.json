@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-09-28T17:51:45.551Z",
+	"updatedAt": "2026-09-29T16:12:26.766Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6005,22 +6005,26 @@
 				{
 					"label": "Sep 24, 2026",
 					"value": 20582
+				},
+				{
+					"label": "Sep 28, 2026",
+					"value": 20518
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,673 global · #103 Canada"
+					"detail": "#1,739 global · #106 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20582",
+					"value": "20518",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "83.8 / 1.96 / 167.6",
+					"value": "82.8 / 1.95 / 166.1",
 					"detail": "last 10 games stats"
 				},
 				{
@@ -6036,7 +6040,7 @@
 				{
 					"label": "win rate",
 					"value": "49.8%",
-					"detail": "3,358 / 6,737 games played · 852h time played"
+					"detail": "3,358 / 6,738 games played · 852h time played"
 				}
 			]
 		},
@@ -6140,7 +6144,7 @@
 				{
 					"label": "current elo",
 					"value": "1,200",
-					"detail": "rank #3,775"
+					"detail": "rank #3,784"
 				},
 				{
 					"label": "all-time best",
