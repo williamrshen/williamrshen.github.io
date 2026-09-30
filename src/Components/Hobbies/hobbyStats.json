@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-09-29T16:12:26.766Z",
+	"updatedAt": "2026-09-30T16:08:48.132Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6009,28 +6009,32 @@
 				{
 					"label": "Sep 28, 2026",
 					"value": 20518
+				},
+				{
+					"label": "Sep 30, 2026",
+					"value": 20584
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,739 global · #106 Canada"
+					"detail": "#1,661 global · #102 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20518",
+					"value": "20584",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "82.8 / 1.95 / 166.1",
+					"value": "87.3 / 2.01 / 172.9",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#402 Canada · #6,431 global"
+					"detail": "#402 Canada · #6,429 global"
 				},
 				{
 					"label": "Blitz PB",
@@ -6040,7 +6044,7 @@
 				{
 					"label": "win rate",
 					"value": "49.8%",
-					"detail": "3,358 / 6,738 games played · 852h time played"
+					"detail": "3,359 / 6,739 games played · 852h time played"
 				}
 			]
 		},
@@ -6138,13 +6142,21 @@
 				{
 					"label": "Sep 24, 2026",
 					"value": 1200
+				},
+				{
+					"label": "Sep 30, 2026",
+					"value": 1179
+				},
+				{
+					"label": "Sep 30, 2026",
+					"value": 1200
 				}
 			],
 			"stats": [
 				{
 					"label": "current elo",
 					"value": "1,200",
-					"detail": "rank #3,784"
+					"detail": "rank #3,791"
 				},
 				{
 					"label": "all-time best",
@@ -6153,7 +6165,7 @@
 				},
 				{
 					"label": "ranked record",
-					"value": "365–336",
+					"value": "366–337",
 					"detail": "52.1% win rate"
 				}
 			]
@@ -6297,12 +6309,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #305 · World #8,750"
+					"detail": "Canada #305 · World #8,762"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #144 · World #3,822"
+					"detail": "Canada #144 · World #3,831"
 				},
 				{
 					"label": "competitions",
