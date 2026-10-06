@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-10-05T18:56:48.847Z",
+	"updatedAt": "2026-10-06T16:21:37.283Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -17,7 +17,9 @@
 		"mcsrMatches": "https://api.mcsrranked.com/users/uselessleaf/matches?count=100&type=2&sort=oldest",
 		"ttcanProfile": "https://ttcan.onrender.com/api/players/30561"
 	},
-	"errors": [],
+	"errors": [
+		"TTCAN: 500 Internal Server Error for https://ttcan.onrender.com/api/players/30561"
+	],
 	"hobbies": [
 		{
 			"id": "tetris",
@@ -6025,38 +6027,46 @@
 				{
 					"label": "Oct 3, 2026",
 					"value": 20306
+				},
+				{
+					"label": "Oct 6, 2026",
+					"value": 20186
+				},
+				{
+					"label": "Oct 6, 2026",
+					"value": 20272
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "SS",
-					"detail": "#1,849 global · #114 Canada"
+					"detail": "#1,867 global · #114 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20306",
+					"value": "20272",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "85.0 / 2.01 / 169.2",
+					"value": "86.4 / 2.03 / 172.2",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#402 Canada · #6,440 global"
+					"detail": "#402 Canada · #6,441 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#144 Canada · #1,961 global"
+					"detail": "#144 Canada · #1,960 global"
 				},
 				{
 					"label": "win rate",
 					"value": "49.8%",
-					"detail": "3,359 / 6,742 games played · 853h time played"
+					"detail": "3,360 / 6,744 games played · 853h time played"
 				}
 			]
 		},
@@ -6186,13 +6196,21 @@
 				{
 					"label": "Oct 1, 2026",
 					"value": 1158
+				},
+				{
+					"label": "Oct 6, 2026",
+					"value": 1178
+				},
+				{
+					"label": "Oct 6, 2026",
+					"value": 1160
 				}
 			],
 			"stats": [
 				{
 					"label": "current elo",
-					"value": "1,158",
-					"detail": "rank #4,620"
+					"value": "1,160",
+					"detail": "rank #4,590"
 				},
 				{
 					"label": "all-time best",
@@ -6201,7 +6219,7 @@
 				},
 				{
 					"label": "ranked record",
-					"value": "368–341",
+					"value": "369–342",
 					"detail": "51.9% win rate"
 				}
 			]
@@ -6330,7 +6348,9 @@
 					"label": "May 5, 2023",
 					"value": 1104
 				}
-			]
+			],
+			"stale": true,
+			"error": "Unable to refresh TTCAN stats."
 		},
 		{
 			"id": "speedcubing",
