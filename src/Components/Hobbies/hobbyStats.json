@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-10-07T17:04:24.064Z",
+	"updatedAt": "2026-10-08T17:04:13.487Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6043,38 +6043,54 @@
 				{
 					"label": "Oct 7, 2026",
 					"value": 20256
+				},
+				{
+					"label": "Oct 7, 2026",
+					"value": 20351
+				},
+				{
+					"label": "Oct 8, 2026",
+					"value": 20409
+				},
+				{
+					"label": "Oct 8, 2026",
+					"value": 20527
+				},
+				{
+					"label": "Oct 8, 2026",
+					"value": 20591
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
-					"value": "SS",
-					"detail": "#1,865 global · #112 Canada"
+					"value": "U",
+					"detail": "#1,641 global · #95 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20256",
+					"value": "20591",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "85.2 / 2.05 / 169.2",
+					"value": "85.2 / 2.03 / 171.6",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#403 Canada · #6,443 global"
+					"detail": "#403 Canada · #6,441 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#145 Canada · #1,963 global"
+					"detail": "#145 Canada · #1,966 global"
 				},
 				{
 					"label": "win rate",
-					"value": "49.8%",
-					"detail": "3,361 / 6,746 games played · 853h time played"
+					"value": "49.9%",
+					"detail": "3,365 / 6,750 games played · 854h time played"
 				}
 			]
 		},
@@ -6226,7 +6242,7 @@
 				{
 					"label": "current elo",
 					"value": "1,201",
-					"detail": "rank #3,899"
+					"detail": "rank #3,913"
 				},
 				{
 					"label": "all-time best",
@@ -6381,12 +6397,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #305 · World #8,800"
+					"detail": "Canada #307 · World #8,819"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #144 · World #3,855"
+					"detail": "Canada #144 · World #3,864"
 				},
 				{
 					"label": "competitions",
