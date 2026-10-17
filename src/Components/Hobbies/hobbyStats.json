@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-10-16T14:23:18.730Z",
+	"updatedAt": "2026-10-17T13:20:39.348Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6141,7 +6141,7 @@
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,462 global · #85 Canada"
+					"detail": "#1,470 global · #84 Canada"
 				},
 				{
 					"label": "TR",
@@ -6354,7 +6354,7 @@
 				{
 					"label": "current elo",
 					"value": "1,157",
-					"detail": "rank #4,871"
+					"detail": "rank #4,881"
 				},
 				{
 					"label": "all-time best",
@@ -6509,12 +6509,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #309 · World #8,843"
+					"detail": "Canada #309 · World #8,847"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #144 · World #3,876"
+					"detail": "Canada #144 · World #3,878"
 				},
 				{
 					"label": "competitions",
