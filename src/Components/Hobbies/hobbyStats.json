@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-10-21T14:44:40.352Z",
+	"updatedAt": "2026-10-22T14:44:33.458Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6175,38 +6175,58 @@
 				{
 					"label": "Oct 20, 2026",
 					"value": 20746
+				},
+				{
+					"label": "Oct 21, 2026",
+					"value": 20830
+				},
+				{
+					"label": "Oct 21, 2026",
+					"value": 20770
+				},
+				{
+					"label": "Oct 21, 2026",
+					"value": 20841
+				},
+				{
+					"label": "Oct 22, 2026",
+					"value": 20781
+				},
+				{
+					"label": "Oct 22, 2026",
+					"value": 20850
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,528 global · #88 Canada"
+					"detail": "#1,457 global · #85 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20746",
+					"value": "20850",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "83.0 / 1.98 / 169.5",
+					"value": "82.6 / 2.07 / 171.5",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#405 Canada · #6,487 global"
+					"detail": "#405 Canada · #6,489 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#145 Canada · #1,968 global"
+					"detail": "#145 Canada · #1,971 global"
 				},
 				{
 					"label": "win rate",
 					"value": "49.9%",
-					"detail": "3,381 / 6,780 games played · 859h time played"
+					"detail": "3,384 / 6,785 games played · 860h time played"
 				}
 			]
 		},
@@ -6392,13 +6412,17 @@
 				{
 					"label": "Oct 17, 2026",
 					"value": 1178
+				},
+				{
+					"label": "Oct 21, 2026",
+					"value": 1198
 				}
 			],
 			"stats": [
 				{
 					"label": "current elo",
-					"value": "1,178",
-					"detail": "rank #4,536"
+					"value": "1,198",
+					"detail": "rank #4,263"
 				},
 				{
 					"label": "all-time best",
@@ -6407,8 +6431,8 @@
 				},
 				{
 					"label": "ranked record",
-					"value": "374–346",
-					"detail": "51.9% win rate"
+					"value": "375–346",
+					"detail": "52.0% win rate"
 				}
 			]
 		},
@@ -6553,12 +6577,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #309 · World #8,869"
+					"detail": "Canada #309 · World #8,871"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #144 · World #3,887"
+					"detail": "Canada #144 · World #3,888"
 				},
 				{
 					"label": "competitions",
