@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-10-27T15:35:55.471Z",
+	"updatedAt": "2026-10-28T16:19:52.882Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6247,38 +6247,42 @@
 				{
 					"label": "Oct 26, 2026",
 					"value": 20847
+				},
+				{
+					"label": "Oct 27, 2026",
+					"value": 20786
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,469 global · #86 Canada"
+					"detail": "#1,510 global · #91 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20847",
+					"value": "20786",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "84.7 / 2.10 / 173.7",
+					"value": "83.5 / 2.11 / 169.0",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#407 Canada · #6,501 global"
+					"detail": "#408 Canada · #6,506 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#145 Canada · #1,976 global"
+					"detail": "#146 Canada · #1,977 global"
 				},
 				{
 					"label": "win rate",
 					"value": "49.9%",
-					"detail": "3,390 / 6,798 games played · 862h time played"
+					"detail": "3,390 / 6,799 games played · 862h time played"
 				}
 			]
 		},
@@ -6512,13 +6516,17 @@
 				{
 					"label": "Oct 27, 2026",
 					"value": 1158
+				},
+				{
+					"label": "Oct 27, 2026",
+					"value": 1137
 				}
 			],
 			"stats": [
 				{
 					"label": "current elo",
-					"value": "1,158",
-					"detail": "rank #5,040"
+					"value": "1,137",
+					"detail": "rank #5,503"
 				},
 				{
 					"label": "all-time best",
@@ -6527,7 +6535,7 @@
 				},
 				{
 					"label": "ranked record",
-					"value": "379–352",
+					"value": "379–353",
 					"detail": "51.8% win rate"
 				}
 			]
@@ -6673,12 +6681,12 @@
 				{
 					"label": "3×3 single",
 					"value": "8.15s",
-					"detail": "Canada #309 · World #8,894"
+					"detail": "Canada #309 · World #8,903"
 				},
 				{
 					"label": "3×3 average",
 					"value": "8.79s",
-					"detail": "Canada #144 · World #3,896"
+					"detail": "Canada #144 · World #3,900"
 				},
 				{
 					"label": "competitions",
