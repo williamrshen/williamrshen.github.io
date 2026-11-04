@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-11-03T17:25:11.072Z",
+	"updatedAt": "2026-11-04T17:38:26.928Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6283,38 +6283,50 @@
 				{
 					"label": "Nov 3, 2026",
 					"value": 20807
+				},
+				{
+					"label": "Nov 3, 2026",
+					"value": 20737
+				},
+				{
+					"label": "Nov 3, 2026",
+					"value": 20671
+				},
+				{
+					"label": "Nov 3, 2026",
+					"value": 20743
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,523 global · #86 Canada"
+					"detail": "#1,559 global · #87 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20807",
+					"value": "20743",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "85.9 / 2.09 / 170.7",
+					"value": "87.7 / 2.08 / 174.1",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#409 Canada · #6,524 global"
+					"detail": "#409 Canada · #6,530 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#146 Canada · #1,978 global"
+					"detail": "#146 Canada · #1,979 global"
 				},
 				{
 					"label": "win rate",
 					"value": "49.9%",
-					"detail": "3,394 / 6,807 games played · 863h time played"
+					"detail": "3,395 / 6,810 games played · 863h time played"
 				}
 			]
 		},
@@ -6574,7 +6586,7 @@
 				{
 					"label": "current elo",
 					"value": "1,176",
-					"detail": "rank #4,772"
+					"detail": "rank #4,792"
 				},
 				{
 					"label": "all-time best",
