@@ -1,5 +1,5 @@
 {
-	"updatedAt": "2026-11-08T16:26:15.178Z",
+	"updatedAt": "2026-11-09T20:15:46.003Z",
 	"ids": {
 		"wca": "2016SHEN13",
 		"mcsr": "uselessleaf",
@@ -6331,38 +6331,50 @@
 				{
 					"label": "Nov 8, 2026",
 					"value": 20715
+				},
+				{
+					"label": "Nov 9, 2026",
+					"value": 20773
+				},
+				{
+					"label": "Nov 9, 2026",
+					"value": 20847
+				},
+				{
+					"label": "Nov 9, 2026",
+					"value": 20782
 				}
 			],
 			"stats": [
 				{
 					"label": "league rank",
 					"value": "U",
-					"detail": "#1,580 global · #89 Canada"
+					"detail": "#1,539 global · #86 Canada"
 				},
 				{
 					"label": "TR",
-					"value": "20715",
+					"value": "20782",
 					"detail": "best rank U"
 				},
 				{
 					"label": "APM / PPS / VS",
-					"value": "89.0 / 2.08 / 173.2",
+					"value": "91.8 / 2.09 / 181.1",
 					"detail": "last 10 games stats"
 				},
 				{
 					"label": "40L PB",
 					"value": "32.950s",
-					"detail": "#409 Canada · #6,534 global"
+					"detail": "#409 Canada · #6,536 global"
 				},
 				{
 					"label": "Blitz PB",
 					"value": "587,087",
-					"detail": "#146 Canada · #1,980 global"
+					"detail": "#146 Canada · #1,979 global"
 				},
 				{
 					"label": "win rate",
-					"value": "49.8%",
-					"detail": "3,399 / 6,819 games played · 865h time played"
+					"value": "49.9%",
+					"detail": "3,401 / 6,822 games played · 865h time played"
 				}
 			]
 		},
@@ -6640,13 +6652,25 @@
 				{
 					"label": "Nov 8, 2026",
 					"value": 1117
+				},
+				{
+					"label": "Nov 8, 2026",
+					"value": 1098
+				},
+				{
+					"label": "Nov 8, 2026",
+					"value": 1117
+				},
+				{
+					"label": "Nov 8, 2026",
+					"value": 1098
 				}
 			],
 			"stats": [
 				{
 					"label": "current elo",
-					"value": "1,117",
-					"detail": "rank #6,141"
+					"value": "1,098",
+					"detail": "rank #6,633"
 				},
 				{
 					"label": "all-time best",
@@ -6655,8 +6679,8 @@
 				},
 				{
 					"label": "ranked record",
-					"value": "383–358",
-					"detail": "51.7% win rate"
+					"value": "384–360",
+					"detail": "51.6% win rate"
 				}
 			]
 		},
